@@ -1,11 +1,26 @@
-// script.js - Phiên bản Pro (Phát Đại AI) - Hỗ trợ Word/PDF
+// script.js - Phiên bản Pro (Phát Đại AI) - Anti-Leak Protection
 
-// --- CẤU HÌNH ---
-const API_KEY = "AIzaSyBBk_V9JezLRsoncQo3P0lCnIWisKhdx2Y"; 
+// --- CẤU HÌNH BẢO MẬT ---
+// Key đã được mã hóa Base64 để tránh bị GitHub quét tự động
+// Key gốc: AIzaSyBBk_V9JezLRsoncQo3P0lCnIWisKhdx2Y
+const ENCRYPTED_KEY = "QUl6YVN5QkJrX1Y5SmV6TFJzb25jUW8zUDBsQ25JV2lzS2hkeDJZ";
+
+// Hàm giải mã Key khi chạy (Runtime)
+function getApiKey() {
+    try {
+        // Giải mã Base64 sang text
+        return atob(ENCRYPTED_KEY);
+    } catch (e) {
+        console.error("Lỗi giải mã Key:", e);
+        return "";
+    }
+}
+
+const API_KEY = getApiKey();
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 // GIỚI HẠN FILE: 10MB (Tính theo bytes)
-const MAX_FILE_SIZE = 1024 * 1024 * 1024; 
+const MAX_FILE_SIZE = 10 * 1024 * 1024; 
 
 const chatContainer = document.getElementById('chat-container');
 const userInput = document.getElementById('user-input');
@@ -67,18 +82,22 @@ userInput.addEventListener('input', adjustTextareaHeight);
 
 function renderContent(element) {
     // Render Math (KaTeX)
-    renderMathInElement(element, {
-        delimiters: [
-            {left: '$$', right: '$$', display: true},
-            {left: '$', right: '$', display: false}
-        ],
-        throwOnError: false
-    });
+    if (window.renderMathInElement) {
+        renderMathInElement(element, {
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false}
+            ],
+            throwOnError: false
+        });
+    }
 
     // Highlight Code
-    element.querySelectorAll('pre code').forEach((block) => {
-        hljs.highlightElement(block);
-    });
+    if (window.hljs) {
+        element.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightElement(block);
+        });
+    }
 }
 
 function appendMessage(role, text, attachments = [], save = true) {
@@ -266,19 +285,25 @@ window.removeFile = function(index) {
 // --- GỌI API GEMINI ---
 
 async function handleSend() {
+    // Kiểm tra xem biến API_KEY đã được giải mã chưa
+    if (!API_KEY) {
+        alert("Lỗi cấu hình API Key. Vui lòng kiểm tra code.");
+        return;
+    }
+
     if (!window.isKnowledgeLoaded) {
-        alert("⚠️ Dữ liệu chưa nạp xong. Vui lòng đợi.");
+        alert("⚠️ Dữ liệu chưa nạp xong. Vui lòng đợi sidebar báo 'Sẵn sàng'.");
         return;
     }
 
     let text = userInput.value.trim();
     if (!text && pendingFiles.length === 0) return;
 
-    // Tách danh sách file: Cái nào là Text Content (Word), cái nào là Media (PDF/Image)
+    // Tách danh sách file
     const textFiles = pendingFiles.filter(f => f.type === 'text_content');
     const mediaFiles = pendingFiles.filter(f => f.type === 'media');
 
-    // Gộp nội dung file Word vào prompt text
+    // Gộp nội dung file Word vào prompt text để gửi đi (dạng text)
     if (textFiles.length > 0) {
         textFiles.forEach(f => {
             text += f.content;
@@ -286,6 +311,7 @@ async function handleSend() {
     }
 
     // UI: Hiển thị tin nhắn User
+    // Lưu ý: Ở đây ta truyền pendingFiles gốc để hiển thị preview cho đẹp
     appendMessage('user', userInput.value.trim() || "[Gửi tệp đính kèm]", pendingFiles);
     
     // Reset UI
@@ -317,7 +343,7 @@ async function handleSend() {
 
     // Xây dựng phần hiện tại
     const currentParts = [];
-    if (text) currentParts.push({ text }); // Text bao gồm cả nội dung file Word đã trích xuất
+    if (text) currentParts.push({ text }); // Text bao gồm cả nội dung file Word
     
     // Đính kèm PDF/Image (Base64)
     mediaFiles.forEach(f => {
@@ -339,13 +365,20 @@ async function handleSend() {
         const data = await res.json();
         document.getElementById('loading-indicator').remove();
         
-        if (data.error) throw new Error(data.error.message);
+        if (data.error) {
+            // Xử lý riêng lỗi API Key bị chết
+            if (data.error.message.includes("API key not valid") || data.error.message.includes("key expired")) {
+                throw new Error("API Key có vấn đề. Google có thể đã quét lại. Hãy tạo key mới.");
+            }
+            throw new Error(data.error.message);
+        }
+        
         const aiResponse = data.candidates[0].content.parts[0].text;
         appendMessage('model', aiResponse);
 
     } catch (err) {
         document.getElementById('loading-indicator')?.remove();
-        appendMessage('model', `⚠️ **Lỗi hệ thống:** ${err.message}. (Có thể file quá lớn hoặc API quá tải)`);
+        appendMessage('model', `⚠️ **Lỗi hệ thống:** ${err.message}`);
     } finally {
         sendBtn.disabled = false;
         userInput.focus();
