@@ -1,54 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body { font-family: 'Inter', sans-serif; }
+
 /* Custom Scrollbar */
-::-webkit-scrollbar {
-    width: 8px;
-}
-::-webkit-scrollbar-track {
-    background: #111827; 
-}
-::-webkit-scrollbar-thumb {
-    background: #374151; 
-    border-radius: 4px;
-}
-::-webkit-scrollbar-thumb:hover {
-    background: #4b5563; 
-}
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #475569; }
 
-/* Markdown Styles bên trong bong bóng chat */
-.prose h1, .prose h2, .prose h3 {
-    color: #e5e7eb;
-    font-weight: bold;
-    margin-top: 1rem;
-    margin-bottom: 0.5rem;
-}
-.prose ul {
-    list-style-type: disc;
-    padding-left: 1.5rem;
-    margin-bottom: 1rem;
-}
-.prose ol {
-    list-style-type: decimal;
-    padding-left: 1.5rem;
-    margin-bottom: 1rem;
-}
-.prose strong {
-    color: #60a5fa; /* Màu xanh nhạt cho điểm nhấn */
-}
-.prose code {
-    background-color: #1f2937;
-    padding: 0.2em 0.4em;
-    border-radius: 0.25rem;
-    font-family: monospace;
-    color: #fca5a5;
-}
+/* Markdown Styles */
+.prose { font-size: 0.95rem; line-height: 1.6; }
+.prose h1, .prose h2, .prose h3 { color: #f8fafc; font-weight: 700; margin-top: 1.2em; margin-bottom: 0.6em; }
+.prose p { margin-bottom: 1em; }
+.prose strong { color: #60a5fa; font-weight: 600; }
+.prose ul { list-style-type: disc; padding-left: 1.2em; margin-bottom: 1em; color: #cbd5e1; }
+.prose ol { list-style-type: decimal; padding-left: 1.2em; margin-bottom: 1em; color: #cbd5e1; }
+.prose code { background: #1e293b; padding: 0.2em 0.4em; border-radius: 0.3em; font-family: monospace; color: #f472b6; border: 1px solid #334155; }
+.prose pre { background: #1e293b; padding: 1em; border-radius: 0.5em; overflow-x: auto; margin-bottom: 1em; border: 1px solid #334155; }
+.prose pre code { background: transparent; padding: 0; color: #e2e8f0; border: none; }
+.prose table { width: 100%; border-collapse: collapse; margin-bottom: 1em; }
+.prose th, .prose td { border: 1px solid #334155; padding: 0.75em; text-align: left; }
+.prose th { background: #1e293b; color: #94a3b8; }
 
-/* Typing Indicator Animation */
-.typing-dot {
-    animation: typing 1.4s infinite ease-in-out both;
+/* Message Animation */
+@keyframes messageSlide {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
 }
+.message-animation { animation: messageSlide 0.3s ease-out forwards; }
+
+/* Typing Dot Animation */
+.typing-dot { animation: typing 1.4s infinite ease-in-out both; }
 .typing-dot:nth-child(1) { animation-delay: -0.32s; }
 .typing-dot:nth-child(2) { animation-delay: -0.16s; }
-
 @keyframes typing {
     0%, 80%, 100% { transform: scale(0); }
     40% { transform: scale(1); }
+}
+
+/* Voice Recording Pulse */
+.recording-pulse { animation: pulse-red 1.5s infinite; color: #ef4444 !important; }
+@keyframes pulse-red {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
 }
