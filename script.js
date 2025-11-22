@@ -1,7 +1,7 @@
 // script.js - Phiên bản Pro (Phát Đại AI) - Hỗ trợ Word/PDF
 
 // --- CẤU HÌNH ---
-const API_KEY = "AIzaSyCkCWIf9Imq75iF7dnxteojeVxEfS018ns"; 
+const API_KEY = "AIzaSyBBk_V9JezLRsoncQo3P0lCnIWisKhdx2Y"; 
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 // GIỚI HẠN FILE: 10MB (Tính theo bytes)

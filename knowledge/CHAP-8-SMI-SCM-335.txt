@@ -1,0 +1,967 @@
+SMART PORT CITIES - 335
+COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management."
+The authorized entity solely permitted to use this material is:
+SouthStar Management Institute (SMi)
+Da Nang, Vietnam.
+This course is designed for the undergraduate level/program.
+Copyright Notice:
+Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:
+Dr. Luis Alfaro
+Director of Ports, Logistics and SCM
+DUY TAN UNIVERSITY
+The SouthStar Management Institute (SMI)
+254 Nguyen Van Linh St., Danang, Vietnam
+T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111
+E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn
+W: http://smi.edu.vn/
+Strategies for Sustainability
+Public Administration and Information Technology 37
+Angela Carpenter
+Rodrigo Lozano Editors
+European Port Cities in Transition
+Moving Towards More Sustainable Sea Transport Hubs
+Elsa Estevez
+Theresa A. Pardo
+Hans Jochen Scholl Editors
+Smart Cities and Smart Governance
+By: Dr. Luis ALFARO
+Springer
+
+SMART PORT CITIES
+CHAPTER 8:
+SECTION 1
+INTERNET OF THINGS (IOT) AND ITS APPLICATIONS
+
+Contents
+1. Introduction to IoT
+2. Definition of IoT
+3. Characteristics of IoT
+4. Physical Design IoT
+5. Logical design of IoT
+6. IoT Enabling Technologies
+7. IoT in Healthcare
+8. IoT in Home/Home Automation
+9. IoT in Environment
+10. Summary
+11. Study Questions & Challenge Questions
+
+1. Introduction To Internet Of Things (IOT)
+The Internet of Things means taking all the things in the world and connecting them to the internet1.
+B
+(Source: https://extreme.com.bd/services/internet-of-things)
+
+Simply put, this is the concept of basically connecting any device with an on and off switch to the Internet (and/or to each other)2. This includes everything from cell phones, coffee makers, washing machines, headphones, lamps, wearable devices and virtually any object for which remote communication, data collection, or control might be useful, such as vehicles, appliances, medical devices, electric grids, transportation infrastructure, manufacturing equipment, or building systems3. This also applies to components of machines, for example, a jet engine of an aeroplane or the drill bit of an oil rig etc4. The IoT is a giant network of connected "things" (which also includes people) as shown in Figure 8.15. The relationship will be between people to people, people to things, and things to things6.
+
+Broadband Internet has become more widely available, the cost of connecting is decreasing, more devices are being created with Wi-Fi capabilities and sensors built into them, technology costs are going down, and smartphone penetration is skyrocketing7. All of these things are creating a "perfect storm" for the IoT8. In other words, the IoT potentially includes huge numbers and kinds of interconnected objects9. It is often considered the next major stage in the evolution of cyberspace10. Some observers believe it might even lead to a world where cyberspace and human space would seem to effectively merge, with unpredictable but potentially momentous societal and cultural impacts11.
+
+Two features make objects part of the IoT: a Unique Identifier and Internet connectivity12. Such "smart" objects each have a unique Internet Protocol (IP) address to identify the object sending and receiving information13. Smart objects can form systems that communicate among themselves, usually in concert with computers, allowing automated and remote control of many independent processes and potentially transforming them into integrated systems14.
+
+Those systems can potentially impact homes and communities, factories and cities, and every sector of the economy, both domestically and globally15. Although the full extent and nature of the IoT's impacts remain uncertain, economic analyses predict that it will contribute trillions of dollars to economic growth over the next decade16. Sectors that may be particularly affected include agriculture, energy, government, health care, manufacturing, and transportation17. The IoT can contribute to more integrated and functional infrastructure, especially in "smart cities," with projected improvements in transportation, utilities, and other municipal services18.
+
+Objectives:
+After studying this unit, you should be able to:
+* Define Internet of Things19.
+* Explain the characteristics of IoT20.
+* Discuss physical 21and logical design of IoT22.
+* Describe various applications of IoT23.
+
+2. Definition Of IoT
+IoT is a ubiquitous network except that all of those electronic devices have access to the Internet24. IoT is the concept created around the idea of full ubiquitous computing, which is the processing of information linked with external activity or objects25. Ubiquitous computing involves connecting electronic devices with microprocessors and sensors to talk to each other26.
+
+The Internet of Things (IoT) is a computing concept that describes the idea of everyday physical objects being connected to the internet and being able to identify themselves to other devices and send and receive data27. The term is closely identified with radio frequency identification (RFID) as the method of communication, although it also may include other sensor technologies, wireless technologies or QR codes28. The IoT is significant because an object that can represent itself digitally, becomes something greater than the object by itself29. No longer does the object relate just to its user, but it is now connected to surrounding objects and database data30. When many objects act in unison, they are known as having "ambient intelligence"31.
+
+3. Characteristics Of IoT
+The IoT is a complex system with a number of characteristics32. Its characteristics vary from one domain to another33. Some of the general and key characteristics identified during the research study are as follows34343434:
+
+3. Characteristics Of IoT
+Intelligence
+IoT comes with the combination of algorithms and computation, software & hardware that makes it smart35. Ambient intelligence in IoT enhances its capabilities which facilitate the things to respond in an intelligent way to a particular situation and supports them in carrying out specific tasks36. Intelligence in IoT is only concerned with means of interaction between devices, while user and device interaction is achieved by standard input methods and graphical user interface37.
+
+3. Characteristics Of IoT
+Connectivity
+In the case of IoT, the most important feature one can consider is connectivity38. Without seamless communication among the interrelated components of the IoT ecosystems (i.e. sensors, compute engines, data hubs, etc.) it is not possible to execute any proper business use case39. IoT devices can be connected over Radio waves, Bluetooth, Wi-Fi, Li-Fi, etc40. We can leverage various protocols of internet connectivity layers in order to maximize efficiency and establish generic connectivity across IoT ecosystems and Industry41. There may be special cases, where the IoT ecosystem is built on-premises or in an intranet42.
+
+3. Characteristics Of IoT
+Connectivity
+Connectivity empowers Internet of Things (IoT) by bringing together everyday objects43. Connectivity of these objects is pivotal because simple object level interactions contribute towards collective intelligence in IoT network44. It enables network accessibility and compatibility in the things45. With this connectivity, new market opportunities for Internet of Things can be created by the networking of smart things and applications46.
+
+3. Characteristics Of IoT
+Dynamic Nature
+The primary activity of Internet of Things is to collect data from its environment, this is achieved with the dynamic changes that take place around the devices47. The state of these devices change dynamically, example sleeping and waking up, connected and/or disconnected as well as the context of devices including temperature, location and speed48. In addition to the state of the device, the number of devices also changes dynamically with a person, place and time49.
+
+3. Characteristics Of IoT
+Enormous scale
+The number of devices that need to be managed and that communicate with each other will be much larger than the devices connected to the current Internet50. The management of data generated from these devices and their interpretation for application purposes becomes more critical51. Gartner (2015) confirms the enormous scale of IoT in the estimated report where it stated that 5.5 million new things will get connected every day and 6.4 billion connected things will be in use worldwide in 2016 (up by 30 percent from 2015)52. The report also forecasts that the number of connected devices will reach 20.8 billion by 202053.
+
+3. Characteristics Of IoT
+Sensing
+IoT wouldn't be possible without sensors which will detect or measure any changes in the environment to generate data that can report on their status or even interact with the environment54. Sensing technologies provide the means to create capabilities that reflect a true awareness of the physical world and the people in it55. The sensing information is simply the analogue input from the physical world, but it can provide the rich understanding of our complex world56.
+
+3. Characteristics Of IoT
+Heterogeneity
+Heterogeneity in Internet of Things is one of the key characteristics57. Devices in IoT are based on different hardware platforms and networks and can interact with other devices or service platforms through different networks58. IoT architecture should support direct network connectivity between heterogeneous networks59. The key design requirements for heterogeneous things and their environments in IoT are scalability, modularity, extensibility and interoperability60.
+
+3. Characteristics Of IoT
+Security
+IoT devices are naturally vulnerable to security threats61. There is a high level of transparency and privacy issues with IoT62. It is important to secure the endpoints, the networks, and the data that is transferred across all of it, which means creating a security paradigm63.
+
+3. Characteristics Of IoT
+Security
+Nearly any physical object can become a part of the IoT if it's connected to the internet to communicate, be controlled, or exchange information64. Anything from a webcam to a smart appliance that could be controlled with a smartphone app is an IoT device65. Even larger objects such as self-driving cars or planes are becoming IoTs, or are at least enhanced by critical IoT components, such as the sensors and actuators mounted on larger ship or jet engines to ensure they are operating efficiently66.
+
+3. Characteristics Of IoT
+Security
+IoT describes a world where just about anything can be connected and communicate in an intelligent fashion67. The IoT has moved far beyond its original emphasis on machine-to-machine (M2M) applications for manufacturing and business, and is now within everyone's reach68. IoTs are growing at a staggeringly fast speed69. There were more than 50 billion IoT devices as of 2020, which are expected to generate 4.4 zettabytes of data, compared to just 100 billion gigabytes in 201370. A 28.7 percent compound annual growth rate is expected in that number through 202571.
+
+3. Characteristics Of IoT
+Security
+IoT devices can gather data from urban and public areas to affect the environment, public safety and resource management72. Eventually, whole factories and even cities will become smart, interconnected pieces of the larger IoT system through the wide spread implementation of regional sensors73. In other words, with the Internet of Things, the physical world is becoming one big information system74.
+
+4. Physical Design Of IoT
+Two features make objects part of the IoT:
+* A Unique Identifier 75 and
+* Internet Connectivity 76
+Such "smart" objects each have a unique Internet Protocol (IP) address to identify the object sending and receiving information77. Smart objects can form systems that communicate among themselves, usually in concert with computers, allowing automated and remote control of many independent processes and potentially transforming them into integrated systems78.
+
+The IoT is not separate from the Internet, but rather, a potentially huge extension and expansion of it79. The "things" that form the basis of the IoT are objects80. They could be virtually anything: streetlights, thermostats, electric meters, fitness trackers, factory equipment, automobiles, unmanned aircraft systems (UASs or Drones), or even cows or sheep in a field81. What makes an object part of the IoT is embedded or attached computer chips or similar components that give the object both a unique identifier and Internet connectivity82. Objects with such components are often called "smart" such as smart meters and smart cars83.
+
+Internet connectivity allows a smart object to communicate with computers and with other smart objects84. Connections of smart objects to the Internet can be wired, such as through Ethernet cables, or wireless, such as via a Wi-Fi or cellular network85. To enable precise communications, each IoT object must be uniquely identifiable86. That is accomplished through an Internet Protocol (IP) address, a number assigned to each Internet connected device87. Those IP addresses ensure that the device or object sending or receiving information is correctly identified88.
+
+What kind of information do IoT objects communicate? The answer depends on the nature of the object, and it can be simple or complex89. For example, a smart thermometer might have only one sensor, used to communicate ambient temperature to a remote weather monitoring centre90. A wireless medical device might, in contrast, use various sensors to communicate a person's body temperature, pulse, blood pressure, and other variables to a medical service provider via a computer or mobile phone91.
+
+Smart objects can also be involved in command networks92. For example, industrial control systems can adjust manufacturing processes based on input from both other IoT objects and human operators93. Network connectivity can permit such operations to be performed in "real-time", that is, almost instantaneously94. Smart objects can form systems that communicate information and commands among themselves, usually in concert with computers they connect to95. This kind of communication enables the use of smart systems in homes, vehicles, factories, and even entire cities96. Smart systems allow for automated and remote control of many processes97.
+
+A smart home can permit remote control of lighting, security, HVAC (heating, ventilating, and air conditioning), and other appliances98. In a smart city, an Intelligent Transportation System (ITS) may permit vehicles to communicate with other vehicles and roadways to determine the fastest route, and traffic signals can be adjusted based on congestion information received from cameras and other sensors99. Buildings might automatically adjust electric usage, based on information sent from remote thermometers and other sensors100.
+
+An Industrial Internet application can permit companies to monitor production systems and adjust processes, remotely control and synchronize machinery operations, track inventory and supply chains, and perform other tasks101. IoT connections and communications can be created across a broad range of objects and networks and can transform previously independent processes into integrated systems102. These integrated systems can potentially have substantial effects on homes and communities, factories and cities, and every sector of the economy103.
+
+5. Logical Design Of IoT
+In an IoT based system there are five phases of IoT lifecycle:
+* Phase 1: Create phase, where devices or sensors collect information from the physical environment around them104. The data from smart connected devices can be used to generate insights that can help businesses, customers and partners105.
+* Phase 2: Communicate phase, where the data and events generated are sent through the network to the desired destination106.
+
+* Phase 3: Aggregate phase, where data collected are aggregated by devices itself107.
+* Phase 4: Analyse phase, where, upon further sophisticated analytics the aggregated data can be used to generate basic patterns, control and optimise processes108.
+* Phase 5: Act phase, where suitable actions are performed based on the information created109.
+
+6. IoT Enabling Technologies
+There are a wide variety of technologies that are associated with the Internet of Things that facilitate its successful functioning110. IoT technologies possess the abovementioned characteristics which create value and support human activities; they further enhance the capabilities of the IoT network by mutual cooperation and becoming part of the total system111.
+There are many examples of what this might look like or what the potential value might be112. Say for example you are on your way to a meeting; your car could have access to your calendar and already know the best route to take113. If the traffic is heavy your car might send a text to the other party notifying them that you will be late114. What if your alarm clock wakes up you at 6 a.m. and then notifies your coffee maker to start brewing coffee for you? 115What if the wearable device you used in the workplace could tell you when and where you were most active and productive and shared that information with other devices that you used while working? 116The IoT can be applied to things like transportation networks117. On a broader scale "smart cities" can help us reduce waste and improve efficiency for things such as energy use; this is helping us understand and improve how we work and live as shown in Figure 8.2118.
+
+Libelium Smart WorldSmart Roads 119Forest Fire Detection 120Water Leakages 121Smartphones Detection 122Wine Quality Enhancing 123Vehicle 124Electromagnetic Levels 125Offspring Care 126Waste Management 127Air Pollution 128Sportsmen Care 129Smart Parking 130Smart Lighting 131Structural Health 132Item Location 133Traffic Congestion 134Quality of Shipment Conditions 135Water Quality 136Intelligent Shopping 137Noise Urban Maps 138Golf Courses 139Figure 1.2: IoT Enabling Technologies
+(Source: 50 sensor applications for a smarter world; https://www.libelium.com/libeliumworld/top_50_iot_sensor_applications_ranking/)
+
+7. IoT In Healthcare
+Remote sensing medical devices have existed for over more than two decades, and telemedicine has already been around for a while140. The underlying technology has evolved141. We have an interconnected network of intelligent devices capable of making decisions, working as groups, and sending information to the cloud - Internet of Things142. IoT is slowly getting traction and evolving alongside the new ultra-fast 5G mobile wireless, Artificial Intelligence (AI), and Big Data143. Combing these powerful technologies with the Internet of Things will likely revolutionize the healthcare industry144.
+
+IoT in healthcare using 5G wireless and AI could, for example, completely transform the way patients are monitored and treated remotely145. IoT will not only help with the patient's health but also improve the productivity of the healthcare industry workers146. IoT in the healthcare industry is a great example of omnipresent computing147. For example, hundreds of intelligent electronic devices can be set up in a hospital to monitor patients' health status 24/7, talk to each other, make decisions, and upload information to a healthcare cloud platform148.
+
+IoT In Healthcare Examples The workable Internet of Things healthcare examples as shown in Figure 8.3, explains how IoT can be used in healthcare effectively:
+* i. Sensing and uploading up-to-date patient information to the cloud in emergency situations, from the ambulance or even from home149.
+* ii. Medical devices capable of performing self-maintenance150. IoT healthcare devices will sense their own components, detect low thresholds, and communicate with medical personnel and manufacturers151.
+* iii. IoT and wearables can help home patients and elderly communicate directly with a healthcare facility152.
+* iv. Telemedicine can be considered a "primitive" form of an Internet of Things in healthcare example153. With IoT, a patient can be observed and in some cases treated remotely through video cameras and other electronic actuators154.
+
+Figure 1.3: IoT Application in Health Care Sector
+(Source: IoT in Healthcare: Benefits, use cases, challenges and future; http://comtech2.com/iot)
+
+In healthcare, these devices can gather different patient data and receive inputs from health practitioners155. An Internet of Things Healthcare example is continuous glucose monitoring for insulin pens that works effectively for patients with diabetes156. All these devices are able to communicate with each other and in some cases take important actions that would provide timely help or even save a life157. For example, an IoT healthcare device can make intelligent decisions like calling the healthcare facility if an elderly person has fallen down158.
+
+After collecting passive data, an IoT healthcare device would send this critical information to the cloud so that doctors can act upon it and view the general patient status, see if calling an ambulance is necessary, what type of help is required, and so on159. Thus, Internet of Things Healthcare can greatly improve not only a patient's health and help in critical situations but also the productivity of health employees and hospital workflows160.
+
+Process of IoT Healthcare Workflow:
+* i. A sensor collects data from a patient or a doctor/nurse inputs data161.
+* ii. An IoT device analyzes the collected data with the help of AI-driven algorithms like machine learning (ML)162.
+* iii. The device makes a decision whether to act or send the information to the cloud163.
+* iv. Doctors, health practitioners, or even robots are enabled to make actionable and informed decisions based on the data provided by the IoT device164.
+
+IoT Devices In Healthcare
+Although not all IoT devices should have a sensor, they at least need to have a radio and a given TCP/IP address to enable communication with the Internet165. As long as a device has access to the Internet, it can be considered an IoT device as shown in Figure 8.4166.
+
+Heart rate
+61
+Today
+Figure 8.4: An IoT Device
+(Source: IoT in Healthcare: Benefits, use cases, challenges and future; http://comtech2.com/iot)
+
+So, every smartphone is an IoT device167. A smartphone with the right set of healthcare apps can help you detect diseases and improve your health168. Some examples of these are skin cancer detection apps that use your camera and AI-driven algorithms to map moles on your skin169. Other examples would be sleep, yoga, fitness, and pill management apps170. Still, a smartphone is a smartphone171. Monitoring healthcare is not its primary application172. A dedicated healthcare IoT device can do significantly more173.
+
+* Smartwatch: Wearables sold at consumer electronics stores come with a sensor and Internet connection174. Some of them (like iWatch Series 4) can even monitor the patient's heart rate, control diabetes, help in speech treatment, aid in improving posture, and detect seizures175.
+* Insulin Pens and Smart CGM (Continuous Glucose Monitoring): These devices can monitor blood glucose levels and send the data to a dedicated smartphone app176. Patients with diabetes can use these devices to track their glucose levels and even send this data to a healthcare facility177.
+
+* Brain Swelling Sensors: These tiny sensors are implanted within the cranium to help brain surgeons keep track of severe brain injuries and avoid further deathly swelling178. They measure pressure on the brain and are able to dissolve by itself in the body without further medical interference179.
+* Ingestible Sensors: Prescribed medication is swallowed with a tiny digestible medical sensor that sends a small signal to a wearable receiver on the patient, which, in turn, sends data to a dedicated smartphone app180. This sensor can help doctors ensure patients take their medication at all times181.
+
+* Smart Video Pills: A smart pill can travel through a patient's intestinal tract and take pictures as it travels182. It can then send the collected information to a wearable device, which in turn would send it to a dedicated smartphone app (or straight to the app)183. Smart pills can also help visualize the gastrointestinal tract and colon remotely184.
+
+Benefits of IoT In Healthcare:
+Remote Patient Monitoring
+In 2020, experts believe we will start to see the introduction of remote patient monitoring (RPM), thanks to hospital at home devices185. This will help monitor chronic conditions and elderly patients to support their in-person care186. Wearable IoT devices can monitor heart rate and blood pressure, sending data in real time to healthcare providers187. In the future we can expect to see the introduction of IoT ingestible devices to provide highly accurate data on patient's insulin levels for diabetics, vitals levels, active infections etc188. They currently face many challenges to ensure ingestible are safe to ingest and can continue functioning without losing charge or breaking within the human body189.
+
+Benefits of IoT In Healthcare:
+Applications for Diagnosis and Treatment
+We have also started to see the incorporation of AI software within hospitals to improve the accuracy of diagnosis190. Google's DeepMind AI software was able to identify breast cancer more accurately than radiologists191. Allowing AI to automate laborious processes, means doctors can focus more on care advice and treatment192. However, the human like qualities that doctors provide; reassurance, care and empathy cannot be replicated by an app193.
+
+Benefits of IoT In Healthcare:
+Telesurgery
+The technology enables expert surgeons to operate from the other side of the world with highly intelligent robotics connected to the internet194. 5G is expected to accelerate the capabilities in telesurgery as it relies on extremely fast internet speed to provide accurate haptic feedback195. If there is even a slight delay in what the remote surgeon can feel via the robot hands, there is a high chance of error196. It is expected to reduce the second latency period from 0.27 to 0.01 seconds! 197
+
+Benefits of IoT In Healthcare:
+Telesurgery
+IoT in the healthcare industry has countless benefits198. However, the most important is that treatment outcomes can be significantly improved or maximized, as the data gathered by IoT healthcare devices is highly accurate, enabling informed decisions199. Health facilities and practitioners will be capable of minimizing errors because all patient information can be measured quickly and sent to a board of doctors or a healthcare cloud platform200. AI-driven algorithms running on these IoT devices could also help make intelligible decisions or suggestions based on existing data201.
+
+8. IoT In Home/Home Automation
+The concept of Home Automation aims to bring the control of operating your everyday home electrical appliances to the tip of finger, thus giving user affordable lighting solutions, better energy conservation with optimum use of energy202. The concept also further extends to have an overall control over your home security as well as to build a centralised home entertainment system and much more203. The Internet of Things (IoT) based Home Automation system, aims to control all the devices of a smart home through internet protocols or cloud based computing204.
+
+The IoT based Home Automation system offers a lot of flexibility over the wired systems205. It comes with various advantages like ease-of-use, ease-of-installation, avoid complexity of running through wires or loose electrical connections, easy fault detection and triggering and above and all it even offers easy mobility206.
+
+Figure 8.5: IoT Home Automation Components
+(Source: Top 10 vulnerabilities that make IoT Devices insecure; https://www.venafi.com/blog/top-10-vulnerabilities-make-iot-devices-insecure)
+
+8. IoT In Home/Home Automation
+Overview:
+* Home automation is constructing automation for a domestic, mentioned as a sensible home or smart house207. In the IoT home automation ecosystem, devices like light, fan, TV, etc. can be controlled as is shown in Figure 8.5208.
+* A domestic automation system can monitor and/or manage home attributes adore lighting, climate, enjoyment systems, and appliances209. It is very helpful to control your home devices210.
+
+8. IoT In Home/Home Automation
+Overview:
+* It's going to in addition incorporates domestic security such as access management and alarm systems211. Once it coupled with the internet, domestic gadgets are a very important constituent of the Internet of Things212.
+* A domestic automation system usually connects controlled devices to a central hub or gateway213.
+* The program for control of the system makes use of both wall-mounted terminals, tablet or desktop computers, a smartphone application, or an online interface that may even be approachable off-site through the Internet214.
+
+8. IoT In Home/Home Automation
+A typical Home Automation System consists of the following:
+* IoT Sensors 215
+* IoT Gateways 216
+* IoT Protocols 217
+* IoT Firmware 218
+* IoT Cloud and Databases 219
+* IoT Middleware (if required) 220
+The smart home components like smart lighting, smart appliances, intrusion detection, smoke/gas detector, etc. are explained below221:
+
+8. IoT In Home/Home Automation
+Smart Lighting
+One example of application of IoT is smart lighting222. Imagine a room that can sense the brightness in a workspace223. On a sunny morning, the building could turn off the overhead lighting in order to save energy224. When the clouds roll in, or the sun begins to set, the building would know to turn on the lights in order to maintain a constant lighting level throughout the day225.
+
+8. IoT In Home/Home Automation
+Smart Lighting
+* Smart lighting for home helps in saving energy by adapting the life to the ambient condition and switching on/off or dimming the light when needed226.
+* Smart lighting solutions for homes achieve energy saving by sensing the human movements and their environments and controlling the lights accordingly227.
+
+8. IoT In Home/Home Automation
+Smart Appliances
+Smart appliances with the management are here and also provide status information to the users remotely228.
+* Smart washer/dryer can be controlled remotely and notify when the washing and drying are complete229.
+* Smart refrigerators can keep track of the item store and send updates to the users when an item is low on stock230.
+
+8. IoT In Home/Home Automation
+Intrusion Detection
+* Home intrusion detection systems use security cameras and sensors to detect intrusion and raise alerts231.
+* Alert can be in the form of an SMS or an email sent to the user232.
+* Advanced systems can even send detailed alerts such as an image shoot or short video clips233.
+
+8. IoT In Home/Home Automation
+Smoke/Gas Detectors
+* Smoke detectors are installed in homes and buildings to detect smoke that is an early sign of Fire234.
+* It uses optical detection, ionization for Air sampling techniques to detect smoke235.
+* Gas detectors can detect the presence of harmful gases such as CO, LPG, etc236.
+* It can raise alerts in the human voice describing where the problem is237.
+
+8. IoT In Home/Home Automation
+Smoke/Gas Detectors
+Hyper-local data is a major upside of IoT sensors238. The advent of increasingly accurate home-based sensors is creating powerful results239. IoT in the smart home context has other environmental implications as well, as the potential to apply commercial style building management strategies to homes becomes increasingly feasible240.
+
+8. IoT In Home/Home Automation
+The potential to cut consumers' utility bills, reduce waste, and improve the environmental footprint of individual homes is a highly attractive prospect241. The integrated solution is being planned is to create a single platform and interface to manage smart home IoT devices, including heating and cooling systems, PV installations, and battery storage or chargers for electric vehicles242. The system will have the ability to determine when people are home or on their way and to adjust the home's temperature accordingly in advance243. Additionally, it will use AI to control energy consumption intelligently by methods such as preferentially using selfgenerated renewable power244. Another interesting possibility is using a combination of EV batteries and PV generation to store power, then release it into the grid when prices are favourable245.
+
+9. IoT In Environment
+Environmental concerns are playing an increasingly significant role in our everyday lives246. Threats such as climate change and rising pollution are becoming more visible247. IoT networks allow us to monitor and combat environment pollution as climate change accelerates248. The IoT Technology can be useful for environmental uses in a number of ways249.
+
+9. IoT In Environment
+Environmental Sensors
+Sensors can get the job done where people cannot250. Deploying sensors to measure elements like air or water quality, radiation, or sensors to detect hazardous chemicals can help track the evolution of the environment251. Inaccessible, polluted or uninhabitable spaces can be accessed without risking the health of technicians252. Parents of infants with breathing problems and asthma affected citizens could also receive precise information in real time253. Workers that need to operate in hazardous conditions (like mines or workplaces exposed to radiation), can benefit from this real time environmental data more than anyone254.
+
+9. IoT In Environment
+Energy Efficiency
+A Boston Consulting Group report determined that ICT-enables climate mitigation strategies could reduce global climate change 16.5% by 2020 compared to current efforts255. No other climate mitigation strategy is expected to be as effective256. These improvements include:
+* Smart Home and Smart Building energy management 257
+* efficient use of home appliances 258
+* smart grid devices 259
+* asset tracking applied to logistics 260
+* smart industrial motors that adapt speed variably 261
+
+9. IoT In Environment
+The applications of IoT in environmental monitoring are broad - environmental protection, extreme weather monitoring, water safety, endangered species protection, commercial farming, and more262. In these applications, sensors detect and measure every type of environmental change263. The Internet of Things is one of the biggest enablers of the green buildings movement264. The ability to capture and analyze previously "dark" data from buildings is giving us deeper insight into energy and resource use, and the ability to control the use of those resources through an intelligent building management system is taking buildings to new levels of sustainability265. Smart buildings around the world are consuming less energy; in fact they are creating their own energy through solar panels and other renewable energy sources, and giving back the energy they don't use266.
+
+9. IoT In Environment
+Siemens' Crystal building has been dubbed one of the most sustainable buildings on the planet, using intelligent design267.
+Air and Water Pollution
+Current monitoring technology for air and water safety primarily uses manual labour along with advanced instruments, and lab processing268. IoT improves on this technology by:
+* reducing the need for human labor 269
+* allowing frequent sampling 270
+* increasing the range of sampling and monitoring 271
+* allowing sophisticated testing onsite 272
+* binding response efforts to detection systems 273
+This allows us to prevent substantial contamination and related disasters274.
+
+9. IoT In Environment
+Air Pollution Monitoring
+Poor air quality costs the global economy $225 billion annually in lost labor income, according to the World Bank275. With global urban areas set to expand by at least 2.5 billion people before 2050, the air pollution issue is only going to intensify276. A project announced in July 2018 is based on IoT based solution approach277. Fixed and mobile pollution sensors were rolled out across London's streets278. 100 fixed sensors were placed in the worst affected areas and sensitive locations279.
+
+9. IoT In Environment
+Air Pollution Monitoring
+Two dedicated Google Street View cars roam the city, providing real-time air pollution data on the move280. The two Google Street View cars take air quality readings every 30 meters with the aim of flagging pollution "hotspots" by analysing data trends over a year's worth of data281. Online maps showing the data in real time give Londoners information on pollution levels at a granular level, enabling people to plan accordingly282. This hyper local pollution sensing has also been tested in Oakland, California and Houston, TX, and features specially tweaked Google Street View cars equipped with a sensor platform that measures black carbon, nitric oxide, and nitrogen dioxide283.
+
+9. IoT In Environment
+Commercial Farming
+Today's sophisticated commercial farms have exploited advanced technology and biotechnology for quite some time, however, IoT introduces more access to deeper automation and analysis284. Smart Farming. Efficient farming has a huge positive impact on the environment285. IoT technology is being used to control crop or greenhouse irrigation through sensors286. Automatic irrigation in Southern California is being deployed as a way to fight the periodic droughts providing water according to the conditions of soil287. Connected drones are also being deployed in farming288. Their spectral on-board sensors help farmers optimise the use of fertilizers and plant protection products besides providing airborne soil condition data to complement soil sensor information289.
+
+The sensors measure moisture at different levels, and send data to the central system290. The system analyzes this data and waters only the crops in need291. A farmer places sensors in his fields292.
+Figure 8.6: IoT Sensor Based Applications in Farming
+(Source: Thereza, Nadia & SAPUTRA, Iwan & HAMDADI, Antonius. (2020). The Design of Monitoring System of Smart Farming Based on IoT Technology to Support Operational Management of Tea Plantation)
+
+9. IoT In Environment
+Much of commercial farming, like weather monitoring, suffers from a lack of precision and requires human labour in the area of monitoring293. Its automation also remains limited294. IoT Sensor based application is shown in Figure 8.6295. IoT allows operations to remove much of the human intervention in system function, farming analysis, and monitoring296. Systems detect changes to crops, soil, environment, and more297. They optimize standard processes through analysis of large, rich data collections298. They also prevent health hazards (e.g., e. coli) from happening and allow better control299.
+
+Weather Monitoring System
+Fig [referring to Figure 8.7 which is not fully labeled]
+(Source: https://ae -system)
+
+9. IoT In Environment
+Weather variables such as wind speed and direction, air temperature, humidity and rainfall may all be important factors in determining the course of a wide range of events300. For example, agriculture has always been heavily dependent on the weather and weather forecasts301. IoT based weather monitoring system is shown in figure 8.7302. Water resources generally depend critically not just upon rainfall, but also other weather phenomenon that together drive plant growth, photosynthesis and evaporation303.
+
+9. IoT In Environment
+Just as pollen and seed dispersal in the atmosphere are driven almost entirely by the weather, so too is the direction and distance of travel of atmospheric pollution304. Weather monitoring is also important not just in defining present climate, but also for detecting changes in climate and providing the data to input into models which enable us to predict future changes in our environment305. Environmental variables which are of interest include solar radiation, wind speed, wind direction, barometric pressure, air temperature, humidity and net radiation306.
+
+9. IoT In Environment
+The demand for these data, usually on an hourly or more frequent timescale, has increasingly been met by the development and widespread deployment of automatic weather stations (AWSs) over the past 30 years or so307. A Weather Monitoring System (WMS) includes several sensors: Temperature Sensors, Humidity Sensors and Barometric sensors308. A Scheduler component is connected to the sensors and triggers the readings309. Report Manager collects the data and on request provides a Report310. The Report is displayed on Screen by Screen Manager311. Finally, History Tracker keeps a log of the historical data provided by Report Manager312. The architecture of WMS is as shown in Figure 8.8313.
+
+[Image showing the architecture of an IoT Based Architecture of a Weather Monitoring System. Left side lists sensors, center shows a smart data logger, and the bottom center shows the PLC/SCADA cloud connecting to user devices.]
+SENSORSSMART DATA LOGGERPLC/SCADAPyranometer 314XTREME(Cloud Icon)Module Temperature 315$\uparrow\downarrow$Anemometer 316USER DEVICES (WEBSITE / APP) 317Ambient Temperature 318Relative Humidity 319Figure 8.8: IoT Based Architecture of Weather Monitoring System
+(Source: https://aeronsystems.com/iot/weather-monitoring-system)
+
+9. IoT In Environment
+Sensors In Weather Monitoring system
+* Pyranometer: The pyranometer measures solar radiation available at the project site320. Its radiance measured is an indicator of the solar energy available for generation321. A minimum of two pyranometers are generally used: one installed at a horizontal level to measure Global Horizontal Irradiance and the second at an inclination (same as the solar panel) for the measurement of Global Tilt Irradiance322.
+* Module Temperature: The energy output from a solar panel depends on its temperature323. Measurement of module temperature is important for the estimation of the plant performance ratio324.
+* Wind Speed and Wind Direction: The wind data is very critical for wind farms because the energy output is dependent on the wind speed325. Wind affects the temperature of the solar modules which in turn affects the energy output326.
+
+9. IoT In Environment
+Sensors In Weather Monitoring system
+* Air Temperature & Humidity: The ambient temperature and humidity affect the heating of the solar panel and thus affects the energy generation327. This data is important for renewable energy plants328.
+* Barometric Pressure: The barometric sensor is used to measure the atmospheric pressure at the location of the solar and wind energy plant329.
+
+9. IoT In Environment
+Sensors In Weather Monitoring system
+* Rain Gauge: The rain gauge measures the rainfall at the project site330. The rainfall data helps in better estimation of the annual energy generation331.
+* Cloud Cover Sensor: The cloud cover sensor measures the cloud height and cloud base332. The presence of the cloud adversely affects the energy generation, so this data helps in better estimation333.
+* Soiling Station: Solar panel's energy output reduces because of the accumulation of the dust on the panel surface334. This loss of energy due to soiling is measured using Soiling Station335.
+* Extreme Weather: Advanced systems currently in use suffer from using broad instruments (such as radar and satellites), rather than more granular solutions336. Their instruments for smaller details lack the same accurate targeting of stronger technology337.
+
+9. IoT In Environment
+Sensors In Weather Monitoring system
+* Soiling Station: New IoT advances promise more fine-grained data, better accuracy, and flexibility338. Effective forecasting requires high detail and flexibility in range, instrument type, and deployment339. This allows early detection and early responses to prevent loss of life and property340.
+* Weather Reporting Bot: Weather forecasting is an application/technology which will predict the condition of an atmosphere for a given location and time341. It would be better if those applications are wrapped in some messenger platform342. This Weather bot will help us look for the weather report to get the Current and Forecast weather details of a location343.
+
+9. IoT In Environment
+Sensors In Weather Monitoring system
+Weather Reporting Bot
+It will provide the following details of the location which are provided:
+* Current Temperature 344
+* Max/Min Temperature 345
+* Humidity 346
+* Wind Speed 347
+
+9. IoT In Environment
+Sensors In Weather Monitoring System
+Weather Reporting Bot
+Open the Weather Bot and start a chat with the Bot to get the Current or Forecast weather details348. Weather Bot will be able to provide the following:
+* Current Weather Report with respect to the Map Location 349
+* Current Weather Report with respect to the City 350
+* Forecast Weather Report with respect to the Map Location 351
+* Forecast Weather Report with respect to the City 352
+
+9. IoT In Environment
+Sensors In Weather Monitoring System
+Forest Fire Detection
+Forest fires (wildfires) are common hazards in forests353. It is possible to detect forest fires, elevated CO2, and temperature levels using Internet of Things (IoT) sensors354. You can deploy IoT, satellite and solar sensors in remote areas without the need for internet, cellular/mobile or mains power355. When forest fires burn, they emit large volumes of carbon dioxide gas (CO2) 356; you can use a network of IoT CO2 and temperature sensors for forest fire detection357. IoT sensors can operate alongside satellite and optical detection systems or form a standalone network of sensors near key strategic assets358.
+
+9. IoT In Environment
+Sensors In Weather Monitoring System
+Forest Fire Detection
+Existing detection methods such as satellite and optical systems can cover large areas 359; satellite systems identify infrared signatures, while optical systems look for smoke plumes360. Despite using these systems, CO2 and temperature IoT sensors can offer an inexpensive alternative to help detect forest fires361.
+Remote IoT Sensor Networks
+CO2 and temperature IoT sensors are battery and solar-powered, using a combination of LoRaWAN and satellite communications to provide coverage even in remote areas362. A LoRaWAN gateway can provide network coverage for up to 15KM outdoors, while satellite backhaul ensures traffic can be sent back to your monitoring system without requiring mobile or internet coverage363.
+
+SUMMARY
+In this unit, we will be discussing about Internet of Things and its applications364. Internet of things means nothing but linking all the devices, vehicles, home appliances, wearable devices, smartphones with internet through mobile app to get and pass the data/information seamlessly365. Internet of things plays a big role in smart cities applications366. Smart Cities are building in India and even everywhere in the world367. There is a big opportunity for IoT and its applications in implementation in the smart cities368. Various IoT technology applications like IoT Healthcare, IoT Home and IoT Environment have been discussed in this unit369.
+
+SMART PORT CITIES
+CHAPTER 8:
+SECTION 2
+INTERNET OF THINGS (IOT) AND ITS APPLICATIONS
+
+Contents
+1. Introduction to IIoT
+2. Definition of IIoT
+3. Why Industrial IoT?
+4. Common Ground of IoT and IIoT
+5. The IoT Landscape
+6. The IoT Technology Stack
+7. Difference between IoT and IIoT
+8. IIoT Technologies and Concepts
+Contents
+9. Physical Design of IIoT 1
+10. Industry 4.0: Automation of Industries 2
+11. IIoT Architecture 3
+12. Internet of Everything 4
+
+Contents
+13. Pillars of The Internet of Everything (IoE) 5
+14. The difference between IoE and IoT 6
+15. The Future? 7
+16. Summary 8
+17. STUDY QUESTIONS & CHALLENGE QUESTIONS 9
+
+1. Introduction to IIoT
+IIoT is the advanced form of IoT and it is used in industrial applications such as agriculture and manufacturing10. The Industrial Internet of Things (IIoT) is the application of the Internet of Things (IoT) in an industrial setting11. IIoT applies smart technology (smart sensors), data collection/storage, and cloud-based analytics connected together using the internet's infrastructure to achieve value-added performance within an industry's enterprise12. In the simplest of words, IIoT can tell an Oil and Gas company how to minimise impending damage and disruption before leakage occurs in a gas pipeline, whereas in IoT, home users are informed when to feed their pets on time13.
+
+1. Introduction to IIoT
+IoT is the interconnection of smart devices that monitor, inform, and enhance personal aspects of everyday life via the internet14. IIoT, in a similar way, builds on the same technology and concepts as IoT to provide the ability to connect businesses, people, machines, data, and devices within an industrial setting specifically targeted to enhance the performance across the manufacturing value chain15. For example, the robotic arm on an assembly line, a thermostat in a freezer delivery truck, or a pump that provides fresh water are all connected providing and sharing data to make informed real-time data driven decisions that better control the process they are part of16.
+
+1. Introduction to IIoT
+IIoT technology can be applied to solve difficult logistic, manufacturing, and supply chain issues that benefit both the manufacturer and consumer17. Leveraging IIoT in an existing enterprise is a mutually beneficial aspect of IIoT implementation and can reduce operational costs while ensuring the highest quality possible in a wide variety of an industry's processes18.
+
+1. Introduction to IIoT
+Objectives:
+After Studying this unit, you should be able to:
+* Define IIOT and IoE19.
+* Explain the differences between IoT, IIoT and IoE20.
+* Describe IIOT Technologies and Concepts21.
+* Discuss the Pillars of IoE22.
+* Know the Industry 4.0: Automation of Industry23.
+
+2. Definition of IIoT
+Industrial Internet of Things (IIoT), is a subcategory of Internet of Things (IoT) that refers to the use of automated, interrelated sensors, devices, and machinery to drive operational efficiency at an industrial scale24. Most IIoT definitions highlight that these systems are characterized by a connection between the cyber and the physical-or information technology (IT) and operational technology (OT)25. The IIoT consists of internet-connected machinery and the advanced analytics platforms that process the data they produce26. IIoT devices range from tiny environmental sensors to complex industrial robots27. While the word "industrial" may call to mind warehouses, shipyards and factory floors, IIoT technologies hold a lot of promise for a diverse range of industries, including agriculture, healthcare, financial services, retail and advertising28.
+
+3. Why Industrial IoT?
+The Internet of Things (IoT) is all over the media with particular attention to the process and manufacturing industries for which the name Industrial Internet of Things (IIoT) is used29. There are also IoT solutions for other application areas like transportation and healthcare etc. but we don't hear about "TIoT" or "HIoT"30. What makes industry so special that it has to be singled out as IIoT? 31IoT is about digitally networking "things" such as sensors and actuators from the very first meter and then securely all the way across the Internet so all their data can be accessed from anywhere including the other side of the world32.
+
+3. Why Industrial IoT?
+For the industry this means 4-20 mA and on-off signals are no longer sufficient, you need digital networking all the way from the sensors and actuators; bus or wireless33. It is when it comes to this sensor & actuator level digital networking where the industry is very different from the other application areas34. The home and office environment are not demanding and the applications are not critical; so Ethernet, Wi-Fi, USB, and Bluetooth work fine35. However, applications in plants boiling petrol (refinery), mixing volatile chemicals, and power generation (ensuring no blackout) are mission critical requiring real-time digital closed loop control36.
+
+3. Why Industrial IoT?
+The outdoor applications on the process itself have challenges such as hazardous areas (explosive atmosphere), rain and seaspray, dust, hot deserts and bitter cold winters, direct sunlight, electrically noisy (switching and frequency control of heavy electrical loads), long distances with huge ground potential differences37. There are other circumstances that make industrial applications challenging38. For instance, the industrial sensors and actuators are handled by people with only big tools in their toolbox, and they must be able to replace these "things" without having to touch system software because their responsibility is instrumentation, so they are not allowed to work on the control system39. The number of sensors in a plant outnumbers those in a home by several orders of magnitude40.
+
+3. Why Industrial IoT?
+Clearly, more sensors and actuators are an industry trend as plants are becoming ever larger to get economy of scale, and the processes are more complex to handle lower grade feed and meet increasingly stringent requirements for a finished product41. Plants are deploying more sensors for:
+* equipment condition monitoring to improve reliability and reduce maintenance cost42.
+* performance monitoring and loss detection to improve energy efficiency43.
+* automate balance manual data collection for productivity44.
+* to meet ever more demanding safety, health, and environmental (HS&E) regulations45.
+
+3. Why Industrial IoT?
+By automating data collection like vibration, temperature, pressure, and fluid levels etc. the plant also enables remote access46:
+* from a plant control room and maintenance office47.
+* from the on-shore integrated operations (iOps) centre48.
+* from a global engineering solutions centre49.
+* by equipment manufacturer, or third-party service provider50.
+For instance, a very fast pressure transmitter with embedded statistical process monitoring (SPM) can detect pump cavitation to notify operators to check for closed valves, and maintenance to check for plugged strainers51. If securely connected across the Internet, the corporate global solutions experts are able to compare the problem to other similar plants, the pump manufacturer for product issues, and a service provider to schedule an overhaul52.
+
+3. Why Industrial IoT?
+For any business that deals with the production and/or transportation of physical goods, IIoT can create game-changing operational efficiencies and present entirely new business models53. The following are examples of ways in which IIoT technology could be applied in diverse industries54:
+* Production: This is the industry in which most IIoT technology is currently being implemented55. IIoT-enabled machines can self-monitor and predict potential problems, meaning less downtime and greater overall efficiency56.
+
+3. Why Industrial IoT?
+* Supply chain: With sensor-managed inventory, IIoT technology could take care of ordering supplies just before they go out of stock57. This decreases the amount of waste produced while keeping necessary goods in stock and frees up employees to focus on other tasks58.
+* Building management: IIoT technology could make building management simpler and more secure59. With sensor-driven climate control, the guesswork and frustration involved in manually changing a building's climate will be eliminated60. Additionally, devices that monitor entry points in the building and respond to potential threats quickly will increase the building's security61.
+
+3. Why Industrial IoT?
+* Healthcare: With devices that monitor patients remotely and notify healthcare providers as soon as patients' statuses change, IIoT could cause healthcare to become more precise and responsive62. Eventually, AI may even be able to take over patients' diagnoses, meaning doctors are able to treat them sooner and more effectively63.
+* Retail: IIoT technology has the potential to make quick, intelligent marketing decisions for individual stores64. With storefronts that automatically update based on consumer interest and the ability to put together smart promotions, retail outlets that implement IIoT technology could gain a significant advantage over their competitors65.
+
+4. Common Ground of IoT and IIoT
+The similarities of IoT and IIoT: Both have the same fundamental layer on top of which they are built66. With IIoT being a subset of the larger IoT, they automatically share common technologies like sensors, cloud platforms, connectivity and analytics67. Another similarity constitutes the domains for which their application is designed, as well as the standards and regulations they have to conform to in order for them to be successful and commercially available68.
+
+5. The IoT Landscape
+Figure 8.2.1: IoT Landscape
+(source: AIOTI WG3 (IoT standardisation) Release 2.7)
+
+5. The IoT Landscape
+The IoT Landscape as shown in the Figure 2.1, summarizes the current situation in the IoT world with respect to the standards and the application domains in which these types of products are used69. The landscape is valid for both IoT and IIoT products70. Both of them are used in various applications which extend from home automation up to farming and agriculture vertically71. On the horizontal, we can find common telecommunication technologies that are used in all the presented application domains72. As we can infer from the figure, the application domains are densely populated by several SDOs (standard developing organizations) and industrial or public alliances73.
+
+6. The IoT Technology Stack
+[Diagram titled "The IoT Technology Stack" showing a linear progression of six components connected by directional arrows:]
+Device Hardware $\leftrightarrow$ Device Software $\leftrightarrow$ Communications $\leftrightarrow$ Cloud Platform $\leftrightarrow$ Cloud Data $\leftrightarrow$ Cloud Applications
+(Source: IIoT World, https://www.iiot-world.com/industrial-iot/connected-industry/iot-vs-iiot)
+
+6. The IoT Technology Stack
+The technology basis for any IoT application - whether intended for the consumer or for the industry - is the same, and can be abstracted as shown in Figure 8.2.274. Therefore, building a product from scratch and calling it an IoT product requires expertise in six different domains75:
+* Device Hardware 76
+* Device Software 77
+* Communications 78
+* Cloud Platform 79
+* Cloud Data 80
+* Cloud Application 81
+
+6. The IoT Technology Stack
+Device Hardware
+When we imagine an IoT product, a physical device is automatically brought to mind82. This can vary from the extremely simple, say an electronic device sporting some colourful LEDs, to the highly complex, like a device sensing different physical properties and engaging in so-called edge computing83. The main requirement when building such products is to incorporate communication technology that allows the device to communicate with other devices or to be connected to the internet84.
+
+6. The IoT Technology Stack
+Device Software
+The software component of any microcontroller-based hardware is called firmware85. The firmware is the piece of logic any IoT product needs to operate and perform the desired workload86.
+Communications
+The communication is usually realised by connecting to other devices and ultimately to a master gateway, or by connecting directly to the internet using different technologies such as Bluetooth, WiFi or any other standard communication protocol87.
+
+6. The IoT Technology Stack
+Cloud Platform
+Any IoT product requires a backend solution where the data is collected, filtered and processed88. These are provided by a cloud platform89.
+Cloud Data
+This component is theoretically optional in an IoT application; nonetheless, most of the products today incorporate an intelligence for differentiating from other products90. Usually, this is perceived as being the most valuable asset of any modern IoT product 91; therefore, expertise in areas like Machine Learning and Data Science are highly required92.
+
+6. The IoT Technology Stack
+Cloud Applications
+Just as with Cloud Data, this component is optional, as not all IoT applications offer a GUI-based visualization to the customer93. In case this is required, the cloud application must be capable of showing the data collected from the device hardware in the form of a mobile or web application94.
+
+7. Difference Between IoT and IIoT
+The Industrial Internet of Things (IIoT) is a subcategory of the Internet of Things (IoT), which also includes consumer-facing applications such as wearable devices, smart home technology and self-driving cars95. Sensor embedded devices, machines and infrastructure that transmit data via the Internet and are managed by software are the hallmark of both concepts96. IoT is the interconnection of smart devices that monitor, inform, and enhance personal aspects of everyday life via the internet97. IIoT, in a similar way, builds on the same technology and concepts as IoT to provide the ability to connect businesses, people, machines, data, and devices within an industrial setting specifically targeted to enhance the performance across the manufacturing value chain98.
+
+7. Difference Between IoT and IIoT
+The key difference is that IIoT focuses on connecting machines and devices in industries like manufacturing, healthcare, and logistics, while IoT is generally used to describe consumer level devices like Fitbits and the whole range of smart home devices from ring video doorbells to thermostats and refrigerators99. Besides the business versus consumer distinction, IIoT comes with much higher stakes than IoT due to its massive scale100. When an IIoT system fails, downtime can result in life-threatening situations or major financial losses101.
+
+7. Difference Between IoT and IIoT
+While personal IoT devices do come with privacy concerns and bring up issues about data collection and consent, it's unlikely that failure could result in a true emergency situation102. The main differences between the IoT and IIoT application domains are highlighted and also shown in the Figure 8.2.3103. The term IoT, Internet of Things, is often used to refer to ubiquitous, consumer-oriented IoT products104. The IIoT, on the other hand, stands for Industrial Internet of Things, and is a subset of the larger IoT, focusing on the specialised requirements of industrial applications such as manufacturing, oil and gas, and utilities105.
+
+7. Difference Between IoT and IIoT
+[Diagram illustrating the distinction between Industrial and Consumer Internet of Things, both connected via a cloud network labeled "Network Connectivity Powered by Software."]
+INDUSTRIAL Internet of ThingsCONSUMER Internet of ThingsHeavy MachineryWearablesTransportationPhonesSmart CitiesTVAutomationAppliancesFactoriesHome MonitoringHealthcareHome AutomationFigure 2.3: IIOT and IoT connected through Cloud Network
+(Source: IIoT World, https://www.iiot-world.com/industrial-iot/connected-industry/iot-vs-iiot)
+
+7. Difference Between IoT and IIoT
+IIoT is a collective term that describes the connection of machines and production plants106.
+The parameters that differentiate the IoT from the industrial IoT include107:
+* Security 108
+* Interoperability 109
+* Scalability 110
+* Precision 111
+* Programmability 112
+* Low Latency 113
+* Reliability 114
+* Resilience 115
+* Automation 116
+* Serviceability 117
+
+7. Difference Between IoT and IIoT
+Security
+Any kind of IoT solution requires security, but industrial IoT solutions require more robust measures118. Resolving security on a merely superficial level can have a disastrous outcome for a high-volume manufacturing process, resulting in lost production costing huge amounts of money119. Another outcome of incorrect action in the control process can put the system into an unstable and unsafe condition120. Therefore, IIoT solutions incorporate sophisticated security measures, from secure and resilient system architectures, specialised chipsets, encryption and authentication threat detection to management processes121.
+
+7. Difference Between IoT and IIoT
+Security
+On the other side, operation safety is not necessarily an issue in an IoT ecosystem as these systems do not handle industrial processes122. Therefore, no serious safety incident can happen if a wrong decision is made123.
+Interoperability: The IoT Interoperability Permutations is as shown in Figure 8.2.4124. Usually, industrial IoT applications must co-exist in environments with significant amounts of legacy operations technologies (OT)125. These legacy OT don't go away so fast; therefore, industrial IoT solutions must integrate, support various protocols and data sets, and work reliably with these systems126.
+
+7. Difference Between IoT and IIoT
+[Diagram illustrating IoT Interoperability Permutations with two conceptual stacks (App#1/MP#1/Sensor#1/Actuator#1 and App#2/MP#2/Gateway#2/Sensor#2). Arrows show different interoperability types: Over-the-Top (App to App), Platform-enabled (horizontal and vertical), and Vendor Interoperability (Sensor#1 from Vendor A vs. Vendor B).]
+IoT Interoperability Permutations
+* Application (App#1) $\leftrightarrow$ Middleware Platform (MP#1) $\leftrightarrow$ Sensor#1 (vendor A) $\leftrightarrow$ Actuator#1
+* Application (App#2) $\leftrightarrow$ Middleware Platform (MP#2) $\leftrightarrow$ Gateway#2 $\leftrightarrow$ Sensor#2
+* Interoperability Types:
+o Over-the-Top Interoperability (App#1 $\leftrightarrow$ App#2) 127
+o Platform-enabled Interoperability (horizonal) (MP#1 $\leftrightarrow$ MP#2) 128
+o Platform-enabled Interoperability (vertical) (MP#1 $\leftrightarrow$ Sensor#1/Actuator#1) 129
+o Vendor Interoperability (Sensor#1 from Vendor A vs. Sensor#1 from Vendor B) 130
+Figure 8.2.4: IoT Interoperability Permutations
+(Source: IIoT World, https://www.iiot-world.com/industrial-iot/connected-industry/iot-vs-iiot)
+
+7. Difference Between IoT and IIoT
+Scalability
+The term industrial suggests large-scale networks supporting a high amount of devices in the order of tens of thousands (or more)131. These devices can be controllers, robots or large machinery and IoT solutions deployed into these networks must scale seamlessly and support hundreds of thousands of sensors and devices as well as existing non-IoT devices132.
+Precision
+Industrial operations require higher levels of accuracy133. Automated, highspeed machinery is synchronized to a matter of milliseconds134. Therefore, the quality must be assured for such systems135.
+
+7. Difference Between IoT and IIoT
+Precision
+Any small variation in the operation of such high-volume manufacturing processes must be corrected right away136. Otherwise, this can result in lost efficiency and downtimes which can affect the revenue considerably137.
+Programmability
+The programming and reconfiguration of industrial machines is frequently performed138. This can be done remotely, on site or in the field and the industrial IoT solutions supporting industrial and manufacturing processes must provide reliable flexibility and adaptability139.
+
+7. Difference Between IoT and IIoT
+Low Latency
+Complementary to precision and accuracy is the requirement for low latency in industrial applications140. Anomalies must be quickly detected and corrective actions must be applied in near-real time141.
+Reliability
+Industrial products are usually designed to operate for twenty to thirty years before a scale replacement is performed142. With these strict requirements, like operating in harsh environments, sometimes subject to extreme cold, heat, high vibration, pressure and hazardous conditions, the IIoT applications must assure reliable operability and high availability143.
+
+7. Difference Between IoT and IIoT
+Reliability
+A wrong action can put people's lives at risk144. The "Reliability" aspect is part of the SRP triad: Safety, Reliability and Productivity145.
+Resilience
+The Resilience Model in Four Acts is shown in the Figure 8.2.6146. Breakdowns in one part of the system are not unusual in such highly scaled industrial applications 147; therefore, the applications must be designed with resilience in mind148. To compensate for such faults in the system, the IoT system architectures must be designed to always satisfactorily complete their processes and operations149.
+
+7. Difference Between IoT and IIoT
+[Diagram illustrating the concept of Resilience, with Resilience at the center surrounded by five bubbles: Safety, Reliability, Dependability, Trustability, and Security. Below the circle, a process flow shows "Resilience in Four Acts": Model $\to$ Architect $\to$ Design $\to$ Engineer.]
+* Resilience Components: Safety, Reliability, Dependability, Security, Trustability 150150150150
+* Resilience in Four Acts: Model $\to$ Architect $\to$ Design $\to$ Engineer 151
+Figure 8.2.6: Resilience Model
+(Source: IIoT World, https://www.iiot-world.com/industrial-iot/connected-industry/iot-vs-iiot)
+
+7. Difference Between IoT and IIoT
+Automation
+The evolution of convergence process of IT and automation is shown in the Figure 8.2.8152. Most of the industrial applications are highly automated from the bottom to the top, with limited or absolutely no human intervention153. Such IoT solutions are required to support a range of autonomous actions154. In order to ensure this, applications do incorporate intelligence into the edge devices, or deep learning capabilities in the system design155.
+
+7. Difference Between IoT and IIoT
+[Timeline and architectural diagram illustrating the "Convergence of IT and automation."]
+Convergence of IT and automation
+Industrial AutomationIT Components (Timeline)Today (5-layer architecture)Future1970sMainframe1980/90sERP, Internet, ERP modules, MES, etc.2000sIntegrated architecture, Fieldbus protocols, TCP/IPTodayERP, MES, SCADA, PLC, I/OIndustrial Internet of Things (?)Direct digital control 156Remote I/O 157Logical Controller Robotics 158* ERP: Enterprise Resource Planning 159
+* MES: Manufacturing Execution System 160
+* SCADA: Supervisory Control and Data Acquisition 161
+* PLC: Programmable Logic Control 162
+* I/O: Input/Output signals 163
+Figure 8.2.8: Convergence of IT and Automation
+(Source: IIoT World, https://www.iiot-world.com/industrial-iot/connected-industry/iot-vs-iiot)
+
+7. Difference Between IoT and IIoT
+Serviceability
+IoT solutions operating in industrial environments must be serviceable in order to sustain the levels of performance required164. This can extend from swapping out sensors and updating firmware to configuring gateways and servers - the ability to maintain industrial IoT solutions over their entire lifecycle is an essential requirement165. While building industrial IoT products, one has to focus on the real needs and values of a properly designed cloud data-based architecture with a special focus on the safety, reliability and productivity aspects166. The difference between IIOT and IoT is shown in Table 8.2.1167.
+
+7. Difference Between IoT and IIoT
+Table 8.2.1: The Difference between IIOT and IOT
+S.No.IIOTIOT1.It focuses on industrial applications such as manufacturing, power plants, oil & gas, etc. 168It focuses on general applications ranging from wearables to robots & machines. 1692.It uses critical equipment & devices connected over a network which will cause a life-threatening or other emergency situations on failure therefore uses more sensitive and precise sensors. 170Its implementation starts with small scale level so there is no need to worry about life-threatening situations. 1713.It deals with large scale networks. 172It deals with small scale networks. 1734.It can be programmed remotely i.e., offers remote on-site programming. 174It offers easy off-site programming. 1755.It handles data ranging from medium to high. 176It handles very high volume of data. 1776.It requires robust security to protect the data. 178It requires identity and privacy. 1797.It needs stringent requirements. 180It needs moderate requirements. 1818.It having very long life cycle. 182It having short product life cycle. 1839.It has high-reliability. 184It is less reliable. 185
+8. IIoT Technologies and Concepts
+IIoT technology can be applied to solve difficult logistic, manufacturing, and supply chain issues that benefit both the manufacturer and consumer186. Leveraging IIoT in an existing enterprise is a mutually beneficial aspect of IIoT implementation and can reduce operational costs while ensuring the highest quality possible in a wide variety of an industry's processes187.
+
+8. IIoT Technologies and Concepts
+The following are a few examples of current and upcoming IIoT technologies and concepts188:
+* Digital Twins - The practice of creating a computer model of an object such as a machine or a human organ or a process like weather189. By studying the behaviour of the twin, it is possible to understand and predict the behaviour of the real-world counterpart and address problems before they occur190.
+
+8. IIoT Technologies and Concepts
+* Electronic Logging Device (ELD) - On board sensors that monitor speed, driving time and how often individual drivers use their brakes, helping to conserve fuel, improve driver safety and reduce idle resources191. If the driver makes a dangerous manoeuvre or is at the wheel for too long, the driver is alerted and the dispatcher is notified192. This technology can replace the paper logs that drivers were once required to fill out every day193.
+* Intelligent Edge - The place at which data is generated, analysed, interpreted and addressed194. Using the intelligent edge means analysis can be conducted more quickly and the likelihood that the data will be intercepted or otherwise breached is significantly decreased195.
+
+8. IIoT Technologies and Concepts
+* Predictive Maintenance - A system that involves a machine or component with sensors that collect and transmit data and then analyse that data and store it in a database196. This database then provides points of comparison for events as they occur197. The system eliminates unnecessary maintenance and increases the likelihood of avoiding failure198.
+* Radio-Frequency Identification (RFID) - A system that involves tags and readers, like a smarter version of barcode technology199. Readers identify RFID tags using radio waves, meaning the tags can be read by multiple readers at once and over a longer distance than traditional UPCs200. RFID tags make it possible to easily track and monitor the things on which they are attached201.
+
+9. Physical Design of IIoT
+There are four parts to applying IIoT technology to industry 202: Before a process, plant, system, or enterprise can qualify to be part of the Industrial Internet of Things (IIoT), it must fit into four categories203.
+* Interconnection 204
+o The first category is interconnection205. There must be interconnection between sensors/algorithms and the operators themselves206.
+o This means there must be a human-machine interface (HMI) or a supervisory control and data acquisition (SCADA) system in place that monitors and allows the operators to interact with the process or equipment207.
+o This interaction can range from simply monitoring and recording values to complete control and decision-making for the process208.
+
+9. Physical Design of IIoT
+* Normalization 209
+o The second category is the normalization of data, meaning the reorganization of data into something that models the process from where the data is being acquired210.
+o For example, monitoring a trend on an HMI to understand the performance of a system over time211.
+o This data could even be coming raw from the sensor/algorithm directly to the operator212.
+* Data Analysis 213
+o The analysis of data is the third category214. The systems must be able to assist in decision-making and keep the operators safe from tasks that may not be safe215.
+
+9. Physical Design of IIoT
+* Data Analysis
+o The industries that require automation/smart factories can be dangerous and require extreme safety216.
+o The introduction of an automated process, controlled remotely, can increase the safety of the operators and remove them from a dangerous position217.
+* Systems Automation 218
+o Lastly, the systems must become self-reliant over time219. This will come from their data acquisitions and established protocols so that the operation can work smarter220.
+o A more reliable and automated system makes for a more productive process221.
+
+10. Industry 4.0: Automation of Industries
+[Image showing a blue silhouette of an automated factory floor with robotic arms working on a conveyor belt, and a human worker in the background.]
+Figure 8.2.10: Industry 4.0 or Smart Manufacturing
+(Source: Automation World, https://www.automationworld.com/downloads)
+
+10. Industry 4.0: Automation of Industries
+Industrial Internet of Things (IIoT), Industry 4.0 and smart manufacturing all refer to using digital solutions - such as automation and big data - in physical production and operations spaces222. Over the last 400 years, the manufacturing industry has gone through a few key overhauls223. The First, Second and Third Industrial Revolutions brought changes like steam, electricity and assembly lines, and even computers224. We're now in the fourth wave (hence, 4.0), and this transformation is all about harnessing the power of real-time, interconnected data and Robots and lots of Robots225.
+
+10. Industry 4.0: Automation of Industries
+While adopting new technology can be overwhelming, the benefits are real and exponential226. IIoT empowers us to227:
+* collaborate better228,
+* create time and cost efficiencies229,
+* automate repetitive tasks230,
+* optimize our supply chain231,
+* attract younger talent232,
+* improve safety233.
+Essentially, you can understand your operation better so that we can make decisions using all of the information available-all in real-time, of course234. In order to understand the IIoT eco-system, it is pertinent to understand the critical components of IIoT as explained235:
+
+10. Industry 4.0: Automation of Industries
+* Artificial intelligence (AI) - AI is a broad concept where machines carry out tasks in a way that we would consider "smart," such as identifying and predicting faults typically with the ability to learn more behaviours the more you use it236. Common examples in business include speech recognition, autonomous machinery, digital assistants237. Machine learning is a specific type of AI that requires less human involvement238.
+* Machine learning - Machine learning is a specific application of AI based on the idea that we should just be able to give machines access to data and let them learn for themselves - aka, subtract the human component239.
+
+10. Industry 4.0: Automation of Industries
+Machine learning - Within the field of machine learning, there are two main types of tasks240:
+* Supervised learning - This is done using a ground truth, meaning you have prior knowledge of what the output values should be241. Therefore, the goal of supervised learning, given a sample of data and desired outputs, is to best approximate the relationship between the input and output observable in the data242.
+* Unsupervised learning - This type of machine learning does not have labelled outputs, so its goal is to infer the natural structure present within a set of data points243.
+
+10. Industry 4.0: Automation of Industries
+* Automation - Automation simply means enabling technology (robots, software, etc.) to perform the repetitive tasks that your people are spending time on244. Automation can improve productivity, accuracy, safety and more245.
+* Business intelligence - Big data isn't that helpful if you don't have a way to use it246. Business intelligence offers a system that allows you to quickly access and understand data so that you can use it to make business decisions247. It typically requires a data warehouse, analytics engine and other tools248.
+
+10. Industry 4.0: Automation of Industries
+* Cloud computing - With all that awesome data, you need somewhere to put it, right? 249Cloud computing simply refers to storing your data on a network of remote servers hosted on the internet rather on your hard drive250. It allows you access to these resources from any location251.
+* Cyber-physical system (CPS) - A CPS is a manufacturing operation that's equipped to collect, analyze, use and share real-time data across all areas of the business252. It's similar to the ecosystem (see below)253.
+
+10. Industry 4.0: Automation of Industries
+* Ecosystem - An ecosystem is an operation where different software systems are connected, such as inventory, maintenance, financials, customer relationship management (CRM) and more254.
+* Enterprise asset management (EAM) - An EAM is a platform that allows you to collect, analyze and use asset data to extend equipment life255. It aggregates condition data to help you better plan maintenance tasks and priorities256.
+
+10. Industry 4.0: Automation of Industries
+* M2M - This is an abbreviation for "machine to machine." 257It's the term for when your equipment has the ability to "talk" to other equipment, often via IoT sensors although this communication can be wired or wireless258.
+* Predictive analytics - Predictive analytics is an advanced analytics model that uses current and historical data to make predictions about future events259. By finding patterns in your data, predictive analytics can help with risk assessment, inventory management, forecasting and more260.
+* System integration - System integration is the process of connecting your different software sub-systems (think work order systems, inventory management, accounting, etc.) so that they can work together like one unified system261.
+
+11. IIoT Architecture
+[Diagram illustrating the multi-layered architecture of IIoT as a stack.]
+LayerComponentTopAnalytics Apps 262Middleware 263Cloud VM 264Backhaul Network 265Cyber Security 266Backbone Network 267Gateway / Linking Device 268Digital Sensor Network 269BottomDigital Sensors 270Connected to bottom:Things 271A diagrammatic representation of the multi-layered architecture of IIoT is shown in Figure 8.2.11272.
+(Source: IIoT Architecture: Standards at every level lets you change wherever by Jonas Berge, https://www.linkedin.com/pulse/iiot-architecture-standards-every-level-lets-you-change-jonas-berge)
+
+11. IIoT Architecture
+IIoT spans from Instrumentation & Control (I&C), also known as OT, to Information Technology (IT)273. Any plant can digitally transform to enjoy the reliability and energy efficiency advantages long-term with minimal burden on the persons responsible for the system274. Choosing the right technologies for the architecture is critical for the long term viability of the IIoT system275. A complex system becomes simpler if it is broken down into modules or layers276. The layered approach enables any one layer to be switched as technology evolves, without having to change all the layers in the architecture because standards decouple the layers277.
+
+11. IIoT Architecture
+For instance, you can change backhaul from cellular/mobile to broadband, change cloud provider, change middleware, change firewall to data diode, and you can mix fieldbus with wireless sensor networks and so on278. By building the IIoT architecture on standards it is possible to switch IIoT-enabled connected services from in-house monitoring to outsourced or vice versa as shown in the Figure 2.12279.
+
+11. IIoT Architecture
+[Diagram showing three columns: On-Prem, In-House, and Outsourced Connected Service. All columns show plant infrastructure. On-Prem shows data flow from the plant to local dashboards. In-House shows multiple plants sending data to a cloud, which then feeds local dashboards. Outsourced Connected Service shows multiple plants sending data to a cloud, which then feeds outsourced dashboards.]
+On-PremIn-HouseOutsourced Connected Service[Plant $\to$ Local Dashboards] 280[Multiple Plants $\to$ Cloud $\to$ Local Dashboards] 281[Multiple Plants $\to$ Cloud $\to$ Outsourced Dashboards] 282Figure 8.2.11: IIoT Enabled Connected Services
+(Source: IIoT Architecture: Standards at every level lets you change wherever by Jonas Berge, https://www.linkedin.com/pulse/iiot-architecture-standards-every-level-lets-you-change-jonas-berge)
+
+11. IIoT Architecture
+IIoT spans from Instrumentation & Control (I&C), also known as OT, to Information Technology (IT)283. Any plant can digitally transform to enjoy the reliability and energy efficiency advantages long-term with minimal burden on the persons responsible for the system284. Choosing the right technologies for the architecture is critical for the long term viability of the IIoT system285. A complex system becomes simpler if it is broken down into modules or layers286. The layered approach enables any one layer to be switched as technology evolves, without having to change all the layers in the architecture because standards decouple the layers287.
+
+11. IIoT Architecture
+For instance, you can change backhaul from cellular/mobile to broadband, change cloud provider, change middleware, change firewall to data diode, and you can mix fieldbus with wireless sensor networks and so on288. By building the IIoT architecture on standards it is possible to switch IIoT-enabled connected services from in-house monitoring to outsourced or vice versa as shown in the Figure 8.2.12289.
+
+11. IIoT Architecture
+[Diagram showing three columns: On-Prem, In-House, and Outsourced Connected Service. All columns show plant infrastructure. On-Prem shows data flow from the plant to local dashboards. In-House shows multiple plants sending data to a cloud, which then feeds local dashboards. Outsourced Connected Service shows multiple plants sending data to a cloud, which then feeds outsourced dashboards.]
+On-Prem In-House Outsourced Connected Service [Plant $\to$ Local Dashboards][Multiple Plants $\to$ Cloud $\to$ Local Dashboards][Multiple Plants $\to$ Cloud $\to$ Outsourced Dashboards]Figure 8.2.11: IIoT Enabled Connected Services
+(Source: IIoT Architecture: Standards at every level lets you change wherever by Jonas Berge, https://www.linkedin.com/pulse/iiot-architecture-standards-every-level-lets-you-change-jonas-berge)
+
+11. IIoT Architecture
+Things and Digital Sensors:
+The "things" in the Industrial Internet of Things (IIoT) are the equipment like compressors, pumps, heat exchangers, cooling towers, blowers, air cooled heat exchangers, control valves, intelligent on-off valves, relief valve, steam traps, and other equipment found around the plant293. Plants already have thousands of sensors connected to the control system, but those are primarily focused on process monitoring and control294. Therefore, many additional sensors are required to cover the missing measurements for monitoring the equipment themselves295.
+
+11. IIoT Architecture
+Things and Digital Sensors:
+This equipment needs to be instrumented with sensors to enable them to be monitored remotely, permanent sensing around the clock, for condition monitoring and performance monitoring ensuring plant availability and energy efficiency296. These digital sensors include pressure, temperature, level, flow, acoustics, corrosion, vibration, pH, conductivity, position, electric power, H2S gas, and hydrocarbon leakage etc. as shown in the Figure 8.2.13297.
+
+11. IIoT Architecture
+[Diagram illustrating a pump/compressor and a vessel (Things) instrumented with various sensors (Digital Sensors), labeled with letters such as T, V, M, P, L, DP. DP: Differential Pressure, P: Pressure, T: Temperature, V: Vibration, L: Level, M: Motor.]
+Figure 2.13: Things and Digital Sensors
+(Source: IIoT Architecture: Standards at every level lets you change wherever by Jonas Berge, https://www.linkedin.com/pulse/iiot-architecture-standards-every-level-lets-you-change-jonas-berge)
+
+11. IIoT Architecture
+With hundreds or thousands of pieces of equipment in the plant to be monitored, this can translate into many hundreds or thousands of sensors; often referred to as Pervasive Sensing298. Hardwiring each sensor signal point to point would require an inordinate amount of wiring and I/O cards299. Therefore, these applications lend themselves very well to digital networking; bus or wireless300. Because there will be thousands of these sensors in the plant it is critical to select high quality industrial grade sensors that will last trouble-free and maintenance free for many years301. The sensors touch the equipment and process; its where cyber meets physical: cyber-physical systems302.
+
+11. IIoT Architecture
+High quality industrial grade sensors will not cost $10 each because they are built to with stand corrosive and abrasive fluids, extremely high pressures and vacuum, high to cryogenic temperatures, vibration, EMI, RFI, water and dust ingress, and are suitable for hazardous areas etc. 303Good sensors are critical to run and maintain the IIoT system itself304. An advantage of standards like Wireless HART, FOUNDATION fieldbus, FF-HSE, and Modbus etc. is that multiple vendors of gateways support these standards305. It is possible to expand the IIoT system with gateways from another vendor without having to make major changes or completely replace the upper layers of the architecture306.
+
+11. IIoT Architecture
+Backbone Network:
+The backbone network connects the gateways similar to a control system control network307. Ethernet and UDP/TCP/IP is used as media and transport for the backbone network308. Many industrial Ethernet application protocols exist309. To preserve the richness of the sensor data, preserve the application protocol for the backbone networking using the industrial Ethernet application protocol standard corresponding to the fieldbus protocol standard used for the sensor network310:
+
+11. IIoT Architecture
+Backbone Network:
+FieldbusIndustrial EthernetPROFIBUS-DP 311PROFINET-IO 312FOUNDATION fieldbus H1 313FOUNDATION fieldbus HSE 314Modbus/RTU 315Modbus/TCP 316DeviceNet 317EtherNet/IP 318Wireless HART 319HART-IP 320
+11. IIoT Architecture
+Backbone Network:
+Because the backbone network is decoupled from the lower layers (sensors and sensor networks) and upper layers (security, cloud, and apps etc.) of the architecture it is possible to add another backbone network standard in the future should a new more powerful technology become standardized, or even to migrate gateways to other network technologies, without having to make major changes or completely replace the underlying sensors and networks or upper layers of the architecture321.
+
+11. IIoT Architecture
+Cyber Security:
+Cyber Security is a very important consideration322. Multiple options exist to pass data into the cloud to enable enterprise level or outsourced third-party connected services323. The most suitable security solution can be selected depending on the connected service provided and the architecture of the plant automation system324.
+Options include but are not limited to325:
+* Demilitarized Zone (DMZ) 326
+* Data diode 327
+* Physically Private Network (PPN) 328
+* Historian cloud connection 329
+
+11. IIoT Architecture
+Backhaul Network
+The backhaul network connects the plant to the cloud data center enabling connected services330. The media can be the plant's broadband internet connection or a separate mobile/cellular network connection using a mobile/cellular router331. IP is used as the transport protocol supporting many application protocols332. For a mobile network (cellular network) or satellite network connection where the data charges are high and the bandwidth limited, it may be necessary to uses low polling rates, and data caching and report by exception techniques to reduce the data volumes to keep the data charges low333.
+
+11. IIoT Architecture
+Backhaul Network
+Slower sampling from the applications in the cloud is the easiest way to reduce the data volume because no intermediate protocols or data caching is involved, hence no software changes or intermediate drivers have to be used334. By using a backhaul network based on IP it is easy to add new protocols across the same network since IP supports multiple protocols in parallel335. It is also possible to change the backhaul network in the future as demands change and new technologies become available336.
+
+11. IIoT Architecture
+Cloud
+The Cloud refers to the use of Virtual Machines (VM) with lots of storage capacity (cloud storage) and computing capacity (cloud computing) running in a remote data centre building337. The cloud service provider supports with cybersecurity and physical security338. If mobile/cellular backhaul is used, it is necessary to make sure the connection between the telecommunication company and the cloud service provider is already established339.
+
+11. IIoT Architecture
+Middleware "Platform"
+The middleware is usually the historian software which most plants already have at both the plant and enterprise level but could instead be other software "platform" providing the same shared data acquisition, storage, and access security functions340. The historian (or other middleware platforms) collects and archive data from the control system and other data sources in the plant over long periods of time in a shared repository; "Big Data"341. And they enable access to real-time and historical data to analytics and reporting applications342.
+
+11. IIoT Architecture
+Middleware "Platform"
+Historians support OPC, Modbus, FF-HSE, HART-IP, and other standard protocols to get the data from the underlying sensors and other data sources343. Because historians use these standard protocols for data acquisition it is possible to add new data sources as required in the future344. It is even possible to change historian without changing the underlying systems345.
+
+11. IIoT Architecture
+Analytics Apps
+Analytics applications receive raw data through the historian (or other middleware platform) from the sensors installed on the equipment and return actionable information as a result of the analysis346. There are apps for condition and performance monitoring of equipment as simple as steam traps and relief valves, to more complex equipment like pumps, heat exchangers, cooling towers, compressors, air cooled heat exchangers, and blowers etc.347. For instance, a heat exchanger monitoring application receives inlet and outlet temperatures for product and cooling water/steam as well as flow rates and pressure drops from the historian348. The analytics app determines the performance and alarms on fouling when it is time to schedule cleaning, displaying this to the user but also returning this information to the historian349.
+
+11. IIoT Architecture
+Analytics Apps
+The analytics can use historical data or use streaming live data in real-time350. These apps are what people using the IIoT system actually see351. The apps are the user interface352. If equipment performance and condition monitoring is done "on-prem" within the plant or at a corporate centre of excellence, it is critical these apps are user-friendly, easy to use353. If not, the apps and the entire IIoT system may fall into disuse354. For this reason the apps are the second most important part after the sensors355. As explained for the middleware, the analytics apps are traditionally closely coupled with the historian/platform, but this may change in the future356.
+
+11. IIoT Architecture
+Digital Ecosystem
+A digital ecosystem means that the components in the system were designed to work well together, often beyond what multiple vendors can achieve through standards because standards have mandatory and optional parts357. The beauty of components implemented as a digital ecosystem is that mating components implement the same optional features such that these features can actually be used358. A digital ecosystem thus ensures greater functionality, yet still within the framework of the standard359.
+
+12. Internet of Everything
+The Internet of Everything (IoE) "is bringing together people, process, data, and things to make networked connections more relevant and valuable than ever before-turning information into actions that create new capabilities, richer experiences, and unprecedented economic opportunity for businesses, individuals, and countries," (Cisco, 2013)360. In simple terms: IoE is the intelligent connection of people, process, data and things361. The Internet of Everything (IoE) describes a world where billions of objects have sensors to detect measure and assess their status; all connected over public or private networks using standard and proprietary protocols362.
+
+12. Internet of Everything
+Pillars of The Internet of Everything (IoE):
+The following are the four pillars of the Internet of Everything363:
+* People: Connecting people in more relevant, valuable ways364.
+* Data: Converting data into intelligence to make better decisions365.
+* Process: Delivering the right information to the right person (or machine) at the right time366.
+* Things: Physical devices and objects connected to the Internet and each other for intelligent decision making; often called Internet of Things (IoT)367.
+
+12. Internet of Everything
+Pillars of The Internet of Everything (IoE):
+The Internet of Things (IoT) is the network of physical objects accessed through the Internet368. These objects contain embedded technology to interact with internal states or the external environment369. In other words, when objects can sense and communicate, it changes how and where decisions are made, and who makes them370. For example Nest thermostats371.
+
+13. Pillars of The Internet of Everything (IoE)
+The Internet of Everything (IoE) with four pillars: people, process, data, and things builds on top of The Internet of Things (IoT) with one pillar: things372. In addition, IoE further advances the power of the Internet to improve business and industry outcomes, and ultimately make people's lives better by adding to the progress of IoT373. Internet of Everything is a new concept as compared to the Internet of Things374. Technology experts often state that IoE is the advanced stage of IoT375. But it covers the entire area of IoT, even a little wider than IoT376.
+
+13. Pillars of The Internet of Everything (IoE)
+IoE is not merely communication between machines (M2M) but also includes people in it377. It makes intuitive interaction between machines and people possible, thus, combining the two powerful sources of knowledge and creating a superpower source378. In scientific terms, it is put forward as: Machine to people (M2P), People to Machine (P2M), People to people communication (P2P)379. Therefore, IoE is an intersection where all the roads like people, machines, and technology meet380. To make things simpler, IoE is a world of sensors and detectors used to supervise and assess every move of either technology or human and keep in check their status381.
+
+14. The difference between IoE and IoT
+Saving Lives By Connecting Roads and Hospitals:
+Traffic crashes influenced the deaths of around 857 bicyclists in 2018 in the US, according to the US Department of Transportation382. Some analysts had suggested that these lives could have been saved by leveraging the IoE383. Connecting the helmet of a rider to necessary services like traffic signals, hospitals, and nearby police stations through sensors, medical treatment can be provided which can save innumerable lives384.
+
+14. The difference between IoE and IoT
+Saving Lives By Connecting Roads and Hospitals:
+This way information about the patient's criticality can be directly received by the doctor by tracking a hospital around the vicinity right away so that the ambulance reaches the spot on time385. This enables the ambulance to interact with the streetlights thus, showing green lights all the way, to take the victim to the hospital without any obstacles blocking the way, and allows the doctor to be ready with the essentials by the time patient arrives386.
+
+14. The difference between IoE and IoT
+Supply Chain Management:
+Supply chain management has become a crucial sector after globalization and there has been immense competition in this sector387.
+* If there is a mechanism to alert the trucks about the early harvest, the time of delivery can be arranged with the supermarkets earlier, they can keep in check the available stock so that overstocking sales don't take place388. This way the markets can escape from financial losses and the consumers can avail fresh produce every time389.
+* Even the harvesters can directly connect with retailers through a common platform and sell their products with profit without having to incur losses bypassing the intermediaries390.
+
+14. The difference between IoE and IoT
+Supply Chain Management:
+To further boost customer gratification, customers can interact with the stores through their smartphones and can check notifications on the stock arrivals and the stores can even give early bird offers391. Ever wondered why do you get all the advertisements about items that you just looked for on some app? It's all IoE! 392It is possible to collect data about the various searches that you look for all-day and IoE helps you by giving all the other available options that may be better393.
+
+14. The difference between IoE and IoT
+Elderly Care:
+A significant amount of the population is now senior citizenry, and the needs of this section of people are completely different394. The role of IoE can serve as a solution to these everyday problems by helping the senior citizens stay active, and keeping them in touch with their loved ones395. There are many robots in the market to nursing the elderly, take care of their health, give them timely medication and even by conversing with them these robots can alleviate their mental health issues if any396. From assisting them on how to use smartphones to interact with their loved ones to offering companionship to those who are struggling with a disturbed mind, these robots provide emotional simulation397.
+
+14. The difference between IoE and IoT
+Connecting Homes for a Comfortable Life:
+By establishing connections between different devices and equipment to automating the life processes IoE has innumerable opportunities to explore398. Imagine how you would feel waking up to serene music with hot coffee beside your bed, imagine a robot feeding and watching your pets timely when you are not home, imagine a robot that knows your mood, taste, and health status and cooks accordingly399. Imagine a home that adjusts to the outside temperature automatically400. It is possible with IoE now! 401
+
+14. The difference between IoE and IoT
+Agriculture is No More a Hectic Human Task:
+Demand for food supply is ever-increasing with increasing population but the supply even though increasing has always remained far below the demand402. Governments across the world are bringing in new policies, giving incentives to farmers to equip new technologies, and increasing their spending in the R&D department to find ways to increase food production403. Smart farming has always been in news but despite limited trials, it has never been employed on a full scale404. To yield better results on investment for farmers, to eradicate hunger, and to reduce the demand-supply gaps smart farming is the way to go405.
+
+14. The difference between IoE and IoT
+Agriculture is No More a Hectic Human Task:
+From assisting the farmers in sensing the soil moisture, nutrient content, and controlling the water usage to connecting the farmers directly to the markets IoE has the potential to become an enabling factor in transforming the agriculture sector406.
+Smart City Technology as a solution to Urban Mobility:
+According to an estimate of the UN, the population living in cities is expected to increase to 68% in 2050 from 55%407. WHO in a report said that approximately a 1.35 million people die every year in road accidents408. Overcrowding and congestion are two of the major reasons at the heart of this issue409.
+
+14. The difference between IoE and IoT
+Smart City Technology as a solution to Urban Mobility:
+Santa Clara, a city in California uses cloud-based data to optimize traffic410. Highway cameras are centralized in the cloud-based operations center to analyze the videos411. More dynamic traffic estimates are provided hence reducing the congestion on roads and providing the commuters the less congested routes thereby minimizing the traffic accidents412. San Jose, yet another city from northern California, has piloted a traffic optimization project to understand the peak hour traffics and reduce the accidents thereby caused413.
+
+14. The difference between IoE and IoT
+Smart City Technology as a solution to Urban Mobility:414
+These are some cases where IoE has been tried and tested but there is more to this transformational technology that can serve as examples in the history of technology evolution415416.417
+IoE in Busin418ess:
+The first thing that shaped an impressive business model was the feedback mechanism thus, bringing "target marketing" in the game, consumer satisfaction being a major factor affecting the entire business419.
+
+14. The difference between IoE and IoT
+IoE in Business:
+IoE has majorly influenced this department by bringing into market various technologies that identify the needs of its customers420. Micromarketing is majorly associated with numerous websites that allow the requirements of the customers to reach the business owners421. Not only that, but IoE has also been implemented in the building of ERP software platforms like SAP Cloud Platform422423. 424This is used as an extension and integration platform for the running of various applications425426. 427SAP Fiori applications support the consumer goods system and enhance the sales proces428s429. It is all about reconnecting and re-engaging various service lines to remodel the business430.
+
+14. The difference between IoE and IoT
+Pros:
+In this section, let us have a look at some benefits of the Internet of everything431.
+* Information access - Information accessibility will now become a hassle-free task despite your location432. The network of devices makes it easy for you to access information from any corner of the earth433.
+* Communication - Better communication with interconnected devices with reduced inefficiencies434.
+* Affordability - The same data that once took hours to transfer will now be done within no time hence negligibly reducing the delay and hence reducing the costs involved435.
+
+14. The difference between IoE and IoT
+Pros:
+* Automation - Automation has become the buzzword and has been intriguing human kind for quite a long time436. This helps reduce human intervention and boosts the quality of services437.
+Cons:
+In this section, let us have a look at all the cons of the Internet of everything438.
+
+14. The difference between IoE and IoT
+* Privacy and Security - There are a lot of "what ifs" and "buts" in the case of security and privacy439. The leakage of data has always been a matter of concern440. The privilege of technology comes at the cost of security441. This is a major drawback but can be overcome with adequate measures and safety protocols442. Data breaching and issues in law enforcement regarding the "deep web" have blown out in the world443.
+* Dependability - Technology has made us depend on it even for small tasks, making humans lazy and killing creativity in humans444. The impact of technology is paramount in our everyday life processes445.
+
+14. The difference between IoE and IoT446
+* Dependability - There are other obstacles like the availability of finance for the purpose and availability of power the entire time447448.449
+The future work450
+The opportunities available for the future of IoE are endless451452. 453The capacity 454to automate, deploy and secure devices can change the face of industrial processes455. The potential is not just in connecting devices and hence in simplifying the life processes but to leverage data that can diversify the business processes and to overcome these challenges, new service providers come up in the markets opening new streams of revenue456. High stakes have been put by scientists and academicians into IoE believing it will meet the high-end requirements of the market in the coming future457.
+
+14. The difference between IoE and IoT
+The future work
+A human-machine interacting ecosystem is going to provide new experiences to the technology-driven world, new opportunities within remote learning458. Developments in wireless networking like Li-Fi, 5G provide further impetus to IoE459. IoE has been mapping new territories enhancing its implementations and expanding unexpectedly460. Signalling more connectivity from cars, electronic gadgets, and toys to traffic lights and home security systems IoE facilitates connectivity between a range of internet-supported physical devices and non-internet supportive devices461.
+
+14. The difference between IoE and IoT
+The future work
+With this emerging involvement of IoE in almost every field, many other technologies can be expected to naturally wane out of the process462. Beyond just pure technological concepts for academicians, IoE is capable of transforming the socio-cultural fabric of the world by connecting people and processes463. According to Market Research Engine predictions IoE market is expected to reach $39 trillion by 2024 and grow at 15% CAGR464.
+
+15. The Future?
+The Internet of Everything will re-invent industries at three levels: business process, business model, and business moment465.
+* "At the first level, digital technology is improving our products, services and processes; our customer and constituent experiences; and the way we work in our organizations and within our partnerships," said Hung Le Hong, research vice president and Gartner Fellow466.
+* "We do what we normally do, but digitalization allows us to do it better or develop better products within our industry"467.
+
+15. The Future?
+As companies digitalize products and process, completely new ways of doing business in industries emerge468. Gartner analysts expect more transformational changes as digitalization re-invents industries at the business model level469. Mr. Le Hong gave the examples of Nike, playing on the edge of the healthcare industry with its connected sporting clothes and gear, and Google having a visible presence in autonomous vehicles470. "These organizations had no business in your industry, and are now re-inventing them," said Mr. Le Hong471. The third level of digital re-invention is created by the need to compete with unprecedented business velocity and agility. Gartner calls this the "business moment"472.
+
+15. The Future?
+The Internet of Everything will create tens of millions of new objects and sensors, all generating real-time data473. "Data is money," said Nick Jones, research vice president and distinguished analyst at Gartner474. "Businesses will need big data and storage technologies to collect, analyze and store the sheer volume of information475. Furthermore, to turn data into money business and IT leaders will need decisions476. As they won't have the time or the capacity to make all the decisions themselves they will need processing power"477.
+
+15. The Future?
+"Now that digital is embedded in everything we do, every business needs its own flavor of digital strategy478479. 480Vanilla is off the menu," said Dave Arora, research vice president and Gartner Fellow481482. 483"Digital is n484ot an option, not an add-on, and not an afterthought; it is the new reality that requires a comprehensive digital leadership"485. Gartner predicts that enterprises will make extensive use of IoE technology, and there will be a wide range of products sold into various markets486. These will include advanced medical devices, factory automation sensors and applications in industrial robotics, sensor motes for increased agricultural yield, and automotive sensors and infrastructure integrity monitoring systems for diverse areas such as road and railway transportation, water distribution and electrical transmission; an endless list of products and services487.
+
+15. The Future?
+But as devices get more connected and collect more data, privacy and security concerns will increase too488. How companies decide to balance customer privacy with this wealth of IoE data will be critical489. Well, the difference is the intelligent connection490. IoT is mostly about physical devices and objects communicating with each other but IoE brings with it the network intelligence to bind all these concepts together into a cohesive system491. IoT has been limited to only machines thus achieving Machine to Machine Communication but IoE brings together people, processes, data, and things and adds them into the network therefore not just Phone/tablets and PCs but People492.
+
+15. The Future?
+Health Fitness bands, Coffee pots, Marine Container's all become a Node in an intelligent network communicating with each other493. The more expansive IoE concepts include, besides M2M communication, M2P, and technology-assisted P2P communication494. The IoE Economy will profoundly affect four major Aspects of our lives495:
+People:
+People will be connected to the internet in more relevant ways and will be generating data and interacting with devices not only through Mobile's/Tablet's, PC's and Social networks but also through Sensors placed on human skins or sewn into clothing which will provide a person's vital signs496. In this way, people will themselves becomes Nodes on the internet497.
+
+15. The Future?
+People:
+A good example is Nike's wearable fitness band's which read a person's vital signs and sports apparel and gears embedded with chips that track the performance of Athletes498.
+Things:
+Things and physical items such as sensors, industry devices, consumer products, enterprise assets will be connected to the internet or to each other 499. also fetching information from its surroundings, will be more context-aware, more cognitive, more intelligent, often so-called the internet of things500.
+
+15. The Future?
+Things:
+As of 1984, only 1000 devices were connected to the internet which increased to about 1 million in 1992 and shot across 10 Billion in 2010, and as there is around 50 billion devices connected to the internet by 2020501. These devices fetches data from their environment internally or externally and sends it back to the server for analyzing and making much more intelligent decisions502.
+Data:
+Rather than simply collecting Raw data, these connected devices will be sending higher level, more processed data back to respective servers for faster evaluation or more intelligent decision making503.
+
+15. The Future?
+Data:
+Here the data is more about insightful information and action plan than just a random chunk504. Figuring out a way to decipher the right flow of information is the key to making the best use of Big Data and as the types of data and sources increase, in order to draw useful insight's there will be a need to classify information and analyze it505.
+Process:
+With the equivalent to the IOE process, the right information will be delivered to the right person at the right time in an appropriate way506.
+
+15. The Future?
+Process:
+Technology-based Businesses will be relying on data to make further decisions and advance their workflow processes and strategies and will be therefore competing to leverage the data faster than their competitors for agile and faster decision making507. General Electrics predicts that IoE can add 15 trillion dollars to the Global Domestic Product while Cisco estimates 19 trillion in savings and profits for companies that can leverage IoE508.
+
+15. The Future?
+Process:
+But as the number of devices connected to the internet increase and therefore collect more data, privacy is put at risk which increases security concerns but as these devices grow more intelligent, hopes is that the device and network will grow knowledgeable enough to detect, stop and prevent any harmful threats509. IoE is here and is inevitable510. We should embrace ourselves to adapt our lives to the changes that it brings with it511.
+
+SUMMARY
+In this unit, we have discussed IIoT, Industry 4.0, Smart Manufacturing, IoE and their applications512. Actually, IIoT is nothing but Industrial Internet of Things or Smart Manufacturing513. The differences between IIoT and IoT, IIoT and IoE etc. have been clearly described in this unit514.
+
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS
+
+Thank You
+

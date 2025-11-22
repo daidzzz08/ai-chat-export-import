@@ -11,7 +11,7 @@
     },
     {
         "file": "CHAP 6 SMI-SCM 344.txt",
-        "title": "CHAP 6 SMI-SCM 344ệ",
+        "title": "CHAP 6 SMI-SCM 344",
         "type": "text"
     },
     {
@@ -28,5 +28,11 @@
         "file": "CHAP 7 SMI-SCM 344.txt",
         "title": "CHAP 7 SMI-SCM 344",
         "type": "text"
+    },
+            {
+        "file": "CHAP-8-SMI-SCM-335.txt",
+        "title": "CHAP-8-SMI-SCM-335",
+        "type": "text"
     }
+
 ]
