@@ -3,99 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>AI Study Master</title>
+    <title>Phát Đại AI - Academic Assistant</title>
+    
     <script src="https://cdn.tailwindcss.com"></script>
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.6.0/mammoth.browser.min.js"></script>
+
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-[#020617] text-slate-200 h-screen flex overflow-hidden">
+<body class="bg-[#0B1120] text-slate-200 h-screen flex overflow-hidden font-sans selection:bg-indigo-500/30">
 
-    <aside class="w-80 bg-[#0f172a] border-r border-slate-800 flex-col z-20 hidden md:flex transition-all">
-        <div class="p-5 border-b border-slate-800 flex items-center gap-3 bg-[#0f172a]">
-            <div class="w-9 h-9 bg-gradient-to-br from-indigo-600 to-violet-600 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-500/20">
-                <i class="fa-solid fa-brain text-white text-sm"></i>
+    <aside class="w-80 bg-[#0F172A] border-r border-slate-800 flex-col z-20 hidden md:flex shadow-2xl">
+        <div class="p-6 border-b border-slate-800 bg-[#0F172A]">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-gradient-to-tr from-indigo-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-500/20">
+                    <i class="fa-solid fa-robot text-white text-lg"></i>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg text-white tracking-tight">Phát Đại AI</h1>
+                    <p class="text-[10px] text-indigo-400 uppercase font-bold tracking-wider">Academic Edition</p>
+                </div>
             </div>
-            <h1 class="font-bold text-lg tracking-tight text-white">Study Master</h1>
         </div>
 
-        <div class="flex-1 overflow-y-auto p-4 scrollbar-hide">
+        <div class="flex-1 overflow-y-auto p-4 scrollbar-thin">
             <div class="mb-6">
-                <h2 class="text-[10px] font-bold text-slate-500 uppercase tracking-widest mb-4">Tài liệu gốc</h2>
-                <ul id="doc-list" class="space-y-2">
-                    </ul>
+                <h2 class="text-[11px] font-bold text-slate-500 uppercase tracking-widest mb-3 px-2">Giáo trình & Tài liệu</h2>
+                <ul id="doc-list" class="space-y-1"></ul>
             </div>
             
-            <div id="system-status" class="p-3 rounded-xl bg-slate-800/50 border border-slate-700/50 text-xs space-y-2">
-                <div class="flex justify-between">
-                    <span class="text-slate-400">Trạng thái:</span>
-                    <span id="knowledge-status-text" class="text-yellow-500 font-semibold">Đang tải...</span>
+            <div class="p-4 rounded-xl bg-slate-800/40 border border-slate-700/50 backdrop-blur-sm">
+                <div class="flex items-center gap-2 mb-2">
+                    <div class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
+                    <span class="text-xs font-semibold text-slate-300">Hệ thống sẵn sàng</span>
                 </div>
-                <div class="flex justify-between">
-                    <span class="text-slate-400">Bộ nhớ:</span>
-                    <span class="text-emerald-400 font-semibold">Đã bật (Context)</span>
-                </div>
+                <p id="knowledge-status-text" class="text-[10px] text-slate-500">Đang kết nối kho dữ liệu...</p>
             </div>
         </div>
 
-        <div class="p-4 border-t border-slate-800">
-            <button onclick="clearChat()" class="w-full py-2.5 px-4 bg-slate-800 hover:bg-red-500/10 text-slate-400 hover:text-red-400 rounded-lg text-sm transition flex items-center justify-center gap-2 border border-slate-700 hover:border-red-500/30 group">
-                <i class="fa-solid fa-trash-can group-hover:animate-bounce"></i> Làm mới cuộc trò chuyện
+        <div class="p-4 border-t border-slate-800 text-center">
+            <p class="text-[10px] text-slate-600">Developed by <span class="text-slate-400 font-bold">Phat Dai</span> &copy; 2025</p>
+            <button onclick="clearChat()" class="mt-3 w-full py-2 text-xs text-slate-400 hover:text-red-400 hover:bg-red-500/10 rounded-lg transition border border-transparent hover:border-red-500/20">
+                <i class="fa-solid fa-rotate-left mr-1"></i> Reset Session
             </button>
         </div>
     </aside>
 
-    <main class="flex-1 flex flex-col relative h-full w-full">
+    <main class="flex-1 flex flex-col relative h-full w-full bg-gradient-to-b from-[#0B1120] to-[#111827]">
         
-        <div class="md:hidden h-16 bg-[#0f172a]/90 backdrop-blur border-b border-slate-800 flex items-center justify-between px-4 z-30 absolute top-0 w-full">
-            <div class="flex items-center gap-2">
-                <i class="fa-solid fa-brain text-indigo-500"></i>
-                <span class="font-bold text-white">Study Master</span>
-            </div>
-            <button onclick="clearChat()" class="text-slate-400 hover:text-red-400"><i class="fa-solid fa-rotate-right"></i></button>
+        <div class="md:hidden h-16 bg-[#0F172A]/90 backdrop-blur border-b border-slate-800 flex items-center justify-between px-4 z-30 absolute top-0 w-full">
+            <span class="font-bold text-white flex items-center gap-2">
+                <i class="fa-solid fa-robot text-indigo-500"></i> Phát Đại AI
+            </span>
+            <button onclick="clearChat()" class="text-slate-400"><i class="fa-solid fa-rotate-right"></i></button>
         </div>
 
-        <div id="chat-container" class="flex-1 overflow-y-auto pt-20 pb-4 px-4 md:pt-8 md:px-16 space-y-6 scroll-smooth">
-            <div id="empty-state" class="flex flex-col items-center justify-center h-full text-center opacity-90 mt-[-50px]">
-                <div class="w-20 h-20 bg-slate-800/50 rounded-full flex items-center justify-center mb-6 border border-slate-700 relative group">
-                    <div class="absolute inset-0 bg-indigo-500/20 rounded-full blur-xl group-hover:bg-indigo-500/30 transition"></div>
-                    <i class="fa-solid fa-graduation-cap text-3xl text-indigo-400"></i>
+        <div id="chat-container" class="flex-1 overflow-y-auto pt-20 pb-4 px-4 md:pt-8 md:px-20 space-y-8 scroll-smooth">
+            <div id="empty-state" class="flex flex-col items-center justify-center h-full text-center opacity-90 mt-[-40px]">
+                <div class="w-24 h-24 bg-slate-800/50 rounded-3xl flex items-center justify-center mb-6 border border-slate-700 shadow-2xl relative overflow-hidden">
+                    <div class="absolute inset-0 bg-gradient-to-br from-indigo-500/10 to-purple-500/10"></div>
+                    <i class="fa-solid fa-graduation-cap text-4xl text-indigo-400"></i>
                 </div>
-                <h3 class="text-2xl font-bold text-white mb-2">Trợ lý học tập AI</h3>
-                <p class="text-slate-400 max-w-md text-sm mb-8">Hệ thống đã học toàn bộ tài liệu của bạn. <br>Có thể hỏi về nội dung, đính kèm ảnh bài tập hoặc yêu cầu tóm tắt.</p>
-                
-                <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full max-w-lg">
-                    <button onclick="quickAction('Tóm tắt các điểm chính của tài liệu')" class="p-3 bg-slate-800/40 hover:bg-indigo-500/10 border border-slate-700 hover:border-indigo-500/50 rounded-xl text-left text-xs text-slate-300 transition">
-                        <i class="fa-solid fa-list-check mr-2 text-indigo-400"></i> Tóm tắt kiến thức
-                    </button>
-                    <button onclick="quickAction('Tạo 5 câu trắc nghiệm ôn tập')" class="p-3 bg-slate-800/40 hover:bg-indigo-500/10 border border-slate-700 hover:border-indigo-500/50 rounded-xl text-left text-xs text-slate-300 transition">
-                        <i class="fa-solid fa-clipboard-question mr-2 text-indigo-400"></i> Tạo bài kiểm tra
-                    </button>
-                </div>
+                <h2 class="text-3xl font-bold text-white mb-3">Xin chào, tôi là Phát Đại AI</h2>
+                <p class="text-slate-400 max-w-md text-sm mb-8 leading-relaxed">
+                    Trợ lý học tập chuyên sâu. Hỗ trợ đọc tài liệu Word, PDF, Hình ảnh và giải đáp thắc mắc với trích dẫn nguồn chuẩn xác.
+                </p>
             </div>
         </div>
 
-        <div class="p-4 md:p-6 z-20">
+        <div class="p-4 md:p-6 z-20 bg-[#0B1120]/80 backdrop-blur-lg border-t border-slate-800/50">
             <div class="max-w-4xl mx-auto">
-                <div id="file-preview-area" class="hidden mb-2 flex gap-2 overflow-x-auto py-1 px-1">
+                <div id="file-preview-area" class="hidden mb-3 flex gap-3 overflow-x-auto py-2 scrollbar-thin"></div>
+
+                <div class="relative group">
+                    <div class="absolute -inset-0.5 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl opacity-20 group-hover:opacity-40 transition duration-500 blur"></div>
+                    <div class="relative bg-[#1E293B] rounded-2xl flex items-end p-1.5 shadow-2xl border border-slate-700">
+                        
+                        <button onclick="document.getElementById('file-upload').click()" class="p-3 text-slate-400 hover:text-indigo-400 hover:bg-slate-700 rounded-xl transition flex-shrink-0" title="Đính kèm (Ảnh, PDF, Word, Txt)">
+                            <i class="fa-solid fa-paperclip"></i>
+                        </button>
+                        <input type="file" id="file-upload" class="hidden" multiple 
+                               accept="image/*, .pdf, .doc, .docx, .txt, .md, .csv, .json, .js, .html, .css" 
+                               onchange="handleFiles(this)">
+
+                        <textarea id="user-input" rows="1" 
+                            class="w-full bg-transparent text-white px-3 py-3 focus:outline-none resize-none max-h-48 placeholder-slate-500 text-sm md:text-base leading-relaxed"
+                            placeholder="Hỏi hoặc gửi tài liệu để phân tích... (Shift+Enter xuống dòng)"></textarea>
+                        
+                        <button id="send-btn" class="p-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl shadow-lg transition disabled:opacity-50 disabled:cursor-not-allowed flex-shrink-0 ml-1">
+                            <i class="fa-solid fa-paper-plane"></i>
+                        </button>
                     </div>
-
-                <div class="glass-input rounded-2xl p-1.5 flex items-end gap-2 shadow-2xl relative">
-                    <button onclick="document.getElementById('file-upload').click()" class="p-3 text-slate-400 hover:text-indigo-400 hover:bg-slate-800/50 rounded-xl transition flex-shrink-0" title="Đính kèm ảnh/file">
-                        <i class="fa-solid fa-paperclip text-lg"></i>
-                    </button>
-                    <input type="file" id="file-upload" class="hidden" multiple accept="image/*, .txt, .md, .csv, .json, .js, .html, .css" onchange="handleFiles(this)">
-
-                    <textarea id="user-input" rows="1" 
-                        class="w-full bg-transparent text-white px-2 py-3 focus:outline-none resize-none max-h-40 placeholder-slate-500 text-sm md:text-base"
-                        placeholder="Hỏi gì đó... (Shift+Enter để xuống dòng)"></textarea>
-                    
-                    <button id="send-btn" class="mb-0.5 mr-0.5 p-2.5 w-11 h-11 bg-indigo-600 hover:bg-indigo-500 rounded-xl flex items-center justify-center text-white transition shadow-lg disabled:opacity-50 disabled:cursor-not-allowed flex-shrink-0">
-                        <i class="fa-solid fa-paper-plane text-sm"></i>
-                    </button>
                 </div>
-                <div class="text-center mt-2">
-                    <p class="text-[10px] text-slate-600 uppercase font-bold tracking-wider">Gemini 2.0 Flash • Context Aware</p>
+                <div class="text-center mt-3 flex justify-center items-center gap-2 opacity-60">
+                    <i class="fa-solid fa-shield-halved text-[10px] text-indigo-400"></i>
+                    <p class="text-[10px] text-slate-500">Hỗ trợ: PDF, Word, Ảnh (< 10MB/file)</p>
                 </div>
             </div>
         </div>
