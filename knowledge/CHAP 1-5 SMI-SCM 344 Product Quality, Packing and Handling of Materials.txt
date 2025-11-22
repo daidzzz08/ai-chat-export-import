@@ -1,0 +1,829 @@
+﻿PRODUCT QUALITY, PACKING AND HANDLING OF MATERIALS - 344
+COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Product Quality, Packing, and Handling of Materials."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam.
+This course is designed for the undergraduate level/program."
+"Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+UNIT 1 MATERIALS MANAGEMENT AN OVERVIEW
+Structure 1.1 Introduction Objective 1.2 Materials management - definition and meaning 1.3 Roles in materials management 1.4 Significance of materials management 1.5 Objectives of materials management 1.6 Issues in materials management 1.7 Functions of materials management 1.8 Scope of materials management 1.9 Integrated materials management 1.10 Summary
+1.1 INTRODUCTION Materials management is a core supply chain function that runs through supply chain planning and supply chain execution capabilities. It includes all the functions with reference to the material sourcing, stocking, serving, safeguarding and sending.
+OBJECTIVES After going through this unit you should be able to
+* Describe the goals and objective of inventory
+* Understand the functions and responsibilities of materials management
+* Describe the significance and advantages of stocking
+* Integrate the materials management activities with other departments or the relevant functional areas
+* Coordinating and correlating the functions of integrated materials management with other areas
+1.2 MATERIALS MANAGEMENT - DEFINITION AND MEANING Materials management involves the comprehensive planning of material requirements, which are communicated to procurement and other sourcing functions.
+This includes determining the quantity of material to deploy at each inventory location, establishing replenishment plans, setting inventory levels for raw materials, in-process products, and finished goods, and communicating material needs across the entire supply chain.
+1.4 SIGNIFICANCE OF MATERIALS MANAGEMENT Strictly speaking, Material management is a service function. It is as important as manufacturing, engineering and finance. The supply of proper quality of materials is essential for manufacturing standard products. The avoidance of material wastage helps in controlling cost of production. Material management is essential for every type of concern.
+The need for materials management was first felt in manufacturing under takings. The servicing organizations also started feeling the need for this control. And now even non-trading organizations like hospitals, universities etc. Have realized the importance of materials management. Every organization uses a number of materials. It is necessary that these materials are properly purchased, stored and used.
+1.5 OBJECTIVES OF MATERIALS MANAGEMENT Materials management aims to ensure an uninterrupted supply chain for timely sales or production. The department releases materials to suppliers and ensures timely delivery to users.
+This goal is balanced with economic considerations and framed into specific objectives.
+the objectives of Materials Management can be categorized into:
+1. Primary objective
+2. Secondary objectives
+1.5.1. Primary Objectives In a broader way, the primary business objective of Materials Management is assured supply of material, optimum inventory levels and minimum deviation between planned and actual results.
+Making available (supply) of materials in: in specified quantity and with acceptable quality at economic cost and maintaining the continuity of supply
+Minimization of investments in materials and inventory costs assuring high inventory turnover, decision making for material flow, inventory trade off, tracking and levelling
+1.5.2. Secondary Objectives: Secondary objectives help to achieve the primary objectives. The secondary objectives can be stated as:
+* Forward planning for material requirement by: Forecasting, estimation
+* Identifying vendors for purchasing the items from as reliable source at economic price prompt and timely supply
+* Reduction of costs by using various cost reduction techniques such as variety reduction, standardization, simplification, value analysis, inventory control, purchase research
+1.6 ISSUES IN MATERIALS MANAGEMENT Materials managers face the challenge of maintaining a consistent flow of materials for production, which is often hindered by factors affecting inventory accuracy. These issues lead to production shortages, premium freight costs, and inventory adjustments.
+* incorrect bills of materials, inaccurate cycle counts, un-reported scrap, shipping errors, receiving errors, and production reporting errors
+1.7 FUNCTIONS OF MATERIALS MANAGEMENT Material management covers all aspects of material costs, supply and utilization. The major functions of materials management can be studied under the following four categories:
+1. Material Planning and Control
+2. Purchasing
+3. Stores Management
+4. Inventory Control or Management
+In addition to the above, there is a large scope for materials management to probe into the following functional aspects. 5. 3-S Functions (Standardization/Simplification/Specification) 6. Value Analysis 7. Ergonomics 8. Just-in-Time (JIT)
+Functional Areas of Material Management Figure 1.1 Scope and Areas of materials management (Flowchart/Model Description):
+* Scope of materials management branches out into four main areas: 
+1. Material Planning and control
+2. Purchasing
+3. Stores Management
+4. Inventory management
+* A fifth branch, Other related functions, includes: 
+1. Standardisation
+2. Simplification
+3. Specifications
+4. Value Analysis
+5. Ergonomics
+6. Just-in-Time
+1. Materials planning and control Materials planning and control (MPC) begins with forecasting and estimation, using sales forecasts and production plans. The production manager prepares schedules based on orders or anticipated demand, ensuring that all parts and materials are available for smooth, uninterrupted production. This function includes estimating part requirements, preparing materials budgets, forecasting inventory levels, scheduling orders, and monitoring performance relative to production and sales.
+2. Purchase Management This function involves selecting supply sources, finalizing purchase terms, placing orders, maintaining supplier relations, and approving payments. In larger industries, a dedicated purchasing department handles buying arrangements, maintains supplier contacts, and seeks quotations to ensure quality goods at reasonable prices. Purchasing is a managerial activity encompassing planning, policy, and various complementary tasks beyond mere buying.
+2. Purchase Management Materials planning and control (MPC) begins with forecasting and estimation, using sales forecasts and production plans. The production manager prepares schedules based on orders or anticipated demand, ensuring that all parts and materials are available for smooth, uninterrupted production. This function includes estimating part requirements, preparing materials budgets, forecasting inventory levels, scheduling orders, and monitoring performance relative to production and sales.
+3. Stores Management This function begins with receiving materials and involves physical control, preservation, and minimizing obsolescence and damage through efficient handling and timely disposal. Store management, including the receiving department, handles unloading, counting, quality determination, and storage, while also informing the purchasing department about received materials.
+Stores management oversees the efficient movement of materials within manufacturing, ensuring minimal handling costs and preventing material losses. It includes using specialized equipment like trolleys, chain drives, and cranes. Additionally, it verifies physical stock levels, crucial for seamless operations. Stores management also maintains non-production materials like office supplies and maintenance tools, essential for business continuity and preventing work stoppages due to their absence.
+4. Inventory control or Inventory Management Inventory refers to materials held in stock, serving as an idle resource for enterprises. These items include goods for sale, materials in production, and those awaiting use. Maintaining inventories acts as a buffer between supply and demand, crucial for efficient production cycles across industries, requiring effective inventory control to minimize disruptions.
+Figure 1.2 Functions of Materials Management (Diagram Description):
+* Material Planning and Control is associated with: 
+o Cost reduction
+o Value Management
+* Purchase Management is associated with: 
+o Obsolescence/waste Control and codification
+* Inventory Management is associated with: 
+o Productivity and Optimization
+* Stores Management is associated with: 
+o Standardization, Simplification, Specification, Handling and Ergonomics
+1.8 SCOPE OF MATERIALS MANAGEMENT The scope of materials management can be understood under the following five heads: (i) Simplification & Standardization (ii) Cost Reduction, Codification & Value Management (iii) Obsolescence Control & Optimization (iv) Productivity (v) Ergonomics These can be remembered with the acronym as SCOPE
+(i) Simplification & Standardization Standardization involves producing a wide range of products using a minimal variety of materials, parts, tools, and processes, establishing uniform measures for comparison. Simplification complements standardization by reducing product diversity, focusing on minimizing the range of assemblies, parts, materials, and design specifications.
+(ii) Cost Reduction & Value Management Value Management focuses on identifying and reducing costs associated with inefficient or unnecessary specifications and features during the product's maturity stage. It addresses inefficiencies that no longer benefit from research and development efforts aimed at improving product efficiency or adding new functionalities.
+(iii) Obsolescence Control & Optimization Materials management aims to reduce costs associated with materials through efficient handling and utilization, ensuring optimal production outcomes. This involves controlling the type, quantity, location, and turnover of commodities within industrial operations to maximize returns on working capital. Key optimization areas include inventory management strategies like calculating economic order quantities (EOQ) and implementing selective inventory control in store management across the supply chain.
+(iv) Productivity To maximize materials productivity, the materials function focuses on strategic procurement of suitable materials, machinery, and equipment. Efficient store management ensures timely issuance of appropriate quantities and quality materials for manufacturing, and timely distribution to marketing at optimal cost without compromising quality.
+(v) Ergonomics Human factors, or human engineering, focuses on optimizing man-machine systems for operational efficiency. Ergonomics specifically addresses the design of human tasks, man-machine interfaces, and the effective execution of jobs, encompassing information displays, operational controls, and complex system interactions. Both disciplines meticulously address these aspects to enhance overall system performance.
+1.9 INTEGRATED MATERIALS MANAGEMENT Integrated materials management consolidates all functions related to materials under a unified framework. It covers material costs, supply, and utilization, emphasizing comprehensive planning and control activities detailed in Table 1.3.
+Integrated Materials Management (IMM) encompasses managing the entire material flow cycle, from procurement and internal control of production materials to overseeing work-in-process, warehousing, shipping, and product distribution. It ensures that materials are available at the right time and place as needed, optimizing operations through coordinated planning and control across various material flows. IMM focuses on effective coordination among department heads to maximize efficiency and effectiveness in materials planning and control, addressing challenges in a cohesive manner to maintain uninterrupted supply and streamline operations.
+Thrust Areas to Integrate Though the areas to integrate are not limited to the following list, some of the important areas to integrate for the improvement in materials management are given below:
+* Value Management & Price Analysis
+* Purchase Management and Vendor Development
+* Materials Planning and Control
+* Inventory Management & Control & Cost Optimization
+* Stores Management & Selective Inventory Control
+* Waste management and Obsolescence Control
+* Materials handling & Distribution
+Merits An integrated materials management will result in the following advantages:
+* Better performance and effectiveness.
+* Adaptability to automated and computerised systems.
+* Better accountability for materials and material concerned costs.
+* Better co-ordination within the materials functions and also other functional areas of business.
+Flow of Materials in Manufacturing In manufacturing organizations, materials move from input to output stages, depicted in figure 1.10. Input-related activities encompass purchasing, traffic control, and receiving. Inside the factory, materials move between workstations based on processing orders. Output activities involve packaging, shipping, and distribution.
+Figure 1.10 Flow of materials through a company (Flowchart/Model Description):
+* Inputs (Source): Vendor
+* (Arrow: Vendor sends Orders to Purchasing)
+* Transformation or process (Internal Operations): 
+o Purchasing
+o Receiving (Feeds Raw material stores and Process)
+o Raw material stores
+o Process (Feeds F.G. Store and Shipping)
+o F.G. Store
+o Shipping (Feeds Outputs)
+* Outputs (Destination): 
+o To distribution
+o To customers
+Activities to be Integrated Regardless of the organization type, basic material-related activities must be integrated with departments such as Finance, Production, Planning, Sales & Marketing, and Transportation. This integration ensures cohesive management of procurement, production planning, sales forecasting, and logistics to optimize material flow and operational efficiency.
+(List of Integrated Activities - analogous to Table 1.3):
+1. Material Planning
+2. Vendor development
+3. Purchasing
+4. Inbound traffic from suppliers to company
+5. Receiving Inspection
+6. Inventory Control
+7. Payments to suppliers
+8. Warehousing
+9. Material handling
+10. In plant storage
+11. Material distribution
+12. Packaging and shipping
+13. Outbound traffic
+14. Obsolescence control
+15. Rejections/Wastage control
+Integration of Purchase Activity To integrate the Purchase function effectively, it's crucial to grasp the purchase cycle's key points and adapt buying strategies for different scenarios. This integration ensures alignment with the cycle's essential elements.
+The Purchasing Cycle The purchase procedure followed varies from company to company and also from one industry to other. The purchasing cycle is represented as shown in fig (1.11).
+Figure 1.11 Purchasing cycle (Flowchart/Model Description): The cycle flows sequentially:
+1. Specifications and requirements
+2. Requisition
+3. Check specifications, price and vendors (Links to Purchase)
+4. Purchase plan (Receives input from Specification files, Links to Purchase)
+5. Source selection
+6. Finalization of terms
+7. Purchase order
+8. Supplier acceptance (Receives input from Follow up)
+9. Delivery of materials
+10. Receipts of materials and incoming inspections
+11. Supplier acceptance
+12. Payment of supplier
+The Purchasing Cycle Buying Strategies Methods of purchasing will vary according to the nature of demand and the market conditions. The principal methods of buying are:
+1. Purchasing by requirement (Hand to mouth buying).
+2. Purchasing for a specified future period.
+3. Market purchasing.
+4. Speculative buying.
+5. Contract buying.
+6. Group purchasing of small items.
+7. Forward buying.
+8. Hedging.
+1.10 SUMMARY The supply of proper quality of materials is essential for manufacturing standard products. Materials Management refers to planning, organizing and controlling the activities that are related to the flow of materials in a company. The goal of materials management is to maintain an unbroken chain for sales or production of goods on time for customers.
+Its primary is assured supply of material, optimum inventory levels and minimum deviation between planned and actual results. Material planning and control, purchasing, stores management and inventory management are some functions of materials management.
+Simplification and standardization, cost reduction, codification & value management, obsolescence control & optimization, productivity and ergonomics are also included in materials management. The integration of all the functions of materials management is known as integrated materials management. It is concerned with management functions supporting the complete cycle of material flow, from the purchase and internal control of production materials to warehousing, shipping and distribution.
+[Copyright/Disclaimer Notice] This content is an extracted portion from the electronic and/or printed textbook. Due to electronic rights restrictions, certain third-party content may have been omitted. Editorial review has determined that the content in this POWERPOINT PRESENTATION does not significantly impact the overall learning experience. The published PowerPoint has been modified and reserves the right to remove content from this title at any time if subsequent rights restrictions require such action. ALL RIGHTS BELONG TO: DR. LUIS ALFARO DIRECTOR OF PORTS, LOGISTICS AND SCM SOUTHSTAR MANAGEMENT INSTITUTE, DA NANG, VIETNAM
+SUMMARY
+1. STUDY QUESTIONS 2. CHALLENGE QUESTIONS
+Thank You
+
+
+
+PRODUCT QUALITY, PACKING AND HANDLING OF MATERIALS - 344
+COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Product Quality, Packing, and Handling of Materials."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam.
+This course is designed for the undergraduate level/program."
+"Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+Human Unit 2: Safety in Material Handling
+Structure 2.1 Introduction 2.2 Material Handling Concepts and Significance 2.3 Classification of Material Handling 2.4 Risk Factors Associated with Manual Handling Activities 2.5 Safety Considerations in Manual Material Handling 2.6 Mechanical Material Handling 2.7 Safety in Mechanical Material Handling 2.8 Safety in Electrical Material Handling
+2.1 INTRODUCTION Material handling is an art that involves moving, handling and storing of materials in an industry or a constructional field. In simple terms, it is moving, loading and unloading of materials. It provides an extended flow of products, raw materials and parts for further operations in a workplace. Aims:
+* To economise the cost of material handling.
+* To minimize the time intervals and transferring the products with accuracy in time and position.
+* Maximum utilization of material handling equipment and to reduce manual handling.
+2.2 Material Handling: Concepts and Significance Principles of Material Handling
+1. Planning: A well chalked out plan should be in place to identify the material for proper handling equipment, storing and to handle all related activities.
+2. Coordinating the Operations: Ensuring that all the handling activities are carried out as per sequence and coordinating all operations.
+3. Straight Line Layout: Maintaining the straight path as much as possible to minimize the turning movements. Space Utilization Principle: Plant space utilization should be optimum. Unit Load Principle: Loading should be done based on the load handling capacity. Gravity Principle: Always prefer gravity to shift the materials where ever it is possible. Material Flow Principle: Prior planning should be done to sequence of operation and equipment arrangement to optimize the flow of the material. Simplification Principle: Use the simplest system and reduce/avoid unnecessary movements of equipment. Safety Principle: Inculcate the safest methods and equipment for material handling to avoid accidents/injuries. Special safety: Special safety is to be taken for movement of fragile, flammable, toxic, liquid or gaseous material. Mechanization Principle: Minimize the manual handling, prefer automated or mechanized equipment in material handling 12. Standardization Principle: Establish and fix the standard method, technique, size and type of material handling equipment Flexibility Principle: Opt for flexible methods and equipment to perform various activities in an industry. Equipment Selection Principle: All aspects regarding the material (load, size & shape), movement and method are considered while selecting equipment. Dead Weight Principle: Reduce the ratio of dead weight to pay load in mobile equipment. Motion Principle: The Equipment designed should be kept in motion for transporting the material Idle Time Principle: Minimize the idle hours and the unproductive hours of workers and equipment in order to enhance the productivity. Maintenance Principle: To avoid breakdowns, there should be scheduled, time based or preventive maintenance for all the material handling equipment. Obsolescence Principle: Replace the outdated methods and equipment with the advance methods and equipment to improve the efficiency. Capacity Principle: Choose handling equipment to carry the loads with full capacity. This will reduce the repetitive movement of equipment. Control Principle: Improve inventory control, production control and other handling by using material handling equipment and techniques. Performance Principle: The primary criterion in Material handling is to calculate its performance efficiency. This should be in terms of cost per unit handled.
+Material Handling Equipment Broadly material handling equipments can be classified into two categories, namely: Fixed path equipments and Variable path equipments.
+Table 2.1: Difference between Fixed Path and Variable Path Equipments (Table Description):
+Fixed Path EquipmentsVariable Path Equipments1These equipments move in a fixed path.These don't have any restriction in movement and direction. They can move wherever sufficient space is available2Modification is required in handling system if there is any change in the plant layoutNo modification is required in the handling equipment when the plant layout is redesigned.3Example: conveyors, pulley drivesExample: Forklifts, trucksSignificance of Material Handling The most significant aspect of material handling is that it enhances both the productivity and profitability and improves the safety. Improper material handling techniques and practices lead to low productivity and the enterprises may have to shut down their firms it they won't follow proper techniques and practices. Further, in order to sustain in the present competitive business world, industries have to improvise the old and conventional equipment with the latest and advanced material handling equipment. Proper and well-designed handling equipment are used to achieve the following:
+* Delivery of material and right quantity, place and time.
+* Reduction in labor cost.
+* Eliminating damages during storage or delivery of the product.
+* Minimizing inventory cost and to maximizing space utilization.
+* Following safety norms to avoid accident, human injury and sudden damages.
+* Minimization of overall cost in the plant.
+* Enhancing efficiency and production yields and plant handling systems.
+Limitations of Material Handling The limitations of material handling are given below:
+* Apart from general equipment cost, investment is needed in material handling equipments.
+* Further, flexibilities and improvisations cannot be done greatly once the system is installed.
+* With an integrated material handling system, any failure/stoppage leads to increased downtime of the production system.
+* Material handling system needs periodic maintenance; hence additional cost may incur for it.
+Elements of Material Handling
+* Movement - This is the actual transportation of material from one point to another.
+* Quantity - This Ensures the type of material handling equipment to be used the cost per unit.
+* Time - Time taken for material to be shifted to the work point and also materials queue to be processed and space that the materials can be stored.
+* Control - tracking of the material, selection of proper material handling units.
+* Safety - Improve the safety of man and material.
+* Analyze - the drawbacks in material handling system should be rectified and analyzed (if any) by proper decision making, which will help in various aspect.
+Advantages of Correct Material Handling
+* Proper utilization of space to store the goods
+* Better inventory control
+* Enhancing the working abilities
+* Qualitative goods
+* Reduction in risk factors
+* Time management
+* Cost reduction
+* Idle time reduction
+* Safe transportation
+Selection of Material Handling Equipment
+1. Material: Material Type, Properties, Chemical Actions
+2. Plant: Plant Layout, Building Orientation
+3. Nature of Operation: Operation Sequence, Volume of Production, Flow (i.e, Intermittent or Continuous) d. Distance to be Handled, Travel Path, Type and Extent of Movement
+4. Safety: Safe transportation of material, Safety of humans against accidents, Safety provision of handling equipment, Safe from pollution point of view
+Additional Factors a. Adaptability: the equipment should be fit for the material handling problems like load carrying without any damage to the product. b. Flexibility: the equipment must be flexible to handle variety of sizes and goods. c. Load capacity: material handling equipment should have the capability to carry bulk and heavy loads within the rated cost. d. Power: Enough power to do appropriate work e. Speed: Suitable material handling is selected for quick response of the product movement to the work points within the work space.
+Additional Factors a. Supervision Required: In the selection of material handling units, an automatic design as per requirement and ease of maintenance at a rated cost should be considered. b. Environment: Selection of equipment should be eco friendly as per our environment regulations. c. Cost: The selection should be based on how much is the cost and how much is the worth of it. d. Safety: The handling equipment must be safe for human and material for handling fragile, toxic, inflammable, liquid or gaseous materials
+Manual Material Handling Hazards
+1. Being struck by a load,
+2. Losing control of load,
+3. Physically overexerting oneself, and
+4. Exceeding equipment capacities.
+5. Strains and sprains
+6. Neck and back injury
+7. Slips, falls and crush incidents
+8. Cuts, bruises and acid burns
+9. Hernia and broken bones
+10. Occupational overuse syndrome (OOS)
+2.4 RISK FACTORS ASSOCIATED WITH MANUAL HANDLING ACTIVITIES Risk Factor 1: The Load
+* Handling large, bulky, or hazardous loads poses significant risks, including slips, unstable movements, and potential injury. Key Points:
+* Avoid huge, difficult-to-grasp, or unstable loads.
+* Steer clear of harmful loads like sharp or hot objects.
+* Do not carry loads too large to see over.
+Risk Factor 2: The Task
+* Mistakes in handling tasks, such as holding loads close to the body or adopting awkward postures, can lead to injuries. Key Points:
+* Hold loads away from the body.
+* Use proper protection and tools.
+* Avoid awkward postures and excessive force.
+* Do not carry loads over long distances.
+* Risk Factor 3: The Work Environment
+* A safe working environment is crucial. Limited space, poor cleanliness, and inadequate lighting increase accident risks.
+* Key Points:
+o Ensure sufficient space and good lighting.
+o Keep floors clean and non-slippery.
+o Avoid extreme temperatures and high noise levels.
+Risk Factor 4: Organizational and Psychosocial Factors
+* Management behavior and employee psychological well-being impact safety.
+* Proper supervision and supportive environments reduce risks. Key Points:
+* Maintain control over work tasks.
+* Ensure job satisfaction and avoid repetitive tasks.
+* Foster positive relationships between colleagues and managers.
+Risk Factor 5: Individual and Lifestyle Factors
+* An individual's health, habits, and personal background influence safety performance. Key Points:
+* Maintain good health and avoid smoking.
+* Ensure proper training and physical capabilities.
+* Women should take extended leave during pregnancy.
+* Handle tasks suitable for one's age and minimize stress.
+e) Training and Education
+* Provide comprehensive training for new and young workers on manual handling to prevent injuries. Training should cover: Manual handling hazards, Safe manual handling methods, Procedures for safe working, Use of manual handling aids, Right to ask for assistance f) Safe Working Procedures
+* Develop safe working procedures with input from experienced staff to protect inexperienced and newly hired workers. g) Keep Informing
+* New employees should communicate with their supervisors if they find tasks too strenuous, difficult, unsafe, or overly taxing.
+Ways to reduce risk at work The following are the ways of reducing risk at work: a. Lighten loads (break loads into smaller quantities); b. Reduce bending, twisting, reaching movements and heights c. Prevent muscle strain and fatigue. This includes warming up before working, allocating time for rest breaks, and allocating time to gradually get used to a new job. d. Use of proper tools and aids e. Proper layout of release point, delivery point, storage and movement path.
+2.5 SAFETY CONSIDERATIONS IN MANUAL MATERIAL HANDLING Two main considerations in manual handling are the layout of the work area and the load handling geometry. i) Layout of Work Area A well-designed work area enhances safety and prevents injuries. Key aspects include:
+* Preventing Awkward Postures: Arrange the workspace to avoid twisting, bending, and overreaching.
+* Height of Working Platform: Ensure the platform is at waist height or adjustable to avoid bending.
+* Sufficient Space: Provide ample space for easy movement and turning to prevent twisting.
+* Proper Storage: Avoid storing materials directly on the floor. Use racks at a reachable height to prevent back injuries.
+ii) The Power Zone Safe and effective lifting is facilitated by carrying loads within a specific boundary known as the power zone. This zone is:
+* Location: Between the mid-chest and mid-thigh, close to the body.
+* Efficiency: Lifting within the power zone requires less effort from the arms and back, reducing the risk of injury.
+* Danger Zone: Regions above the power zone boundary are considered danger zones and should be avoided for lifting tasks. (Model/Diagram Description: A schematic drawing of a human torso showing a middle "POWER ZONE" located between the mid-chest and mid-thigh, and upper/lower "DANGER ZONE" regions above and below this central zone.)
+Safety Tips For Manual Material Handling a. Check the Load Before You Lift It
+1. Inspect the Load: Always examine the load or material before lifting to identify any damage.
+2. Test the Load: Push the load slightly to gauge its weight and ensure it moves easily.
+3. Weight Assumption: Remember, a small object does not necessarily mean it's lightweight.
+B) Ensure the Load is Packed Correctly
+1. Balanced Weight: Ensure boxes are packed with balanced weight and tightened to prevent movement.
+2. Prevent Accidents: Avoid packing loose pieces to maintain stability and prevent accidents.
+3. Handle Fragile Items: Pack fragile materials like glass or electronics with protective materials (e.g., bubble wrap) and mark as "handle with care."
+4. Proper Orientation: Mark boxes if materials need to be kept in a specific orientation.
+g) Team Lifting Steps for Team Lifting:
+1. Assess the Load
+2. Choose the Team
+3. Nominate a Leader
+4. Plan the Lift
+5. Lift Together.
+6. Adjust as Needed (Figure/Diagram Description: An illustration demonstrating synchronized team lifting by multiple people using tools/straps.)
+Planning Ahead
+* Plan the Route: 
+o Analyze the safety, limitations, and potential hazards of the route, ensure the load can be moved smoothly and continuously.
+* Assess the Load: 
+o Evaluate the shape and weight of the load.
+o Consider the following questions: Do you need assistance? Is the shape/weight/size within your limits? Can you see the route clearly? Do you need any safety measures?
+Additional Safety Considerations
+* To ensure the safety and efficiency of manual material handling, consider the following guidelines:
+1. Stacking: Ensure the base is clean, neat, and level. Do not exceed height limits. Avoid crushing the load.
+2. Drums: Use a lift truck for moving drums, even for short distances. Roll empty drums on their side, not on the rim.
+3. Cylinders: Protect valves with proper safety caps. Use special hand trucks for moving cylinders. "Walk" cylinders only short distances to align them. Store cylinders in designated areas, secured with safety chains or bars
+4. Mechanical Aids: Use mechanical aids like hand trucks or rolling carts for moving loads.
+Classification of MMHE
+* Material handling equipment can be classified into five major categories based on movement, load-carrying capacity, automation, shape and size, and the type of material to carry:
+1. Conveyors: are devices that transport materials from one place to another, suitable for both continuous and intermittent operations. They are particularly useful in mass production operations with a steady flow. Various conveyor systems exist, each designed for specific material transportation needs.
+* 2. Industrial Trucks
+* Industrial trucks, such as forklifts and dumper vehicles, are not fixed in one place and can travel between workstations. These trucks are flexible and suitable for handling different sizes and shapes of materials. They are powered by fuel, electricity, or hand power.
+* 3. Cranes and Hoists
+* Cranes and hoists move heavy materials through overhead space but have limited movement areas. They are used in both intermittent and continuous production settings.
+* 4. Containers: can be either static (e.g., cartons, barrels, skids, pallets) or mobile (e.g., wagons, wheelbarrows, or automated containers). Static containers hold materials for transport, while mobile containers can move materials themselves, often manually operated.
+* 5. Robots: come in various sizes and functionalities, capable of material handling, transporting products, machining, welding, and spray painting. They are advantageous for working in hostile environments and performing repetitive, heavy tasks with speed and accuracy.
+Mechanical Material Handling Equipment: Hazards and Its Control a. Cranes
+* Use and Flexibility: Cranes are used for transferring loads horizontally and vertically within a specific area. More flexible than conveyors but less flexible than trucks. Can handle loads of various shapes, sizes, and weights.
+* Reasons for Cranes Failures:
+1. Overturning: Weak support, striking obstructions, and strong winds. Operating beyond capacity.
+2. Overloading: Handling loads beyond the crane's capacity.
+3. Collisions: With other equipment, cables, transformers, or electric poles.
+4. Support or Floor Failures: Weak floors or ground. Structural component failures.
+5. Operating Errors: Operator errors due to poor eyesight or inadequate training.
+* Control of Hazards:
+* Cranes must be tested, certified, and clearly marked with safe load limits.
+* Regular maintenance and immediate repairs for identified faults.
+* Incorporate safety measures for operation.
+* Check operating areas to avoid collisions.
+* Ensure operators are physically and mentally fit, well-trained, and have clear visibility.
+a. Hoists
+* Function: Hoists hold and support loads within confined spaces. Not preferred for long distances or crowded workplaces. Types include balancing hoists, triaxial manipulators, and overhead trolley suspension hoists.
+* Reasons for Hoists Failures:
+2. Striking Obstructions: Improper projection into space.
+3. Structural Failure: Operating beyond capacity.
+4. Overloading
+5. Loss of load
+6. Collisions
+7. Operating errors
+* Control of Hazards:
+* Maintain records of maintenance and inspections.
+* Place solid supports under ground-level hoistways and approach areas.
+* Provide training for safe operation.
+* Incorporate safety measures for hoist operation.
+a. Forklifts
+* Function: Material handling trucks with large metal forks at the front. Rear wheel steering mechanism for maneuverability in tight spaces.
+* Reasons for Forklift Trucks Failures:
+1. Overturning: Driving at high speed, down ramps with loads, or sudden braking.
+2. Overloading: Exceeding maximum lifting capacity.
+3. Dangerous Stacking: Destabilizing a complete racking column.
+4. Floor Failure: Uneven floors or exceeding load capacity.
+* Control of Hazards:
+* Ensure forklifts are operated within safe speed limits and load capacities.
+* Provide proper training for operators.
+* Maintain and inspect forklifts regularly.
+* Ensure the workplace is free from hazards that can cause forklift failures.
+* D. Conveyors
+* Function:
+* Transport materials from one workstation to another.
+* Operate by gravity or electrical power.
+* Require workers for lifting or lowering operations.
+* Hazards Related to Conveyors:
+1. Power Transmission Hazards: Involve moving and rotating parts like pulley belts, couplings, sprockets, chains, and shafts. Crushing, dragging, or entanglement with rotating parts can result in severe injuries.
+2. Other Conveyor Moving Part Hazards: Associated with in-running nips and moving conveyor belts. May result in dragging into in-running nips or being struck by ruptured belts.
+3. Confinement Zone Hazards: Result in crushing and shearing between the load and a fixed object.
+4. Moving Load Hazards: Occur when workers' hands come in contact with moving loads. Results in crushing and shearing between fixed walls and loads.
+5. Moving Sub-assembly Hazards: Occur when conveyors re-orient or change the direction of loads.
+* Control of Hazards:
+* Provide trip devices and nip guards.
+* Avoid wearing loose clothing near conveyors.
+* Arrange fixed caps or guards on either side of the elevator and around the power drive.
+* Provide bump caps where necessary.
+* Remove sharp edges.
+Basic Guidelines for Electrical Safety
+* Avoid Contact with Energized Electrical Circuits: Treat all devices as if they are live. Test for de-energization before handling equipment. Avoid unguarded and energized equipment.
+* Stay Away from Water: Prevent electrical accidents by avoiding water while working with electricity. Do not handle electrical equipment with wet hands, feet, or body.
+* Ensure Proper Insulation and Grounding: Do not overload outlets or extension cords. Avoid using equipment with damaged plugs or cords. Ensure all cords are tidy and away from pathways. Properly ground equipment to prevent electric shocks. Cover unused electrical outlets with safety caps.
+* Check for Main Supply: Always ensure the main supply is turned off before working. Use warning signs to prevent accidental power restoration.
+Other Guidelines
+* Use Appropriate Equipment Ratings
+* Avoid Electrical Shocks
+* Wear Non-Conductive/Insulated Gadgets
+* Use Fiber/Wooden Ladders
+* Practice Proper Soldering
+* Use Storage Element Capacitors Safely
+* Avoid Over Current/Short Circuit Faults
+* Proper Underground Cable Connections
+* Avoid Metallic Tools
+* Basic Safety Measures
+* Avoid Cold & Flammable Gases
+* Avoid Loose Clothing
+SUMMARY The "Principles of Material Handling" outline key guidelines for efficient material handling in industrial settings. Effective planning, coordination, and straight-line layouts are essential for optimizing operations. Space and unit load utilization, along with prioritizing gravity for material movement, enhance efficiency. Simplifying processes, ensuring safety, and mechanizing tasks minimize risks and improve productivity. Standardization, flexibility, and careful equipment selection are critical for maintaining efficiency. Reducing idle time and maintaining equipment prevent downtime, while modernizing outdated systems boosts productivity. The principles aim to minimize costs, maximize space, and ensure safe, efficient material flow, despite some limitations such as investment needs and maintenance costs.
+This content is an extracted portion from the electronic and/or printed textbook. Due to electronic rights restrictions, certain third-party content may have been omitted. Editorial review has determined that the content in this POWERPOINT PRESENTATION does not significantly impact the overall learning experience. The published PowerPoint has been modified and reserves the right to remove content from this title at any time if subsequent rights restrictions require such action. ALL RIGHTS BELONG TO: DR. LUIS ALFARO DIRECTOR OF PORTS, LOGISTICS AND SCM SOUTHSTAR MANAGEMENT INSTITUTE, DA NANG, VIETNAM
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS
+Thank You
+
+
+
+Dưới đây là toàn bộ nội dung trong nguồn tài liệu mới được xuất ra thành văn bản thuần túy, giữ nguyên ngôn ngữ gốc là Tiếng Anh:
+PRODUCT QUALITY, PACKING AND HANDLING OF MATERIALS - 344
+COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Product Quality, Packing, and Handling of Materials."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam.
+This course is designed for the undergraduate level/program."
+"Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+UNIT 3 AUTOMATED MATERIAL HANDLING
+Structure 3.1 Introduction 3.2 Introduction to AGVS 3.3 Introduction to Industrial Robots 3.4 Summary
+3.1 INTRODUCTION Automated material handling (AMH) systems improve efficiency of transportation, storage and retrieval of materials, where computers direct automatic loaders to pick and place items. Automated guided vehicle (AGV) systems use embedded floor wires to direct driverless vehicles to various locations in the plant. Some benefits are systems that include quicker material movement, lower inventories and storage space, reduced product damage and higher labour productivity.
+OBJECTIVES After studying this unit, you should be able to understand the
+* importance of AGV in a computer-integrated manufacturing system,
+* role of industrial robots in a computer-integrated manufacturing systems, and
+* alternative for automated material handling system.
+3.2 INTRODUCTION TO AGVS A material-handling system can be simply defined as an integrated system involving such activities as handling and controlling of materials. Multiple materials are included. The main motto of an effective material-handling system is to ensure that the material in the right amount is safely delivered to the desired destination at the right time and at minimum cost. Robots have become strategic with respect to the modern material handling practices at the industry.
+3.2.1 AUTOMATED GUIDED VEHICLES Automated guided vehicle systems (AGVs), commonly known as driverless vehicles, are turning out to be an important part of the automated manufacturing system. With the shift from mass production to mid-volume and mid-variety, flexible manufacturing systems, are increasingly in use. The importance of AGVs has grown in manifold. It is a battery-powered driverless vehicle with programming capabilities for destination, path selection, and positioning.
+AGVs have built-in collision avoidance capabilities, ensuring they stop before causing any damage to personnel, materials, or structures. They are increasingly becoming integral to flexible manufacturing system installations. Also, AGV's are versatile in nature and possess flexible material-handling system. A system controller receives instructions directly from the host computer, communicates with other vehicles, and issues appropriate commands to each vehicle. To facilitate the communication, they are connected through a wire in the floor or by radio.
+3.2.2 COMPONENT OF AGVS There are four main components of an AGV:
+1. The Vehicle: It is used to move the material within the system without a human operator.
+2. The Guide Path: It guides the vehicle to move along the path.
+3. The Control Unit: It monitors and directs system operations including feedback on moves, inventory, and vehicles.
+4. The Computer Interface: It is connected with other computers and systems such as mainframe host computer, the Automated Storage and Retrieval System (AS/RS), and the Flexible Manufacturing System.
+3.2.3 DIFFERENT TYPES OF AGVS There are different types of automated guided vehicles that can cater different service requirements. The level of sophistication of AGVS has increased, enabling automatic positioning and pickup and drop-off (P/D) of cargo. They perform P/D services between machining work centers, storage racks, and the AS/RS. Additionally, they can travel both ways on the same path and are capable of real-time dispatching under computer control. The different types of AGVS are discussed in the following section.
+The vehicle types include :
+AGVS Towing Vehicle The earliest type introduced, are automated guided tractors. They can tow various trailers like flatbed, pallet, custom, and bin trailers. Loading and unloading equipment includes AGV-pulled trains, hand pallet trucks, cranes, forklift trucks, and automatic transfer equipment.
+AGVS Pallet Trucks They are designed to lift, maneuver, and transport palletized loads, eliminating the need for fixed load stands. They handle floor-level loading and unloading, requiring only that loads be on a pallet. Loading and unloading can be done automatically or manually, and the vehicle follows a predetermined path to the storage area destination.
+AGVS Forklift Trucks They can automatically pick up and drop off palletized loads at different heights, making it versatile for various material-handling systems. Equipped with sensors for high-level stacking, it integrates well with subsystems of varying loading and unloading heights. Despite being one of the most expensive AGVS types, it is ideal for full automation scenarios.
+AGVS Light Load Transporters They are applied in handling small, light parts over a moderate distance and distribute the parts between storage and number of workstations.
+AGVS Assembly-Line Vehicles They are adapted light-load transporters used for serial assembly processes, carrying major sub-assemblies like motors and transmissions. They move between stations, stopping for assembly operations until reaching the final unloading station. These systems are less expensive and easier to install and reconfigure compared to traditional assembly lines, with programmable speeds and dwell intervals. However, extensive planning and complex computer control are required for overall integration.
+3.2.4 GUIDANCE SYSTEMS FOR AGVS The primary purpose of a guidance system is to keep the vehicle on a predetermined path. AGVS guidance systems are advantageous because their guide paths can be changed easily and at a low cost, unlike fixed-path equipment such as conveyors. Various guidance systems are available, including wire-guided, optical, inertial, infrared, laser, and teaching-type systems, with the choice depending on specific needs, applications, and environmental constraints.
+3.2.5 ROUTING OF THE AGVS AGVS routing means determining how the vehicle conforms the path and takes a shortest path between the two points. The commonly used methods are : "frequency selection method" and the "path switch selection method".
+3.2.6 AGVS Control Systems Three types of AGVS control systems are available. Computer Controlled System All exchanges and AGVS vehicle movements are controlled and monitored by the system controller. The guide path controller manages the guide path and communicates this to the AGVS process controller, which directly controls the vehicle's movements. Remote Dispatch Control System A human operator controls the movement of AGVS through a remote control station. The control system sends destination instructions directly to the vehicle. Manual Control System In this type of system, the operator loads the vehicle and enters a destination into the onboard control panel of the vehicle. The efficiency of the system depends on the skill of the operator.
+3.2.7 Interface with Other Subsystems The computer-controlled system can link the AGVS materials-handling system with other subsystems, such as automated storage and retrieval systems (AS/RS), CNC machines, shop floor control systems, process control equipment, and flexible manufacturing systems. These can be interconnected via a distributed data processing network, allowing system control computers to communicate directly without a host computer.
+3.2.8 AGVS Design Features Many design features of AGVS are common to other material handling systems, but unique attributes include stopping accuracy, facilities, safety, and maintenance. Stopping accuracy is crucial, varying by system requirements: high for automatic load transfer, lower for manual. Unit load transporters need high accuracy, provided by computer control systems, with tolerances ranging from $\pm 0.001$ inch for machine tools to $\pm 3$ inches for manual systems. AGVS designs must also consider safety features like emergency bumpers, stop buttons, object detectors, warning signals, and stopping devices to prevent injuries and damage.
+3.2.9 System Design of AGVS The decision process related to the system design is very complex in nature. A number of issues are to be addressed which includes:
+1. Guide path layout
+2. Number of vehicles required
+3. Flow path design
+4. Selection of guide path type and vehicle type
+5. Type of flow path within the layout
+6. Location and number of load transfer points and load transfer station storage space. Operational issues, like vehicle routes, are crucial and must synergize with design features for successful AGVS implementation.
+3.2.10 Flow Path Design Flow path design is critical in AGVS design, involving decisions on guide path layout, flow path, load transfer points, and station storage space. Key issues like vehicle blocking, congestion, and unloaded travel depend on vehicle numbers and pickup/delivery requests. Simulation, using information on department layouts, aisles, and material flow intensities, helps create realistic designs.
+Required Number of AGVS Estimation of the number of AGVs required in the system is an important element of the system design.
+Here, we provide a simple mathematical analysis for the determination of the number of vehicles. = Total average loaded travel distance. = Total average empty travel distance. = Number of deliveries required per hour. = Traffic factor that accounts for blocking of vehicles and waiting of vehicles in line and at intersection. = Vehicle speed. = Loading and unloading time
+*For traffic factor, if there is no congestion, the traffic factor is 1. However, when more vehicles are involved, the traffic factor value will certainly be less than 1. Normally, Tf lies between 0.85 and 1.
+The total time per delivery per vehicle is given by the sum of loaded travel time, loading and unloading time, and empty travel time as follows : Number of deliveries per vehicle per hour Number of automated guided vehicles
+*The treatise discussed here provides an approximate estimate of number of vehicles
+Example 3.1 Pradeep Engineering is contemplating to integrate the AGVS and AS/RS with their flexible manufacturing system. It is also in the process of determination of number of AGVSs for its manufacturing system. It has to deliver 67 pieces per hour. The company has decided in favour of installing a wire guided path system and the unit load AGVS. The following data has been collected as shown in Table 3.1.
+Table 3.1 : Data Pertaining to the AGVS in the Industry | | | | :--- | :--- | | Vehicle Speed | 200 ft/min | | Average loaded travel distance per delivery | 600 ft | | Average empty travel distance per delivery | 400 ft | | Pickup time | 0.25 min | | Drop-off time | 0.25 min | | Traffic factor | 0.75 |
+The total time per delivery per vehicle is given by: Number of deliveries per vehicle per hour Hence, the number of vehicles required = 8 vehicles
+Example 3.2 An automated manufacturing system for machining crankshafts in a forging industry is planning to implement AGVs in the organisation. There are five CNC workstations (A, B, C, D, E) and a load-unload station (F). Approximate time of moving the crankshaft on AGVS between stations is shown in Table 3.2.
+Table 3.2 : Approximate Time of Moving the Crankshaft on AGVS between Stations
+ABCDEFA-2---1B2.5-2.5---C-3-1.0--D--2-0.5-E---1.5-1.0F0.5---0.5-One hundred crankshafts are machined in every 8-h shift and the operations on the crankshaft are performed in sequence from station A through E. Assuming that:
+| | | | :--- | :--- | | Pickup time | 0.75 min | | Drop-off time | 0.75 min | | Traffic factor | 0.95 | | Load factor | 0.75 |
+Determine the number of AGVSs to meet the demand of moving 100 crankshafts. Total travel time of a crankshaft from a pickup operation to a drop-off operation
+Considering that there are delays due to congestion and there is empty travel of AGVs: Total AGVS travel time for one crankshaft = Total available time per shift time This means that approximately 3 vehicles are required. Remember that: In this problem, the empty travel times of the AGV is not known though load factor is known to us. Here, load factor refers to the percentage of time the AGVS carries the load.
+3.3 INTRODUCTION TO INDUSTRIAL ROBOTS An industrial robot is a general-purpose, programmable machine with anthropomorphic characteristics, commonly featuring a mechanical arm for various tasks. Key attributes include decision-making, communication with other machines, and response to sensory inputs, allowing versatility.
+3.3.1 Robot Anatomy A robot joint allows relative movement between parts of a robot arm, enabling the end-effector to move along a desired path. The basic movements include rotational (horizontal direction), radial (reaching distant points), and vertical (different heights). These degrees of freedom define the complete motion of the end-effector. Joints can be prismatic or revolute, depending on the nature of their relative motion with adjoining links.
+3.3.2 Robot Classification Robots are classified based on physical configuration and control systems. The four main types of physical configurations are:
+1. Cartesian Configuration: Consists of links connected by linear joints (L), also known as rectilinear or gantry robots.
+2. Cylindrical Configuration: Features one rotary (R) joint at the base and linear (L) joints, operating in a cylindrical space.
+3. Polar Configuration: Has a spherical workspace with a twisting (T) joint at the base and either rotary (R) or linear (L) joints, designated as TRL (spherical robots) or TRR (articulated robots).
+4. Jointed-Arm Configuration: Combines cylindrical and articulated configurations, with a twisting joint at the base and rotary joints in the arm, commonly seen in SCARA robots used for assembly tasks.
+3.3.3 Classification based on Control Systems
+1. Point-to-Point (PTP) Control Robot: Moves from one point to another, with locations recorded in control memory. Common applications include component insertion, spot welding, hole drilling, and machine loading/unloading.
+2. Continuous-Path (CP) Control Robot: Moves along a controlled path and can stop at specified points. All points along the path are stored in memory, enabling straight-line or smooth curve motions as defined by the programmer.
+3. Controlled-Path Robot: Develops paths of various geometries (straight lines, circles, curves) with high accuracy. Only the start and finish points, along with path definitions, are stored in memory. These robots have servo capability for path correction.
+3.3.4 Robotic Applications in the Industry When selecting a robot application, the work environment is crucial, especially in hazardous conditions where robots can replace human labor. Robots are widely used in manufacturing, with applications classified into:
+1. Material handling
+2. Processing operations
+3. Assembly and inspection
+These applications must be technically and economically viable for the industry. Continuous Arc Welding Continuous arc welding provides continuous welds and is recommended for automation due to tough working conditions. The robotic cell includes a robot, welding apparatus (power unit, controller, welding tool, wire feed mechanism), and a fixture that may have one or two degrees of freedom to position the work for welding. Spray Coating Spray coating uses a spray gun to apply fluid over an object. Robotic applications include spray coating appliances, automobile parts, wood products, and porcelain coatings on bathroom fixtures.
+Other Processing Applications
+* Drilling, routing, and other machining processes
+* Laser cutting
+* Riveting
+* Grinding, wire brushing, and similar operations
+* Water jet cutting
+Assembly and Inspection Assembly and inspection combine material handling and processing, involving either handling materials or manipulating tools. These labor-intensive, repetitive tasks are ideal for robotic applications, where production rate is a key performance measure.
+Example 3.3 Calculate the cycle and production rate for a single-machine robotic cell for an 8-hr shift if the system availability is 85%. Also determine the percent utilization of machine and robot. On average, the machine takes 35 sec. to process a part. The other robot operation times are as follows :
+| | | | :--- | :--- | | Robot picks a shaft from the conveyor | 4.0 sec | | Robot moves the shaft to the lathe | 1.5 sec | | Robot loads the shaft onto the lathe | 1.0 sec | | Machine processes the part | 35.0 sec | | Robot unloads the shaft from the lathe | 0.5 sec | | Robot moves the conveyor | 1.5 sec |
+Solution: Robot utilization = $\frac{Robot\ cycle\ time}{Total\ cycle\ time} = 14/49 = 0.2857$ or $28.57%$
+3.3.5 Double-Gripper Robot in a Single-Machine Cell A double-gripper robot has two gripping devices attached to the wrist. They can be put into action independently. The double gripper can be used to handle a finished and unfinished items simultaneously. This helps in increase in the productivity. A numerical example has been given to clarify this point. Example 3.4 In this case study, we eluc idate the improvement in productivity with the use of double-handed grippers using the data in the previous example.
+Solution: Considering: The operation sequence with double-handed gripper is Machine cycle time = 35 sec. Robot unloads the shaft from the lathe = 0.5 sec Robot loads the part onto the machine = 1.0 sec The total cycle time is 36.5 sec. The productivity increase obtained by using a double-handed gripper is
+3.4 SUMMARY In this unit, we covered Automated Guided Vehicles (AGVs) and industrial robots. Industrial automation has led to advancements in microprocessors, programmable controllers, and CNC systems. AGVs are flexible, reliable, and cost-effective material-handling systems that integrate well with other systems like FMSs and AS/RS. Robots have become crucial in industrial automation, performing various tasks across different applications. Understanding the fundamentals of robotics and AGVs is essential for effective management in this field.
+This content is an extracted portion from the electronic and/or printed textbook. Due to electronic rights restrictions, certain third-party content may have been omitted. Editorial review has determined that the content in this POWERPOINT PRESENTATION does not significantly impact the overall learning experience. The published PowerPoint has been modified and reserves the right to remove content from this title at any time if subsequent rights restrictions require such action. ALL RIGHTS BELONG TO: DR. LUIS ALFARO DIRECTOR OF PORTS, LOGISTICS AND SCM SOUTHSTAR MANAGEMENT INSTITUTE, DA NANG, VIETNAM
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS
+Thank You
+
+
+
+Dưới đây là toàn bộ nội dung trong file được xuất ra thành văn bản thuần túy, giữ nguyên ngôn ngữ gốc là Tiếng Anh:
+PRODUCT QUALITY, PACKING AND HANDLING OF MATERIALS - 344
+COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Product Quality, Packing, and Handling of Materials."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam.
+This course is designed for the undergraduate level/program."
+"Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+UNIT 4 SECTION I FACILITIES LAYOUT AND MATERIALS HANDLING
+Structure 4.1 Introduction 4.2 Basic Types of Plant Layouts 4.3 Plant Layout Factors 4.4 Layout Design Procedure
+Objectives After completing this unit, you will understand different types of layout problems, basic plant layouts, and factors in layout design. You'll learn to use tools for analyzing material flow, estimate space for work centers, and employ computerized layout design techniques. Additionally, you'll gain skills in evaluating, presenting, and implementing layouts, selecting material handling systems, and understanding the role of automation in plant design.
+4.1 INTRODUCTION Facilities layout involves the optimal arrangement of resources like people, machines, and materials. As layout changes are costly and difficult, it is a strategic decision crucial for minimizing material handling efforts, reducing scrap and rework, and ensuring efficient space utilization.
+Objectives and Advantages Some of the important objectives of a good plant layout are as follows: i) Overall simplification of production process in terms of equipment utilisation, minimisation of delays, reducing manufacturing time, and better provisions for maintenance. ii) Overall integration of man, materials, machinery, supporting activities and any other considerations in a way that result in the best compromise. iii) Minimisation of material handling cost by suitably placing the facilities in the best flow sequence. iv) Saving in floor space, effective space utilisation and less congestion/ confusion. v) Increased output and reduced inventories-in-process. vi) Better supervision and control. vii) Worker convenience, improved morale and worker satisfaction. viii) Better working environment, safety of employees and reduced hazards. ix) Minimisation of waste and higher productivity. x) Avoid unnecessary capital investment. xi) Higher flexibility and adaptability to changing conditions.
+Types of Layout Problems The facilities layout problems can be classified according to the types of facility under consideration e.g.: i) Manufacturing Plants. ii) Commercial facilities, e.g., shops, offices, Bank etc. iii) Service facilities, e.g., Hospitals, Post Offices etc. iv) Residential facilities, e.g., houses, apartments etc. v) Cities, townships vi) Recreational facilities, e.g. parks. theatres etc.
+Flow Patterns The flow principle arranges work areas for each operation to ensure a smooth overall flow through the production or service facility. Common flow patterns used in layout design include I-flow, L-flow, U-flow, O-flow, and S-flow. These patterns are illustrated and explained in Figure 1.
+Figure 1 (Flow Patterns - Model Description):
+* a) I-Flow: (Diagram description: A straight flow line moving horizontally through a rectangular block).
+* b) L-Flow: (Diagram description: A flow line moving horizontally into a block and then turning 90 degrees downward).
+* c) U-Flow: (Diagram description: A flow line entering one side of a block, moving along the edge, turning 180 degrees, and exiting on the same side, forming a U shape).
+* d) S-Flow (Serpentine Flow): (Diagram description: A flow line entering one side, moving back and forth in an S or zig-zag pattern across the block).
+* e) O-Flow: (Diagram description: A flow line entering a block, following a looped path, and exiting near the entry point, forming an O shape).
+I-Flow: separate receiving and shipping area. L-Flow: when straight line flow chart to be accommodated. U-Flow: very popular as a combination of receiving and shipping. O-Flow: when it is desired to terminate the flow near where it is originated. Serpentine or S-Flow: when the production line is long and zigzagging on the production floor is required.
+4.2 BASIC TYPES OF PLANT LAYOUTS There are five basic types of layout designs, each suited to different activity and flow requirements. Practical layouts often combine these basic types to meet specific needs. The fundamental layout types are:
+A) Product or Line Layout A product-focused layout is designed for producing a single product or type of product in a specific area, commonly known as an 'assembly line' for assembled products. Work centers are arranged sequentially, allowing raw materials to move quickly from one operation to the next with minimal storage and handling.
+Fig II (a) Product or Line Layout (Model Description): (Model description: Shows two parallel flow lines (Product A and Product B) starting from Raw Materials and ending at Finished Goods. Flow Line - Product A sequence: 1 (Cast), 2 (Turn), 3 (Mill), 4 (Grind), 5 (Paint), 6 (Inspect), 7 (Pack). Flow Line - Product B sequence: 1 (Forge), 2 (Drill), 3 (Grind), 4 (Heat Treat), 5 (Inspect), 6 (Pack). Operations are arranged sequentially for each product line.)
+The major problem in designing the product-focused systems is to decide the cycle time and the sub-division of work which is properly balanced (popularly known as line balancing). Some of the major advantages of this type of layout are: i) Reduction in material handling. ii) Less work-in-process. iii) Better utilisation and specialisation of labour. iv) Reduced congestion and smooth flow. v) Effective supervision and control.
+(B) Process or Functional Layout This layout is designed for process-focused systems, where processing units are organized by functions into departments, each with specific skills and facilities. Similar equipment and operations, such as milling, foundry, and drilling, are grouped together. Process-focused systems are widely used in manufacturing and service facilities, such as hospitals and municipal services. Functional layouts are ideal for low-volume, batch production and non-standardized products, offering economical flexibility when required. This flexibility is crucial for adapting to varying production needs.
+Fig II (b) Process Layout (Model Description): (Model description: Departments are grouped by function (Foundry, Turning, Drilling, Treatment, Inspection, Forging, Milling, Grinding, Painting). Materials (Product A and Product B) follow complex, crisscrossing routes between functional departments before reaching Finished Goods.)
+The major advantages of a process layout are: i) Better machine utilisation. ii) Higher flexibility. iii) Greater incentive to individual worker. iv) More continuity of production in unforeseen conditions like breakdown, shortages, absenteeism etc.
+(C) Cellular or Group Layout A cellular layout is a functional arrangement where facilities are grouped into cells based on group technology principles. This layout combines the advantages of mass production with high flexibility, allowing for a high degree of automation even with varied product requirements. Each cell is capable of performing similar functions for a group of products.
+Fig II (c) Cellular Layout (Model Description): (Model description: Shows products (C, A, B, D) flowing through functional groupings (e.g., Lathe, Milling, Drilling, Shaper, Honing, Boring) which are arranged within a cell structure before moving to secondary operations (Hardening, Tempering, Testing, Inspection, Packaging). Flow is relatively streamlined within the cell for specific product groups.)
+Job-shop Layout It is a layout for a very general flexible system that is processing job production. The preparation of such a layout is dependent on the analysis of the possible populations of orders and is a relatively, complex affair.
+Project or Fixed Position Layout The fixed position layout is used primarily in project-based systems where a large component remains stationary while assembly occurs around it. This method is less common today due to the complexity and size of modern manufacturing machinery. It's employed when moving major components is impractical, as seen in ship production. The fixed position layout is suitable for unique project scenarios involving one type of product.
+Some of the major advantages of fixed position layout are as follows: i) The handling requirements for major unit are minimised. ii) Flexible with reference to the changes in product design. iii) High adaptability to the variety of product and intermittent demand. iv) The responsibility for quality can be pin-pointed. v) The capital investment is minimum. A typical fixed position layout is shown in Figure II (d).
+Fig II (d) Fixed position Layout (Model Description): (Model description: A central "Main Assembly" is stationary. Resources such as Worker, Tools, Handling Equipment, Machine 1, and Machine 2 are arranged non-sequentially around the central assembly.)
+Layout Comparison As production volume increases, operations can shift from fixed position layout to process layouts where materials move between work centers. For mass production, product layouts on assembly lines maximize efficiency. Figure III illustrates the break-even analysis for these layouts based on production volumes.
+Figure III Break-even point analysis of basic types of layouts (Graph Description): (Graph description: A plot of Costs vs. Production volume (pieces/month). The graph shows intersecting cost lines for Fixed position layout, Process layout, and Product layout, along with a Sales income line. Break-even points indicate where sales income covers costs. The graph illustrates that Fixed position layout is most economical at low volumes, Process layout at medium volumes, and Product layout becomes more economical than process layout and fixed position layout at higher volumes.)
+4.3 PLANT LAYOUT FACTORS The design of any layout is governed by a number of factors and the best layout is the one that optimises all the factors. As discussed by Muther (1955) the factors influencing any layout are categorised into the following eight groups: i) The material factor: Includes design, variety, quantity, the necessary operations, and their sequence. ii) The man factor: Includes direct workers, supervision and service help, safety and manpower utilisation. iii) The machinery factor: Includes the process, producing equipment and tools and their utilisation. iv) The movement factor: Includes inter and intradepartmental transport and handling at the various operations, storages and inspections, the materials handling equipments. v) The waiting factor: Includes permanent and temporary storages and delays and their locations. vi) The service factors: Include service relating to employee facilities such as parking lot, locker rooms, toilets and waiting rooms etc.. service relating to materials in terms of quality, production control, scheduling, despatching, waste control; and service relating to machinery such as maintenance. vii) The building factor: Includes outside and inside building features and utility distribution and equipment. viii) The change factor: Includes versatility, flexibility and expansion.
+4.4 LAYOUT DESIGN PROCEDURE The overall layout design procedure can be considered to be composed of four phases viz.:
+* Phase I Location.
+* Phase II General Overall Layout.
+* Phase III Detailed Layout.
+* Phase IV Installation.
+Some important guidelines that help in the layout design are: i) Plan from whole to details. ii) First plan the ideal and then move to the practical aspects. iii) Material requirements should be central to the planning of process and machinery. iv) Modify the process and machinery by different factors to plan the layout.
+The detailed design procedure includes: iii) Analysis of data and its presentation in the form of various charts. iv) Designing the production process. v) Planning the material flow pattern and developing the overall material handling plan. vi) Calculation of equipment requirements and work centres. vii) Planning of individual work centres. viii) Selection of material handling equipment. ix) Determining storage requirements. x) Designing activity relationships. xi) Planning of auxiliary and service facilities. xii) Calculation of space requirements and allocation of activity areas. xiii) Development of Plot Plan. xiv) Development of Block Plan. xv) Development of detailed layouts in terms of steps (vii) to (xi). xvi) Evaluation, modification and checking of layouts. xvii) Installation of layouts. xviii) Follow up.
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS
+Thank You
+[Copyright/Disclaimer Notice] This content is an extracted portion from the electronic and/or printed textbook. Due to electronic rights restrictions, certain third-party content may have been omitted. Editorial review has determined that the content in this POWERPOINT PRESENTATION does not significantly impact the overall learning experience. The published PowerPoint has been modified and reserves the right to remove content from this title at any time if subsequent rights restrictions require such action. ALL RIGHTS BELONG TO: DR. LUIS ALFARO. DIRECTOR OF PORTS, LOGISTICS AND SCM. SOUTHSTAR MANAGEMENT INSTITUTE, DA NANG, VIETNAM.
+
+
+
+PRODUCT QUALITY, PACKING AND HANDLING OF MATERIALS - 344
+COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Product Quality, Packing, and Handling of Materials."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam.
+This course is designed for the undergraduate level/program."
+"Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+Unit 5: Facilities Layout and Materials Handling
+Structure 5.1 Introduction 5.2 Basic Types of Plant Layouts 5.3 Plant Layout Factors 5.4 Layout Design Procedure 5.5 Flow and Activity Analysis 5.6 Space Determination and Area Allocation 5.7 Computerized Layout Planning 5.8 Evaluation, Specification, Presentation and Implementation 5.9 Materials Handling Systems 5.10 Materials Handling Equipment 5.11 Summary
+5.1 Introduction
+* Importance and Function Facilities layout involves arranging various facilities such as personnel, machinery, equipment, and materials optimally. It is a strategic decision because once a layout is implemented, changes are costly and difficult. A poor layout can lead to higher material handling efforts, increased scrap and rework, and inefficient space utilization, causing continuous losses. Therefore, analyzing and designing a sound plant layout is crucial during the initial design and throughout the facility's growth and development.
+Facilities Planning Plant layout should be considered as part of overall plant design, which includes product design, sales planning, production process selection, plant size, location, buildings, and diversification. Layout problems can arise due to several factors: Changes in product design, Introduction of new products, Obsolescence of facilities, Changes in demand, Market changes, Competitive cost reduction, Frequent accidents, New safety standards, Decision to build a new plant. Moore (1962) defines plant layout as planning an optimal arrangement of facilities, including personnel, equipment, storage, materials handling, and supporting services, along with designing the best structure to house these facilities.
+* Objectives and Advantages The key objectives of a good plant layout include:
+1. Simplifying the production process by optimizing equipment use, minimizing delays, reducing manufacturing time, and improving maintenance provisions.
+2. Integrating personnel, materials, machinery, and supporting activities for the best overall efficiency.
+3. Minimizing material handling costs by placing facilities in an optimal flow sequence.
+4. Saving floor space, utilizing space effectively, and reducing congestion.
+5. Increasing output and reducing in-process inventories.
+6. Enhancing supervision and control.
+7. Improving worker convenience, morale, and satisfaction.
+8. Creating a better working environment with increased safety and reduced hazards.
+9. Minimizing waste and increasing productivity.
+10. Avoiding unnecessary capital investment.
+11. Ensuring flexibility and adaptability to changing conditions.
+* Types of Layout Problems Facilities layout problems can be classified based on the type of facility, such as:
+1. Manufacturing plants
+2. Commercial facilities (shops, offices, banks)
+3. Service facilities (hospitals, post offices)
+4. Residential facilities (houses, apartments)
+5. Cities and townships
+6. Recreational facilities (parks, theaters)
+Layout problems can also be categorized by their nature:
+1. Planning a completely new facility
+2. Expanding or relocating an existing facility
+3. Rearranging an existing layout
+4. Making minor modifications to the current layout
+Flow Patterns Flow patterns in layout design arrange work areas to ensure smooth movement through the production or service facility. The basic types of flow patterns include:
+1. I-Flow: Separate areas for receiving and shipping.
+2. L-Flow: Used when a straight-line flow chart needs to be accommodated.
+3. U-Flow: Popular for combining receiving and shipping areas.
+4. O-Flow: Designed to terminate the flow near its origin point.
+5. S-Flow (Serpentine): Used for long production lines requiring zigzag movement on the production floor. (Figure/Model Description for Flow Patterns): Shows diagrams illustrating (a) I-Flow (straight horizontal line), (b) L-Flow (90-degree bend), (c) U-Flow (180-degree turn returning to the same side), (d) S-Flow (zigzag pattern), and (e) O-Flow (looped path returning near the origin).
+5.2 Basic Types of Plant Layouts Product or Line Layout
+* Developed for product-focused systems.
+* Produces one type of product in a given area, often called an "assembly line."
+* Work centers are organized in sequence, minimizing work-in-process storage and material handling.
+* Suitable for high production volumes, standardized products, stable demand, and uninterrupted material supply.
+* Advantages: Reduced material handling, less work-in-process, better labor utilization, reduced congestion, and effective supervision.
+Figure II (a) Product or Line Layout (Model Description): Shows two parallel flow lines (Product A and Product B) starting from Raw Materials and ending at Finished Goods. Flow Line - Product A sequence: (1) Cast, (2) Turn, (3) Mill, (4) Grind, (5) Paint, (6) Inspect, (7) Pack. Flow Line - Product B sequence: (1) Forge, (2) Drill, (3) Grind, (4) Heat Treat, (5) Inspect, (6) Pack.
+Process or Functional Layout
+* Developed for process-focused systems.
+* Organizes processing units by function into departments (e.g., milling, foundry).
+* Suitable for low-volume, non-standardized batch production requiring flexibility.
+* Advantages: Better machine utilization, higher flexibility, greater worker incentive, and production continuity during breakdowns or shortages.
+Figure II (b) Process Layout (Model Description): Departments shown: Foundry, Turning, Drilling, Treatment, Inspection, Forging, Milling, Grinding, Painting. Flow lines for Product A and Product B show complex, crisscrossing paths between these functional departments before reaching Finished Goods.
+Cellular or Group Layout
+* A special type of functional layout grouping facilities into cells.
+* Uses group technology principles, combining mass production advantages with high flexibility.
+* Allows high automation levels for varied products with flexible requirements.
+* Advantages: Efficient handling of similar products, flexibility, and automation compatibility.
+Figure II (c) Cellular Layout (Model Description): Shows Products C, A, B, D flowing through cellular groupings of operations (Lathe, Milling, Drilling, Shaper, Honing, Boring) and then progressing to secondary operations (Hardening, Tempering, Testing, Inspection, Packaging).
+Job-Shop Layout
+* Suitable for general, flexible job production systems.
+* Layout preparation depends on analyzing potential orders, making it complex.
+Project or Fixed Position Layout
+* Used for project-type systems where the main component remains stationary.
+* All materials, tools, and workers are brought to the component for assembly or fabrication.
+* Typically used for large, immovable products (e.g., shipbuilding).
+* Advantages: Minimizing handling of the main unit, flexibility for product design changes, adaptability to varied products and intermittent demand, clear quality responsibility, and minimal capital investment.
+Figure II (d) Fixed position Layout (Model Description): Shows a central "Main Assembly" surrounded by resources arranged non-sequentially: Handling Equipment, Tools, two Workers, Machine 1, and Machine 2.
+5.3 Plant Layout Factors The design of any layout is governed by various factors, aiming to optimize each aspect. Muther (1955) categorizes these factors into eight groups:
+1. Material Factor: Design, variety, quantity, necessary operations, and their sequence.
+2. Man Factor: Direct workers, supervision, service help, safety, and manpower utilization.
+3. Machinery Factor: Process, production equipment, tools, and their utilization.
+4. Movement Factor: Inter- and intradepartmental transport and handling, storage, inspections, and materials handling equipment.
+5. Waiting Factor: Permanent and temporary storages, delays, and their locations.
+6. Service Factors: Employee facilities (parking, locker rooms, toilets, waiting rooms), material-related services (quality, production control, scheduling, dispatching, waste control), and machinery maintenance.
+7. Building Factor: Outside and inside building features, utility distribution, and equipment.
+8. Change Factor: Versatility, flexibility, and expansion. The layout design process typically involves compromising among these considerations to achieve the overall objectives optimally.
+5.4 Layout Design Procedure
+* The overall layout design procedure is composed of four phases: 
+1. Phase I: Location.
+2. Phase II: General Overall Layout.
+3. Phase III: Detailed Layout.
+4. Phase IV: Installation.
+* Guidelines for Layout Design: 
+1. Plan from whole to details.
+2. First plan the ideal layout, then address practical aspects.
+3. Centralize material requirements in planning processes and machinery.
+4. Adjust processes and machinery as needed for layout planning.
+Steps in Layout Design
+1. Problem Statement: Define objectives, scope, and factors to consider.
+2. Data Collection: Gather sales forecasts, production volumes, schedules, part lists, operations, work measurements, existing layouts, building drawings, etc.
+3. Data Analysis: Present data in charts.
+4. Design Production Process: Outline the production workflow.
+5. Plan Material Flow: Develop the overall material handling plan.
+6. Calculate Equipment Needs: Determine equipment and work center requirements.
+7. Plan Work Centers: Design individual work areas.
+8. Select Material Handling Equipment: Choose appropriate handling equipment.
+9. Determine Storage Needs: Assess storage requirements.
+10. Design Activity Relationships: Plan interactions between activities.
+11. Plan Auxiliary and Service Facilities: Design support areas.
+12. Calculate Space Needs: Allocate space for activities.
+13. Develop Plot Plan: Create a general layout of the facility.
+14. Develop Block Plan: Design a more detailed layout.
+15. Create Detailed Layouts: Finalize layouts for work centers and service areas.
+16. Evaluate and Modify: Review and adjust layouts as needed.
+17. Install Layouts: Implement the final design.
+18. Follow Up: Monitor and make necessary adjustments post-installation.
+Figure IV: Systematic Layout Planning Procedure (Flowchart/Model Description): A flowchart shows: Input data and activities leads into 1. Flow of materials and 2. Activity relationships. These feed into 3. Relationships diagram. This, along with inputs from 4. Space requirement and 5. Space available, feeds into 6. Space relationship diagram. This diagram feeds into 7. Modifying considerations and 8. Practical limitations. These lead to 9. Develop Layout alternatives, which finally feeds into 10. Evaluation.
+Flow and Activity Analysis Effective layout development relies on the quality and quantity of data about influencing factors. Key information needed includes materials, processes, flow routing, sequencing, space requirements, and activities.
+Table 1. Information required about material and processes (Table Description):
+Data requiredSource of dataProduct SpecificationsProduct size, weight and shape, quality requirements, special propertiesProduct engineering, quality control inspectionProduction volumeNumber of different items (product mix), quantity of each item per unit time, variation in output, variation in demandSales department, market research, production planningComponent partsPerformance times for all operations, Variation in performance times, Sequence of fabrication operations, Sequence of assembly operations, Types of machinery requiredProduction planning, time study departmentProcess Charts
+* Operation Process Chart: A graphic representation that sequentially describes different operations (O) and inspections (□), including information on time and location.
+* Flow Process Chart: Summarizes the flow and activity of a component or person through a process, detailing the sequence of operations, transportation, inspection, delay, and storage. It includes time required and distance moved.
+* Flow Diagram A layout sketch showing the location of all activities appearing on a flow process chart. The path of movement for material or personnel is traced, which helps identify backtracking or crisscrossing of flows, allowing redesigns for smoother operation. A three-dimensional flow diagram can be used for multi-storeyed buildings.
+* Travel Chart (From-To Chart) Analyzes overall material flow, indicating distances and number of moves between departments. It is especially useful in process-type layout design. The sum of each row should equal the sum of each column, except for the first and last departments, ensuring system continuity. Advantages of Travel Chart: Analyzes material movement, Determines activity locations, Compares alternate flow patterns and layouts, Shows relationships of different activities by volume of movement, Provides quantitative data for computerized analysis and OR applications.
+Figure VI: Travel Chart (Table Description): The table tracks the "Number of moves from ith to jth department" ($M_{ij}$) across eight departments (Casting, Forging, Drilling, Machining, Metrology, Electric, Welding, Inspection). For example, 7 moves occur from Casting to Forging, and 5 moves occur from Inspection to Metrology.
+From 'i'To 'j'CastingForgingDrillingMachiningMetrologyElectricWeldingInspectionTotalCasting7104431038Forging352616Drilling21214Machining452617MetrologyMij1414Electric44Welding77Inspection55Total001417144759* REL Chart (Relationship Chart) Indicates the relationship between department pairs in terms of closeness, rated as:
+* A: Absolutely essential
+* E: Essential
+* I: Important
+* O: Ordinary
+* U: Unimportant
+* X: Undesirable This helps in determining the necessary proximity of departments based on their activities.
+Figure (REL Chart Model Description): A diamond matrix correlating closeness ratings (A, E, I, O, U, X) between eight activities (Casting, Forging, Drilling, Machining, Meteorology, Electrics, Welding, Inspection). The legend defines the closeness ratings: A=Absolutely essential, E=Essential, I=Important, O=Ordinary, U=Unimportant, X=Not desirable.
+5.6 Space Determination and Area Allocation Space Allocation Methods
+* Space Based on Present Layout: Suitable for existing products, considering space for operating equipment, storage, service facilities, and operators, plus allowances for movement and access.
+* Production Centre Method: Calculates space for each production center (including machines, tools, parts, and maintenance access). Departmental space is found by multiplying the space of a single production center by the number of centers in that department.
+Workplace Layout The procedure for detailing arrangements at a work center (machines, auxiliary equipment, tools, materials, services) involves:
+1. Determining overall flow direction.
+2. Deciding the desired flow direction at the workplace.
+3. Listing items at the workplace.
+4. Sketching item arrangements.
+5. Specifying material sources and flow direction.
+6. Indicating material destinations.
+7. Specifying waste disposal methods.
+8. Sketching material handling equipment.
+9. Checking against motion economy principles.
+10. Marking distances between items.
+11. Recording the layout to scale.
+12. Indicating operation methods on a chart.
+Area Allocation Area allocation integrates activity relationships and space requirements for detailed layout planning. Important considerations include:
+1. Allocating space for future expansion based on flow patterns.
+2. Maintaining layout flexibility.
+3. Maximizing the use of vertical space.
+4. Allocating space for point-of-use and centralized storage.
+5. Allocating space for aisles.
+6. Considering column spacing.
+5.7 Computerized Layout Planning
+1. Construction Programs:
+* CORELAP (Computerised Relationship Layout Planning): Uses successive selection and placement of activities. It starts by calculating the activity with the highest Total Closeness Relationship (TCR) (the Winner). It places the Winner first, then places adjacent activities based on closeness ratings (A, E, I, O), continuing until all are positioned.
+* CORELAP Procedure:
+1. Calculate Total Closeness Relationship (TCR) for each activity.
+2. Select the activity with the highest TCR as the Winner.
+3. Place the Winner in the layout matrix.
+4. Select and place activities with A relationships adjacent to the Winner (named Victor).
+5. Continue placing activities with A, E, I, and O relationships.
+6. Consider U (unimportant) and X (not desirable) relationships in placement.
+* ALDEP (Automated Layout Design Program):
+1. Uses a preference table to calculate scores for randomly generated layouts.
+2. Selects and places activities based on high relationship values.
+3. Repeats the process to generate multiple layouts that meet a minimum score.
+* ALDEP Procedure:
+1. Use a preference table to calculate relationship values.
+2. Randomly select and place the first activity.
+3. Find and place activities with high relationship values adjacent to the first.
+4. Continue the procedure until all activities are placed.
+5. Repeat to generate multiple layouts.
+1. Improvement Programs:
+* CRAFT (Computerised Relative Allocation of Facilities Techniques): Requires an initial complete layout. It focuses on minimizing material handling costs by interchanging department locations. It uses material flow data and costs per unit moved per unit distance. Space requirements form the initial input, and the program can handle up to 40 activities.
+* CRAFT Procedure: 
+1. Input material flow data (e.g., pounds per day, skid-loads per week).
+2. Input costs per unit moved per unit distance.
+3. Input space requirements as an initial or existing layout.
+4. Enter activity identification numbers according to space requirements.
+5. Fix locations of specific activities if necessary.
+6. Limit the layout to 40 activities.
+5.8 EVALUATION, SPECIFICATION, PRESENTATION AND IMPLEMENTATION
+* Plot Plan: A diagrammatic representation of the building outline, location on the property, and external facilities (tanks, storage areas, parking lots). It is used as a master drawing for locating separate detailed drawings and is presented as a drawing or a scaled model.
+* Block Plan: A diagrammatic representation showing internal partitions of departments, columns, and area allocation, but excluding machinery, equipment, and facilities. It is used as a reference for detailed layouts and shows area allocations for aisles and column spacing.
+* Detailed Layout: 
+o Description: Diagrammatic representation of the arrangement of equipment, operators, materials, and supporting activities.
+o Construction Methods: Drafting or sketching. 
+* Templates: Scaled representations of physical objects (machines, workmen, material handling equipment, work-in-process storage, etc.).
+* Models: Three-dimensional representations of physical objects.
+o Materials for Templates and Models: Cardboard, paper, sheet metal, plastic, wood.
+o Attachment Methods: Glue, staples, rubber cement, thumbtacks, magnetism.
+Checking the Layout The final layout should be checked for:
+1. overall integration
+2. minimum distance moved
+3. smooth flow of the product
+4. space utilization
+5. employee satisfaction and safety
+6. flexibility
+Evaluation of Layout Criteria for Evaluation:
+1. Objectives of Layout Planning: Ensure the layout meets initial goals.
+2. Cost Comparison: Compare costs with alternative layouts.
+3. Return on Investment (ROI): Evaluate financial returns.
+4. Intangible Factors: Consider employee satisfaction, flexibility, and future scalability.
+5. Productivity Evaluation: Assess productivity improvements.
+6. Space Evaluation: Determine space efficiency.
+7. Ranking: Rank layouts based on criteria.
+8. Pilot Plant: Test layout feasibility with a pilot implementation.
+9. Sequence Demand-Straight Line: Ensure the layout supports operational sequences.
+10. Factors Analysis: Weigh and evaluate various factors.
+* Operational Research Techniques 
+1. Linear Programming: Optimize resource allocation.
+2. Line Balancing: Minimize idle time and ensure smooth workflow.
+3. Level Curve Concept: Use mathematical curves for production optimization.
+* Mathematical Models 
+1. Monte Carlo Method: Statistical sampling and simulation.
+2. Queuing Theory: Minimize waiting times and bottlenecks.
+3. Engineering Economy: Evaluate economic aspects.
+4. Analogues: Predict and evaluate using similar situations.
+* Project Management 
+1. Use CPM (Critical Path Method) and PERT (Program Evaluation and Review Technique) for planning and monitoring progress.
+* Steps for Successful Installation 
+1. Develop Detailed Drawings: Comprehensive layout blueprints.
+2. Specify Equipment and Utilities: Precise equipment and utility specifications.
+3. List Requirements: Detailed equipment and utility lists.
+4. Plan Construction and Installation: Step-by-step construction and installation plans.
+5. Monitor Progress: Use CPM and PERT to track progress.
+5.9 Material Handling System Design Objectives and Functions
+1. Reduce Costs: Decrease inventories, minimize handling distances, and increase productivity.
+2. Increase Production Capacity: Ensure smooth workflow.
+3. Minimize Waste: Reduce waste during handling.
+4. Improve Distribution: Optimize facility locations and routing.
+5. Enhance Equipment and Space Utilization: Maximize use of resources.
+6. Improve Working Conditions: Ensure a safer and more efficient environment.
+7. Enhance Customer Service: Improve service quality and delivery times.
+Key Questions in Materials Handling
+1. Necessity: Justify the need for material handling.
+2. Material: Identify the type, characteristics, and quantity of material.
+3. Logistics: Define source, destination, distance, frequency, speed, and sequence of moves.
+4. Method and Personnel: Specify handling units, equipment, manpower, and physical restrictions.
+Basic Materials Handling Systems
+1. Equipment-Oriented Systems Overhead systems, Conveyor systems, Tractor-trailer systems, Fork-lift truck and pallet systems, Industrial truck systems, Underground systems.
+2. Material-Oriented Systems 
+1. Unit handling systems
+2. Bulk handling systems
+3. Liquid handling systems
+3. Method-Oriented Systems 
+1. Manual systems
+2. Mechanized or automated systems
+3. Job-shop handling systems
+4. Mass-production handling systems
+4. Function-Oriented Systems 
+1. Transportation systems
+2. Conveying systems
+3. Transferring systems
+4. Elevating systems
+Selection and Design of Handling System
+1. Identification of System: Define the type of system needed.
+2. Review Design Criteria and Objectives: Ensure the handling system meets design objectives.
+3. Data Collection: Gather data on flow patterns and requirements.
+4. Identify Activity Relationships: Understand how different activities relate.
+5. Determine Space Requirements: Define space needs and material flow patterns.
+6. Analyze Material and Building Characteristics: Consider material properties and building layout.
+7. Preliminary Selection of Systems: Generate and evaluate alternatives based on mechanization feasibility and equipment capabilities.
+8. Evaluate Alternatives: Optimize material flow, cost, flexibility, maintenance ease, and capacity utilization.
+9. Select Best Alternative: Choose the most suitable system and check for compatibility.
+10. System Specification: Define detailed system specifications.
+11. Procurement and Implementation: Acquire and implement the system.
+5.10 Materials Handling Equipment Handling Equipment Objectives
+* Speed: Enhance the speed of material movement.
+* Efficiency: Ensure efficient handling of materials.
+* Cost: Optimize costs associated with handling.
+Types of Handling Equipment
+1. Conveyors: Move uniform loads over fixed paths (gravity or powered). Common types include: 
+o Belt Conveyor: Used for transporting items on a belt.
+o Roller Conveyor: Utilizes rollers to move items along a path.
+o Chain Conveyor: Employs chains to transport materials.
+o Bucket Conveyor: Moves bulk materials using buckets.
+o Trolley Conveyor: Uses trolleys for material movement.
+o Screw Conveyor: Transports materials using a rotating screw mechanism.
+o Pipeline Conveyor: Moves materials through a pipeline.
+o Vibratory Conveyor: Uses vibration to transport materials.
+o Chute: Guides materials down a slope.
+2. Cranes, Elevators, and Hoists: Overhead devices moving varying loads intermittently within a fixed area. Examples include: 
+o Overhead Travelling Crane: Moves materials along fixed rails overhead.
+o Gantry Crane: A crane with a bridge supported by legs moving on rails.
+o Jib Crane: A crane with a horizontal member supporting a moveable hoist.
+o Elevators: Lift materials vertically between floors.
+o Hoists: Devices used for lifting or lowering materials.
+o Stacker Crane: Used in warehouses for automated storage and retrieval.
+o Winches: Mechanical devices to pull or lift materials.
+o Monorail: A single rail system for moving materials.
+Figure VIII: Material Handling Equipment (Model Description): Illustrations of handling equipment: (a) Belt conveyor, (b) Roller conveyor, (c) Mono rail, (d) Mobile crane, (e) Hand trolley, (f) Fork lift truck.
+5.11 SUMMARY This unit covered various types of plant layout problems, identifying key types such as product, process, job shop, cellular, and fixed position layouts. The factors considered in designing a plant layout include man, material, machine, movement, service facilities, building, and flexibility. Tools for analyzing material flow and activities, such as flow process charts, flow diagrams, travel charts, and REL charts, were discussed. A systematic layout planning procedure was outlined, from plot plan development to detailed workplace layout. The use of computer techniques like CORELAP, ALDEP, and CRAFT in layout planning was highlighted. The unit also addressed the selection and types of materials handling systems, and key concepts in automation for layout and materials handling.
+Human resources slide 4 This content is an extracted portion from the electronic and/or printed textbook. Due to electronic rights restrictions, certain third-party content may have been omitted. Editorial review has determined that the content in this POWERPOINT PRESENTATION does not significantly impact the overall learning experience. The published PowerPoint has been modified and reserves the right to remove content from this title at any time if subsequent rights restrictions require such action. ALL RIGHTS BELONG TO: DR. LUIS ALFARO DIRECTOR OF PORTS, LOGISTICS AND SCM SOUTHSTAR MANAGEMENT INSTITUTE, DA NANG, VIETNAM
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS
+Thank You
+

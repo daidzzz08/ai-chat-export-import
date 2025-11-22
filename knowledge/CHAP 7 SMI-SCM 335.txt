@@ -1,0 +1,647 @@
+﻿
+SMART PORT CITIES - 335 
+COPYRIGHT 
+
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management." The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam. This course is designed for the undergraduate level/program. 
+
+Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at: Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/ 
+
+Strategies for Sustainability Public Administration and Information Technology 37 Editors: Angela Carpenter, Rodrigo Lozano European Port Cities in Transition Moving Towards More Sustainable Sea Transport Hubs Editors: Elsa Estevez, Theresa A. Pardo, Hans Jochen Scholl Smart Cities and Smart Governance By: Dr. Luis ALFARO Springer 
+
+SMART PORT CITIES 
+CHAPTER 7: SECTION 1 
+BASICS OF BLOCKCHAIN TECHNOLOGY 
+
+Contents 
+Introduction 
+Components of Blockchain 
+Evolution of Blockchain 
+Blockchain Applications 
+
+Contents 
+Limitations and Challenges of Blockchain 
+Impact of Blockchain Technology 
+Blockchain Platforms/Protocols 
+Summary 
+
+1. Introduction 
+The year 2009 was a remarkable one when bitcoin was launched based on blockchain technology. The feature of blockchain technology is that it makes the role of intermediaries redundant in any type of transaction. Thus elements of security, integrity, immutability, and transparency get embedded into transactions. These transactions happen in various sectors, be it the financial sector, healthcare, supply chain, real estate etc., to name a few. Hence the applications of blockchain technology are vast and are applied in various sectors.
+
+Key components of blockchain technology include hashing methods, consensus mechanisms, transactions and blocks. Blockchain technology is evolving. It has evolved from the first generation of cryptocurrency to second generation finances to the third generation digital society and is still evolving. No doubt there are associated challenges with evolution. These challenges get manifested in terms of scalability, loss of privacy and selfish mining. The impact of blockchain technology can be seen in very diverse sectors. Think of a sector where intermediaries exist, and you can see the role of blockchain technology. That is why the financial sector, supply chain, healthcare, tourism, government sector, smart cities, IoT, energy exchange, and insurance sector are applying blockchain technology to give security and transparency to the stakeholders.
+
+Objectives 
+In this unit, you will learn about the basics of Blockchain Technology, applications of Blockchain in different fields, the impact of Blockchain technology, and associated challenges to Blockchain technology.After reading this unit, you will be able to: 
+Identify elements of Blockchain Technology 
+Visualize the evolution of Blockchain Technology 
+Appreciate application of Blockchain Technology in different spheres 
+Discern limitations and challenges to Blockchain Technology 
+Comprehend different Blockchain Protocols 
+
+2. Blockchain Technology And Its Components 
+Concept of Blockchain Technology 
+Cryptocurrency is the first application of blockchain technology. A cryptocurrency is a medium of exchange, like the Indian Rupee, but is digital and secured by cryptography. Bitcoin was the first cryptocurrency developed in 2009 by the elusive Satoshi Nakamoto. Since then, many cryptocurrencies have come into existence to fulfil different needs and purposes. Thus, cryptocurrency, like bitcoin, is one of the applications of blockchain technology. There are numerous other applications of blockchain technology, for example, in the financial sector, government and public sectors, Supply Chain Management, Internet of Things, Healthcare, and Smart cities.
+
+2. Blockchain Technology And Its Components 
+Concept of Blockchain Technology 
+Businesses that use intermediaries can be disintermediated using blockchain technology, thus bringing transparency. Blockchain can be used wherever authentication is required. One of the consequences of disintermediation and authentication will be reflected in lower transaction costs.Blockchain technology is evolving. Blockchain 1.0, i.e. the first generation of blockchain, refers to cryptocurrency, i.e. digital currency. Blockchain 2.0, i.e. the second generation of blockchain, refers to digital finance and Blockchain 3.0, i.e. the third generation of blockchain, refers to digital society.
+
+2. Blockchain Technology And Its Components 
+Concept of Blockchain Technology 
+Blockchain technology is based on Distributed Ledger Technology (DLT). Ledger is the record of transactions. These transactions may be financial deals, supply chain management, and copyright ownership. In a distributed ledger, records of transactions are available on a blockchain network. A blockchain network is a peer-to-peer network. A peer or node in a peer-to-peer network is a computer that has software installed in it. Being a peer-to-peer network, it does not require a central authority or trusted intermediaries to authenticate or settle the transactions.
+
+2. Blockchain Technology And Its Components 
+Concept of Blockchain Technology 
+This feature brings transparency to transactions. Whereas in the centralized system, the records of transactions are available in a central server, and these records are managed by intermediaries, a role played by institutions like banks. Blockchain technology completely removes the role of intermediary or the third party. Transactions in Blockchain technology is immutable, i.e. once a transaction is made, it is permanent and can't be altered. Transactions in the blockchain are stored in a block. A block is chained to an other block through a cryptographic hash chain. This chain keeps growing as long as new blocks are created and maintained.
+
+2. Blockchain Technology And Its Components 
+Concept of Blockchain Technology 
+This way, modern financial systems that track transactions/assets without the need for centralized parties can be enabled. In a nutshell, blockchain is a network of devices named nodes connected to each other over the internet. All nodes on a blockchain are equally important. A node can play diverse roles like storing information recorded in a blockchain, storing a copy of all the information recorded on a blockchain, and processing transactions to add a new block in the network.
+
+2. Blockchain Technology And Its Components 
+Working of Blockchain 
+The working of blockchain technology can be illustrated through one of its applications. Cryptocurrency is one of the applications of blockchain technology, and the working of blockchain technology can be demonstrated through a transfer of cryptocurrency. Let a user 'X' wants to send money to user 'Y'. The process of transfer of money from user 'X' to user 'Y' is as shown in Figure 7.1.
+Figure 7.1: Working of Blockchain (Flowchart)
+Sender (X requests a transaction with Y) 
+requested transaction is broadcast to all nodes (P2P network) 
+Validation of requested transaction done by all nodes 
+Once verified, this transaction is represented as a new block 
+The new block is added to the existing blockchain 
+Receiver (transaction is complete between X and Y) 
+
+2. Blockchain Technology And Its Components 
+Working of Blockchain 
+Here sender 'X' requests a transaction for sending money to the receiver 'Y'. The requested transaction is broadcasted to the P2P network (it consists of computers known as nodes). This P2P network containing all nodes validates the transaction. Once verified, this transaction is represented as a new block. The new block is then added to the existing blockchain. Thus the transaction is completed, and receiver 'Y' receives the money. The above was the simplest explanation of the working of blockchain. Now see what happens at every stage of the transaction in a bit of detail.
+
+2. Blockchain Technology And Its Components 
+Working of Blockchain 
+When sender 'X' wants to send money to the receiver 'Y', then 'X' should know the wallet address of 'Y'. The transaction gets initiated as user 'X' sends the money to user 'Y'. Every node of the blockchain will have to verify this transaction. Only then will user 'Y' get money in his/her wallet. Thus every node will record this money transaction from user 'X' to user 'Y'. Hence, records will be stored in thousands of computers, but the user may not like his/her transaction information on many computers. This issue is resolved by blockchain by keeping the transaction anonymous.
+
+2. Blockchain Technology And Its Components 
+Working of Blockchain 
+For maintaining transactions' integrity over the network, there is the need for consensus protocol, cryptographic hashes, and digital signatures at nodes.
+Consensus protocol guarantees that transactions recorded in public ledgers are exact copies. No transaction record can be changed without accessing all the nodes of the network, thus making transaction records immutable.
+SHA-256 (Secure Hash Algorithm of output size 256 bits), a cryptographic hashing algorithm, is used to assure that any change in transaction leads to a new hash value being computed.
+Digital signatures ensure that the transactions are initiated from genuine senders.
+
+2. Blockchain Technology And Its Components 
+Types of Blockchain 
+Blockchain can be classified into the following three major types: 
+Public Blockchain 
+Private Blockchain 
+Consortium Blockchain or Hybrid Blockchain 
+A public blockchain is one in which anyone can join and participate. It means anyone can be a user or a miner, and anybody can add new blocks. This ensures transparency in public blockchain networks. A public blockchain is also called permissionless as it permits anyone to take a copy of the blockchain and involve in block validation. Bitcoin and Ethereum are examples of a public blockchain.
+
+2. Blockchain Technology And Its Components 
+A private blockchain is a permissioned blockchain suitable for individual organizations. Here an organization decides who is allowed to participate and maintain a shared ledger. Hyperledger is an example of a private blockchain.A consortium blockchain is a permissioned blockchain where several organizations take responsibility for maintaining the blockchain. Consortium blockchain has the privacy benefits of private blockchain and the transparent nature of public blockchain. A consortium blockchain is also called a hybrid blockchain. Drag on chain is an example of consortium blockchain. Features of the above three blockchain types is as shown in Table 7.1.
+
+2. Blockchain Technology And Its Components 
+Table 7.1: Features of Blockchain Types 
+FeaturePublic BlockchainPrivate BlockchainConsortium BlockchainUser accessPublic Restricted Restricted User identityAnonymous Approved users Approved users Permission statusPermissionless Permissioned Permissioned Xuất sang Trang tính
+
+2. Blockchain Technology And Its Components 
+Advantages of Blockchain Technology 
+Following are the advantages of blockchain technology: 
+Decentralization 
+Transparent and Anonymous 
+Less transaction fees and no taxes 
+Theft resistant 
+The above mentioned advantages/characteristics of blockchain technology helped the rapid evolution of blockchain technology from application in cryptocurrency (bitcoin) to Industry 4.0 in such a short interval of 10 years.
+
+2. Blockchain Technology And Its Components 
+Security, transparency, traceability, and automation are some of the important concerns for any business or industry. Blockchain technology can address the above concerns. As records created through blockchain can't be tampered with and are end-to-end encrypted, blockchain enhances security for any business or industry. Privacy issues can also be addressed on blockchain by making personal data anonymous. Decentralization is the hallmark of blockchain technology. There is no role of an intermediary or third party in blockchain technology. This feature of blockchain technology provides protection against corruption and tampering. Further, all transactions in the blockchain are maintained in the public ledger. This ensures transparency.
+
+2. Blockchain Technology And Its Components 
+Components of Blockchain Technology 
+Blockchain technology is based on cryptographic concepts and record keeping principles. Cryptography is the study of secure communication techniques. Cryptographic techniques use hashing, asymmetric key cryptography and digital signatures. Some of the key components of Blockchain technology have been discussed here for a better understanding of blockchain technology.
+Hashing Methods 
+The most important component of blockchain technology is the cryptographic hashing function. A hash algorithm is a mathematical function that transforms any input into a fixed size output.
+
+2. Blockchain Technology And Its Components 
+Hashing Methods 
+The input can be a text, file or image, and the output is a fixed size alphanumeric string. As shown in Figure 4.2, the conversion of an input message (Hello world) to hash value using SHA 256 algorithm. You can generate a hash value for any input and see for yourself that the output is always a fixed size alphanumeric string (you can use python online: colab.research.google.com). Hashing is a one way function where any input of arbitrary size can be uniquely expressed as a string of characters. The meaning of one way function is that it is easy to go from the input to the hash but extremely difficult to go the other way.
+
+2. Blockchain Technology And Its Components 
+Hashing Methods 
+Meaning thereby by knowing only the hash, you can't find the original message. In other words, anyone with the original message and the hashing algorithm will produce the same hash. What is the purpose of hashing in blockchain? The answer is data integrity and privacy. Hashing protects data integrity by hiding and encoding the original message (i.e. input) to a unique string. For the hash function to be cryptographically secure and usable in blockchain technology, it needs to be collision resistant.
+
+2. Blockchain Technology And Its Components 
+Hashing Methods 
+Collision resistant means that it should be practically impossible to find two inputs that produce the same output. Most blockchain implementation uses Secure Hash Algorithm (SHA) that generates an output of size 256-bit. Cryptocurrency like bitcoins uses Secure Hash Algorithm 256, also known as SHA-256.
+Transaction 
+A transaction is a digitally signed message authorizing some particular action associated with a blockchain. For a cryptocurrency, the dominant transaction type is sending cryptocurrency units or tokens to someone else.
+
+2. Blockchain Technology And Its Components 
+Transaction 
+As shown in the Figure 4.3, the five step process of the blockchain transaction. The blockchain transaction process has been elucidated in the following five steps: 
+Transaction initiation: The transaction information contains the Receiver's public address, the value of the transaction and a cryptographic digital signature.
+Transaction authentication: The nodes in the blockchain network receive transaction information and authenticate its validity. When the transaction is validated, it is placed in the pool of transactions. Transaction pool is the place where all unconfirmed transactions are placed.
+
+2. Blockchain Technology And Its Components 
+Block creation: the pool of transactions is then placed on the block by one of the participating nodes of the network.
+Block validation: the participating nodes begin the validation process upon receiving the block of transaction.
+Block chaining: the block is chained into the existing blockchain, and an updated blockchain ledger is broadcast to the network. The entire process takes 3-10 s.
+Public Key Cryptography 
+Public key cryptography is an encryption scheme that uses two mathematically related but not identical keys: a public key and a private key. A public key is used to encrypt, and the private key to decrypt.
+
+2. Blockchain Technology And Its Components 
+Address and Wallet 
+Blockchain addresses are used to send or receive transactions on a network. An address usually presents itself as a string of alphanumeric characters. A wallet is a file that contains a collection of private keys and communicates with a blockchain. Wallets contain keys, not coins. Wallets require back up for security reasons.
+Blocks 
+A block is the most basic unit of a blockchain database. Each block contains a record of some or all recent transactions and references to the block that came immediately before it.
+
+Blocks 
+As shown in Figure 7.2, the structure of a block. A block consists of Block number, nonce, data, previous hash and hash.
+The block number is a unique number assigned to each block by the user who creates the block.
+The nonce is a special value mined by the miner algorithms employed by the creator of the block.
+Previous hasII.
+Current last.
+Figure 7.2: Structure of Block 
+
+2. Blockchain Technology And Its Components 
+A nonce is a 4 byte field, usually starting at 0, and the value increases with every calculation. This value calculation is also known as puzzle solving. Nonce ensures that the hash value generated for a block has a particular format, like starting with three zeros or ten zeros. The previous hash is the encryption of the previous block. The hash is calculated using the SHA-256 algorithm on the combination of the nonce, previous hash and data. A block has only one parent. The first block of a blockchain is called the 'genesis block'. The 'genesis block' has no parent block.
+
+2. Blockchain Technology And Its Components 
+Consensus Features 
+The consensus protocol is the set of rules and arrangements to carry out blockchain operations. Consensus algorithms are designed to achieve reliability in a network involving multiple unreliable nodes. The consensus algorithms ensure that the next block in the blockchain is the one and only one version of the truth. The most common consensus algorithms include Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), Proof of Authority and Ripple. PoW protocol is one of the first utilized consensus protocols. PoW protocol is based on computational load, requiring miners to find a solution to the puzzle.
+
+2. Blockchain Technology And Its Components 
+The downside to this method of generating consensus and securing the network is that it requires a large amount of computing power and, therefore, energy and cost. To reduce the high resource cost of mining, PoS was proposed. PoS assigns a difficulty value to a puzzle based on how much stake the owner has in the network. Proof of Authority (PoA) is a reputation based consensus approach where the preselected validators attempt to validate by leveraging the value of identities. Therefore, PoA blockchains are scalable and secured as the preselected nodes are considered as trustworthy entities to verify transactions.
+
+2. Blockchain Technology And Its Components 
+Smart Contract 
+Smart contracts are translations of an agreement consisting of terms and conditions into computational code (or program/script). Smart contracts are self executing digital contracts. In smart contracts, there are no chances of fraud or intervention of third parties. Ethereum platform allows the use of the smart contract. Smart contracts can be used in many applications. One of the applications of the smart contract is crowdfunding. A crowd funding platform is used to raise funds from multiple investors by a startup company. A conventional case of crowdfunding requires a third party intermediary to control the fund flow as per conditions of the contract. A smart contract is a secure alternative to an intermediary.
+
+3. Evolution Of Blockchain 
+Blockchain technology is continuously evolving with time. In a short span of a decade, it has seen four generations of its evolution.
+The first generation of Blockchain, i.e. Blockchain 1.0, originated from the concept of Distributed Ledger Technology and was meant for cryptocurrency only.
+Blockchain 2.0, i.e. the second generation of Blockchain, is based on the smart contract concept and the Proof of Work consensus mechanism. The smart contract is a programming code embedded in a distributed ledger. The smart contract gets executed when predefined conditions are satisfied. The second-generation blockchain network was introduced in 2013.
+
+3. Evolution Of Blockchain 
+Blockchain 3.0 overcomes the setbacks of Blockchain 1.0 and Blockchain 2.0.
+What are the setbacks of Blockchain 1.0 and Blockchain 2.0? Blockchain 1.0 and Blockchain 2.0 are not scalable at all. Apart from that, these are mainly based on Proof of Work.
+Apart from smart contracts, Blockchain 3.0 mainly involves Decentralized Apps (dApps). A dApp can be thought of as decentralized software code that gets executed across all the nodes in given blockchain architecture. Ad App is very similar to the applications already in use today on smartphones, tablets, or Desktops.
+Blockchain 3.0 also utilizes the Proof of Stake and Proof of Authority consensus mechanism.
+
+3. Evolution Of Blockchain 
+Blockchain 4.0 means making Blockchain 3.0 usable in real life business scenarios. Blockchain 4.0 makes Blockchain technology usable to Industry 4.0 demands.
+Industry 4.0 refers to the fourth revolution that has occurred in manufacturing.
+Industry 4.0 technologies employ Artificial Intelligence, the Internet of Things, Big Data etc..
+Unibright is the framework for Blockchain 4.0. In other words, the introductory platform for Blockchain 4.0 utilities is Unibright.
+Comparison of Different Generations of Blockchain: 
+As shown in Table 4.2, the evolution of blockchain technology based upon different parameters.
+
+3. Evolution Of Blockchain 
+Comparison of Different Generations of Blockchain: 
+The consensus mechanism for the first generation blockchain technology is Proof of Work. The fourth generation of blockchain technology uses Proof of Integrity. When it comes to the application of blockchain technology, it has achieved many milestones. It began with application in the financial sector and now heading towards application in Industry 4.0. The fourth generation of blockchain technology is incorporating Artificial Intelligence. Blockchain technology is moving from guaranteed transaction authenticity to a faster consensus and transaction confirmation, removing the initial bottlenecks and hiccups.
+
+Table 7.2: Comparison of Different Generations of Blockchain 
+Source: Blockchain Technology: Applications and Challenges (Springer 2021) and other sources 
+ParameterBlockchain 1.0 (2008)Blockchain 2.0 (2013)Blockchain 3.0 (2015)Blockchain 4.0 (2018)PrincipleDistributed Ledger Technology (DLT) Smart Contracts Decentralized Apps (dApps) Blockchain with Artificial Intelligence Consensus mechanismProof of Work Delegated Proof of Work Proof of Stake, Proof of Authority Proof of Integrity ExampleBitcoin Ethereum Cardano, Anion Unibright, SEELE ApplicationFinancial Sector Non-Financial Sector Business Platforms Industry 4.0 FeaturesGuaranteed transaction authenticity Creating and transferring digital assets Completely opensource; autonomous operation Faster consensus and transaction confirmation Xuất sang Trang tính
+
+4. Blockchain Applications 
+Wherever there is a requirement of trust, security, accuracy, and transparency, there is the application of Blockchain technology. Blockchain applications can be vividly seen in the government and public sectors. Governments can use Blockchain in improving record management. Governments keep people's records like birth and property exchanges. Blockchain can make the record more secure. Decentralized file storage protects files from getting hacked or lost. The financial sector has seen the benefits of blockchain technology from the very beginning. The most popular application of blockchain technology is cryptocurrency.
+
+4. Blockchain Applications 
+Other industries and sectors are actively exploring opportunities for the implementation of blockchain technology in their fields and domains. The applications of blockchain technology in the financial services, Governments and public sectors, healthcare, Industry and Internet of Things (IoT) have been discussed here.
+
+4. Blockchain Applications 
+Financial Applications 
+Banks and other financial institutions are highly susceptible to money laundering, identity theft and digital transfer of funds. These institutions are highly affected as far as services rendered, and reputations are concerned. Banking institutions are already using blockchain technology to solve their traditional problems.
+Blockchain Applications in Government 
+Typical problems faced by governments in many countries pertain to land registry records. Keeping track of ownership of hundreds of years of land records is a difficult task. The problems faced by land registry officials are: discrepancies with paper work, forged documents, and loss of documents.
+
+4. Blockchain Applications 
+Blockchain technology can take care of above mentioned problems in a cost effective way. Blockchain technology provides immutable records and secure access as well as storage. Governments can use Blockchain in the following areas: 
+Record management for secure record-keeping of people 
+Identity management for proof of identity 
+Government services like public safety and welfare 
+Payment infrastructures to collect dues, taxes and other payments fast and safe 
+Smart property to digitally record assets 
+
+4. Blockchain Applications 
+Blockchain Applications in Healthcare 
+There has been an increase in the hacking of healthcare records. The year 2018 witnessed the hacking of medical records of 1.4 million patients from the Unity Point Health hospital network of the USA. The hacked records included sensitive information, including the patient's social security number and insurance information. Blockchain technology provides data security and integrity. Patients, healthcare providers (hospitals, doctors, lab technicians etc.), data analysts and insurance providers are key stakeholders of healthcare. The Distributed Ledger Technology/Blockchain technology in healthcare guarantees the security and privacy of healthcare data of all stakeholders.
+
+4. Blockchain Applications 
+Blockchain Applications in Healthcare 
+These stakeholders can share information without compromising data security and integrity.
+Blockchain Applications in Industry: 
+Tracking of movements of goods and services is vital in any industry. Be the movement of goods under process or processed goods, visibility at every stage of production is very much needed. Blockchain technology can help in tracking the movements of goods and services efficiently.
+
+4. Blockchain Applications 
+Blockchain Applications in Industry: 
+Almost all business operations, be it purchase management, customer relationship management, supply chain management or operation management, blockchain technology is there to address business concerns.
+Blockchain Application in the Internet of Things (IoT) 
+In IoT applications, smart devices interact with each other using the internet. The biggest concern is the security of data generated by these smart devices within distributed nature of wireless networks. As blockchain is distributed public ledger, it will take care of the security of data generated by smart devices.
+
+5. Limitations And Challenges Of Blockchain 
+Though blockchain has numerous benefits, it is prone to some technical challenges also. Challenges in terms of scalability, loss of privacy, selfish mining and energy have been discussed here.
+Scalability 
+As transactions are increasing in numbers, the blockchain network keeps on growing day by day. As blockchain network is growing, data and resources are burdening the system. Due to this reason, nodes will take more time to synchronize data and carry out the complex computation. Thus affecting the effective working of the blockchain system. Storage optimization and redesigning of blockchain can resolve these issues.
+
+5. Limitations And Challenges Of Blockchain 
+Loss of Privacy 
+In the blockchain, a considerable amount of privacy is maintained by using a public key cryptography mechanism in transactions to keep the user identity anonymous. However, transactional anonymity cannot be assured by blockchain because the identities of all transactions and balances for each cryptographic key are publicly accessible. Thus it is possible to recognize the user by keeping track of the transactions.
+
+5. Limitations And Challenges Of Blockchain 
+Selfish Mining 
+In Bitcoin's blockchain, the process of adding new blocks to the blockchain is called mining, and the nodes that do the job of generating a new block are called miners. Selfish Mining is a strategy where an over-ambitious miner secretly keeps his blocks without publishing them. It would be revealed to the public only if some conditions were satisfied.
+
+High Energy Consumption 
+The blockchain network uses Proof of Work (PoW) as a consensus protocol. It requires a lot of energy and computing resources to calculate the required hash value for a block.
+
+6. Impact Of Blockchain Technology 
+The impact of blockchain technology can be seen in businesses. The impact may be manifested in different forms. It may be business models; it may be the business environment. The existing business models may change or transform in view of the new reality of market requirements. Some of the impacts of the blockchain in the financial and non-financial sector has been discussed here.
+Impact of Blockchain Technology in Financial Sector 
+It is the transaction that takes place in the Financial sector like banking, where the introduction of blockchain technology can make its impact the most. The standard practice of transactions in the Financial sector like banking is based on a trusted third party.
+
+6. Impact Of Blockchain Technology 
+Impact of Blockchain Technology in Financial Sector 
+This role of a third party is the main source of worry for all stakeholders. This trusted third party can be eliminated by using blockchain technology in the Financial sector like banking. The architecture of the standard banking system is based on a centralized server/clients model, and hence a copy of the database is centralized at the server level only. As a blockchain technology based system gets introduced in the banking system, the peer-to-peer network model will be there, ensuring multiple copies of transactions in a database. A comparison of existing banking system models and blockchain-based models are as shown in Table 7.3.
+
+Table 7.3: Comparison of Transactions between Existing Financial Sector like Banking and Blockchain-based Financial Sector like Banking 
+Source: Adapted from Blockchain and Distributed Ledger Technology (DLT): What impact on the Financial Sector by Klara Sok 
+Transactions in Existing Financial sector like BankingTransactions in Blockchain-based Financial sector like bankingTrusted third party Trustless Centralized server/clients Peer-to-peer network A single copy of transactions in the database Multiple copies of transactions in the database Intermediation Consensus mechanism/ Proof of work Xuất sang Trang tính
+
+6. Impact Of Blockchain Technology 
+Impact of Blockchain Technology Application in Supply Chain: 
+Supply Chain Management (SCM) is the handling of the entire production flow of goods or services. SCM takes into account the handling and processing of raw materials to delivering finished products to the consumers. There are five key components of SCM: 
+Planning 
+Sourcing 
+Manufacturing 
+Delivery and logistics 
+Returning 
+
+6. Impact Of Blockchain Technology 
+When blockchain technology is used in Supply Chain, the following benefits can be had: 
+All information pertaining to supply and demand can be captured in real time 
+The status of an item in transition/process can be known 
+Smart contract management can be done (customized or individual contract can be defined for each function) 
+Operational efficiency in Supply Chain can be achieved 
+
+7. Blockchain Platforms/Protocols 
+The rules that govern a blockchain network are referred to as blockchain protocols. Blockchain protocols are essentially the common communication rules that the network follows. These rules include the following: 
+Rules for governing and validating transactions 
+An algorithm that defines the mechanism for all participating nodes to interact with each other 
+Application programming interface (API) 
+Some of the blockchain protocols have been discussed here.
+
+7. Blockchain Platforms/Protocols 
+Bitcoin 
+Bitcoin protocol supports crypto payment transactions over a distributed network.
+Characteristics of Bitcoin Protocol: 
+i. Every node has access to complete information on the blockchain. Therefore, it is a decentralized one.
+ii. Users can conduct a nonreversible transaction without the need to explicitly trust a third party.
+
+7. Blockchain Platforms/Protocols 
+Bitcoin 
+Advantages of Bitcoins: 
+i. Payment freedom 
+ii. Control and Security 
+iii. Very low fees 
+Ethereum 
+Ethereum is a public, open source, blockchain-oriented protocol. Ethereum platform allows the use of the smart contract.
+
+7. Blockchain Platforms/Protocols 
+Ethereum 
+Ethereum is the first prominent platform that introduced the idea that blockchain technology can be used in applications other than cryptocurrency.
+Characteristics of Ethereum Protocol: 
+This protocol enables developers to build and deploy distributed applications 
+It allows users to write their own applications 
+
+7. Blockchain Platforms/Protocols 
+Ethereum 
+Advantages of Ethereum: 
+The energy efficiency is high with the help of Proof of Stakes (POS) 
+The uptime of the network is high 
+It is used to develop many decentralized applications 
+Hyperledger 
+Hyperledger is an open-source blockchain platform. It supports blockchain-based distributed ledgers and cross-industry blockchain technologies.
+
+7. Blockchain Platforms/Protocols 
+Hyperledger 
+Hyperledger protocol mainly supports business transactions. Hyperledger is used to solve the problem of enterprise approval of blockchain. In Hyperledger, only trusted entities can join the network and verify the transactions.
+Characteristics of Hyperledger Protocol: 
+Hyperledger blockchain technology is mostly used for business applications 
+It has a modular and versatile design 
+It preserves privacy 
+
+7. Blockchain Platforms/Protocols 
+Hyperledger 
+Benefits of Hyperledger 
+Productivity enhancement 
+Handling of intellectual property 
+Data on a need-to-know basis 
+Rich querying capability 
+Performance scalability and levels of trust 
+
+7. Blockchain Platforms/Protocols 
+Ripple 
+Ripple is an open source blockchain platform. Ripple acts as both a cryptocurrency and a digital payment network for financial transactions.
+Characteristics of Ripple Protocol: 
+Ripple protocol is known for its digital payment network 
+It has its own cryptocurrency XRP (digital asset Ripple) 
+Ripple transactions are confirmed in seconds 
+Ripple transactions use less energy than bitcoin.
+
+7. Blockchain Platforms/Protocols 
+R3's Corda 
+Corda is an open source blockchain protocol used for industries such as financial services, insurance, healthcare, trade finance, and digital assets. This protocol is used for storing, coordinating, and controlling financial agreements.
+Characteristics of Corda:
+Corda allows businesses to transact securely and seamlessly 
+This protocol organizes the business operation 
+
+7. Blockchain Platforms/Protocols 
+R3's Corda 
+Benefits of Corda: 
+Privacy 
+Agile and flexible 
+Interoperability 
+Open development 
+Open design 
+
+SUMMARY 
+
+This unit discussed the basics of blockchain technology. The learners were introduced to the working of blockchain. Further, the essential components of blockchain were outlined to give better insight into the working of blockchain. The applications of blockchain technology have seen penetration in various sectors and industries. This unit explored a few applications in government, public sectors, finance, healthcare, industry, and the Internet of Things. This unit also discussed challenges like scalability, selfish mining and high energy consumption. An overview of the evolution of blockchain technology was given to demonstrate the power of blockchain technology in different sectors and industries. Blockchain platforms and protocols showed how blockchain can accommodate other sectors and industries.
+
+SMART PORT CITIES 
+CHAPTER 7: SECTION 2 
+BLOCKCHAIN TECHNOLOGY FOR SMART CITIES 
+
+Contents 
+Introduction 
+Smart Healthcare 
+Smart Grid 
+Smart Transportation 
+
+Contents 
+Supply Chain Management 
+Others 
+Challenges of Applying Blockchain to Smart City Applications 
+Summary 
+
+1. Introduction 
+There are certain key aspects that define a smart city. These key aspects are: smart healthcare, smart grid, smart transportation, smart supply chain management, smart government, smart home, and smart education.
+As smart healthcare in a smart city uses a lot of Internet of Things (IoT) devices, and therefore are vulnerable to cyberattack, blockchain technology is very much essential for the security of the healthcare systems.
+Likewise, a smart grid is an essential component in any smart city. We can discern clearly many aspects of a smart city are dependent upon the smart grid. If energy is not available for a significant duration, other functions will eventually cease.
+
+Thus smart grid is a very essential part of a smart city.
+As consumers are becoming prosumers, and a lot of distributed energy resources are becoming part of the grid, the existing energy market will have to shift towards a transactive energy market.
+Electric Vehicles (EVs) will be the part and parcel of any smart city. Charging of EVs using distributed energy resources are crucial, apart from that location of charging infrastructure and payment to charging stations in a decentralized way using blockchain technology will enhance a lot of efficiency in a smart city.
+Smart supply change management is crucial for any smart city. A smart supply chain using blockchain technology can bring full end-to-end visibility for customers.
+Other aspects in a smart city like smart government, smart citizen and smart home are very much essential and blockchain can be utilized to bring transparency and immutability of information apart from addressing various security related issues.
+
+Objectives 
+In this unit, you will learn about blockchain technology in smart cities. After reading this unit, you will be able to: 
+Appreciate applications of blockchain technology in smart healthcare 
+Understand applications of blockchain technology in smart grid 
+Identify key applications of blockchain in smart transportation 
+Understand the applications of blockchain in smart supply chain management 
+Discuss various challenges in applying blockchain in smart cities 
+
+2. Smart Healthcare 
+Hospitals, patients and governments are taking threats to vital patient data very seriously. A few critical concerns in healthcare need to be addressed:
+First and foremost is the privacy of a patient's data.
+The other important concern is the availability of real-time accurate and trusted data to the medical practitioner.
+In any smart city, a doctor attending to a patient should have up to-date data so as to provide the right treatment to the patient. Data in the health care sector is institution-centric. There is a need to shift data from being institution-centric to patient-centric.
+Blockchain-based smart contracts are used to secure sensitive information and maintain the privacy aspect. Smart contracts create an environment in which a significant amount of operations become automatic. The information stored becomes accurate, immutable and requires the approval of proper authorities in all cases.
+
+2. Smart Healthcare 
+The applications of blockchain technology in the following health care areas are discernible: 
+Electronic health record 
+Biomedical research 
+Health insurance 
+Remote patient monitoring 
+Health data analytics 
+One of the applications of blockchain technology in healthcare has been discussed here. Remote patient monitoring is a healthcare delivery method that uses technology to monitor patient health outside of a traditional clinical setting.
+
+2. Smart Healthcare 
+In Remote patient monitoring, patients are monitored through wearable devices like insulin pumps and data pertaining to health readings is transmitted for diagnosis and treatment. As remote patient monitoring is growing across the globe, secure transmission of health-related data is increasing. It is important to prevent access to these vital data from falling into the hands of unauthorized and unscrupulous elements. Blockchain-based smart contracts can transmit data that can be trusted and is unalterable too. A blockchain-based smart contract remote patient monitoring system is as shown in Figure 7.3. Smart contracts are created for IoT devices, enrollment of patients and doctors and patient monitoring. Vital data are continuously monitored and in case of any deviation from set parameters, the health centre will alert the doctor and patient.
+
+Figure 7.3: Blockchain-based Remote Patient Monitoring Healthcare System Flow:
+Smart Contracts: 
+IoT Device 
+Enrollment of Patients and Doctors 
+Patient Monitoring 
+Smart Contracts connect to Health Centre and Master Device.
+Patients with body sensors send data to Master Device.
+Health Centre connects to Doctors.
+Doctors connect to Master Device.
+Master Device connects back to Smart Contracts.
+
+2. Smart Healthcare 
+Handling of Medical Prescription 
+When a family doctor or general practitioner writes a prescription for the patient, the issue of genuine medicine by the pharmacy or medical store is an important concern for the doctor and the patient both. Blockchain technology can eliminate any mismanagement and possible fraudulent practices involved in delivering medicine to the patient.
+
+Figure 7.4: Blockchain-based Prescription Handling Process Flow:
+Patient connects to Medical Store.
+Medical Store interacts with Blockchain.
+Doctor interacts with Blockchain.
+
+2. Smart Healthcare 
+A doctor will write a prescription and will put the patient's record in the blockchain using a smart contract. The pharmacy or medical store will access the prescription through blockchain after getting permission from the doctor and patient. Pharmacy issues medicine after checking the expiry date and prescribed dosage of the medicine to the patient. Thus a patient will not have to show prescribed medicines to the doctor again for confirmation of the genuineness of the medicine, thus saving time for both and bringing an element of satisfaction between doctor and patient. Blockchain based prescription handling process is as shown in Figure 7.4.
+
+2. Smart Healthcare 
+Healthcare Data Sharing, Storage and Access 
+A simple model of blockchain-based healthcare management is as shown in Figure 7.5. The interaction between patient and doctor results in data generation. This data and other relevant data (laboratory reports) are part of the electronic health record (HER) created for the patient. The patient is the owner of the electronic health record. Other entities can request for accessing the EHR from the owner i.e. the patient. Blockchain provides the necessary privacy of data. Healthcare providers may access data as per the patient's permission.
+
+Figure 7.5: Blockchain-based Healthcare Data Management Flow:
+Interaction between patient and doctor leads to Electronic Health Record.
+Electronic Health Record leads to Access Control to Patient.
+Access Control to Patient leads to Blockchain.
+Blockchain leads to Healthcare Providers.
+
+3. Smart Grid 
+A smart grid performs three important tasks: 
+Modernization of power systems 
+Empowering consumers to use energy smartly 
+Safe and secure Integration of Renewable Energy Resources 
+What is the meaning of modernization of power systems? Automation, remote monitoring and control and self-healing designs are at the centre of the modernization of power plants.
+How consumers can be empowered? Information is the key here. Consumers must know their energy consumption patterns, cost of the energy, alternative options of energy they can use. Given this information, consumers should be able to take decisions of their own on using the energy of their choice at different time intervals.
+
+3. Smart Grid 
+Further, the integration of renewable energy resources is a challenging task. If renewable energy resources happen to be variable in nature like wind energy and solar power, grid balancing needs to be taken into account. Thus it can be seen that the smart grid makes energy infrastructure safe, secure, reliable and resilient. There are many aspects of a smart city. Some of these are: Smart health care, smart grid, smart transportation, and supply chain management. We can discern clearly many aspects of a smart city are dependent upon the smart grid. If energy is not available for a significant duration, other functions will eventually cease. Thus smart grid is a very essential part of a smart city.
+
+3. Smart Grid 
+Elements of Smart Grid 
+Following are important elements of the smart grid: 
+Smart Metering 
+Prosumers 
+Microgrids 
+Virtual Power Plant 
+Vehicle to Grid (V2G) 
+These elements of the smart grid have been explained here. The smart meter records the power usage of the consumer and communicates this data in a timely manner to the utility centre.
+
+3. Smart Grid 
+Elements of Smart Grid 
+For a smart meter, it is very essential to collect precise and appropriate data in a timely manner which includes gathering data, its communication and storage. The smart meter allows the bi-directional flow of information from consumer to utility and vice versa.Prosumers are the consumers who also produce and share surplus energy with the grid and other users. Prosumers are an important stakeholder of the smart grid and they have a vital role in peak demand management. A prosumer can generate electricity through the solar rooftop, by participating in demand response and using storage batteries.
+
+3. Smart Grid 
+The DOE defines the microgrid as "a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries that acts as a single controllable entity with respect to the grid. A microgrid can connect and disconnect from the grid to enable it to operate in both grid connected or island mode." A virtual power plant (VPP) may be defined as a group of distributed energy sources (like solar, wind, storage battery) that combine to function as a dispatchable unit. In other words, remotely control scattered energy sources such as distributed power sources and storage batteries with IoT devices to make them function as if they were one power plant.
+
+3. Smart Grid 
+By adjusting the balance between demand and supply using VPP, renewable energy can be used stably.Vehicle to Grid (V2G) supports two-way power flow to and from the grid. An Electric Vehicle owner can take electricity from the grid when charging is needed and can provide electricity to the grid.
+Blockchain-based Transactive Electricity Market 
+A simple model of a blockchain-based transactive electricity market is as shown in Figure 7.6. In any power system, power producers generate electricity.
+
+3. Smart Grid 
+Blockchain-based Transactive Electricity Market 
+The generated electricity is delivered to consumers through transmission and distribution networks. In conventional power systems, electricity market, e.g. IEX (Indian Energy Exchange) in India, provides a platform for the physical delivery of electricity. The seller submits the offers to sell the energy and the buyers submit the bid to buy the energy. After accepting the offers and bids from the sellers and buyers, the market operator does the needful to arrive at the market clearing price (MCP).
+
+3. Smart Grid 
+A blockchain-based decentralized transactive energy auction system consists of four key entities. These entities are: bidders, sellers, smart meters, and smart contracts. Sellers initiate new auctions and advertise the available energy to the blockchain. Bidders monitor the new auctions and submit bids. Smart meters are used to report how much energy is sold or consumed during a time period. The auction data from bidders, sellers and smart meters are stored on the blockchain. Finally, price auction and payment functions are executed automatically via smart contracts.
+
+Figure 7.6: Blockchain-based Transactive Power Market Components and Flow:
+Transactive Electricity Market connects to Blockchain-based Electricity Energy Platform.
+Independent Power Producers connect to Blockchain-based Electricity Energy Platform.
+Power Producers connect to TSO.
+TSO connects to DSO.
+DSO connects to Prosumers/Consumers.
+Power Producers, TSO, DSO, and Prosumers/Consumers all connect to Blockchain-based Electricity Energy Platform.
+
+4. Smart Transportation 
+Smart transportation is one of the important components in the development of smart cities. Smart transportation can provide solutions to many issues that relate to traffic on the road. Thus smart transportation is an important building block in the development of smart cities. The goal of smart transportation is to enhance road safety for vehicles. Traffic and travel efficiency is also a very important part of smart transportation. In smart transportation, a vehicle usually has multiple network interfaces to communicate with Road Side Units (RSUs) and vehicles in the vicinity.
+
+4. Smart Transportation 
+In smart cities, the transportation sector will be driven mainly by electric vehicles. With the use of information communication technologies (ICT), these vehicles will be smart vehicles. ICT based road transport is an Intelligent Transport System (ITS). But ITS faces issues like centralization, trust and data integrity. Data generated from the vehicles may be intercepted, manipulated and corrupted. With the help of blockchain, a decentralized, trusted and secure smart transportation system can be established. Some of the solutions using blockchain technology in smart transportation has been dealt with here.
+
+4. Smart Transportation 
+Electric Vehicle Charging Management 
+An electric vehicle is an important means of transportation in smart cities. Deployment of charging infrastructure is a must for charging electric vehicles. Payment to the charging station after getting recharged is an important process. So finding a charging station at the appropriate time at an appropriate place is important. Blockchain technology and smart contract can take care of electricity trading between electric vehicles and charging stations. Block chain based EV charging management is as shown in Figure 7.7.
+
+Figure 7.7: Electric Vehicle Charging Management Flow (Numbered Steps):
+Selection of charging station (from Electric Vehicle to Charging Stations)
+Bidding (from Charging Stations to Blockchain)
+Request for charging (from Electric Vehicle to Blockchain)
+Charging and Transaction (from Charging Stations to Electric Vehicle)
+Electric Vehicle and Charging Stations interact with Blockchain.
+
+4. Smart Transportation 
+Blockchain-based electric vehicle charging management can take place in four stages.
+First of all, an electric vehicle will send a request for charging to the blockchain. Blockchain will have parameters like amount of energy, time interval and geographic location.
+Nearby charging stations will send bids for this request at the bidding stage.
+Then the electric vehicle will select a charging station based on optimal bid.
+Finally, the agreed transaction is executed by the selected charging station to provide a certain amount of energy at a specified price at a particular time interval.
+The transaction information between electric vehicles and charging stations is stored in blockchain. Smart contracts can be employed to execute an automatic trading process.
+
+4. Smart Transportation 
+Vehicular Adhoc Networks (VANETs) 
+Vehicular Adhoc Networks (VANETs) are the most prominent enabling network technology for Intelligent Transportation Systems. VANETs are networks formed by fast moving vehicles which come in contact momentarily and exchange momentarily. That is why these are adhoc networks. Through VANETs, vehicles can communicate with the roadside unit or with each other without involving any central authority. As VANETs are adhoc network, it is difficult to maintain trust, security and authenticity of information exchanged in the network. Inaccurate messages shared by malicious vehicles may impact traffic safety and efficiency.
+
+4. Smart Transportation 
+Vehicular Adhoc Networks (VANETs) 
+That is why there is a need for vehicle authentication so as to guarantee secure data exchange between vehicles. Blockchain technology can be deployed for securing message transmission.How the task of secure message transmission will be done in a decentralized environment? Each vehicle will first generate a rating for neighbouring vehicles as per received messages, and will upload the rating results to its connected Road Side Unit (RSU).
+
+4. Smart Transportation 
+Vehicular Adhoc Networks (VANETs) 
+Based on the rating results from vehicles, each RSU calculates the trust values of its involved vehicles and puts the data into a block. The consensus mechanisms to add the block into the blockchain may be Proof of Work or Proof of Stake. Thus all RSUs maintain a reliable and consistent public ledger to store the trust values of all vehicles. Each vehicle can easily get other vehicles' trust values from RSUs enabling vehicles to assess the trustworthiness of received messages.
+
+4. Smart Transportation 
+Ride Sharing 
+Cabs services provided by startups like Uber and Ola follow a centralized approach. As the process of booking is done by an intermediary, there is a lack of transparency. With blockchain, users can connect directly to the drivers. The absence of a third party will reduce the cost of the cab service. HireGo is a startup that provides a decentralized P2P car rental platform based on blockchain technology. HireGo utilizes a technology based on the Ethereum blockchain.
+
+5. Supply Chain Management 
+Supply chain management is crucial for any organization because doing it well can introduce several benefits to the organization; however, poor supply chain management can result in very expensive delays, quality issues, or reputation. In supply chain management, the blockchain can be utilized to track the detailed information of products as well as business information sharing among parties or entities. In supply chain management, the blockchain can be utilized to transform many practices. Some of these have been listed below.
+
+5. Supply Chain Management 
+Enhancing product safety and security 
+Improving quality management 
+Reducing illegal counterfeiting 
+Improving sustainable supply chain management 
+Advancing inventory management and replenishment 
+Reducing the need for intermediaries 
+Impacting new product design and development 
+Reducing the cost of supply chain transactions.
+
+5. Supply Chain Management 
+Supply Chain Traceability 
+Traceability is defined as the ability to trace the history, application, use and location of an item or its characteristics through recorded identification data (ISO 9000). The main features of blockchain technology include transparency, irreversibility of records and peer-to-peer-transition. This makes blockchain technology suitable to trace the physical flow information of products from producers to end consumers.
+
+5. Supply Chain Management 
+Compliance with Standards 
+Blockchain technology can be used for real-time monitoring and tracking of data for complying with different standards with the help of installed sensors throughout the supply chain. The medical industry has a strict requirement in terms of temperature and humidity during the shipment of medical products. Blockchain technology can help in complying with this requirement through installed sensors throughout the supply chain. Modum, a startup company in the domain of smart supply chain, utilizes blockchain technology for full end-to-end visibility for customers, from manufacturers to patients.
+
+5. Supply Chain Management 
+Supply Chain Finance 
+Blockchain technology can be utilized to trace and monitor the financial flows and allocation of financial resources in the supply chain. In supply chain finance, blockchain technology can be used to share and monitor financing related information, such as the latest invoice status, check credit limit and payment in a trusted and transparent manner.
+Pharmaceutical Supply Chain Management Using Blockchain 
+A block diagram of a pharmaceutical supply chain using blockchain technology is as shown in Figure 7.8.
+
+Figure 7.8: Pharmaceutical Supply Chain Using Blockchain Technology Flow:
+New medicine from Pharmaceutical R&D goes to Manufacturing Plant.
+Manufacturing Plant goes to Warehouse In.
+Warehouse In goes to Transportation.
+Transportation goes to Warehouse Out.
+Warehouse Out is connected to Healthcare Providers and Retailers.
+Healthcare Providers and Retailers are connected to Patients.
+All steps are vertically connected to the Blockchain.
+
+5. Supply Chain Management 
+Seven steps depicted in Figure 7.8 are: 
+i. Patent of new medicine after Research & Development 
+ii. Mass production and packaging of medicines 
+iii. Keeping medicines in a warehouse for onward journey 
+iv. Transportation of medicine 
+v. Warehouse out signifies third party distribution network 
+vi. Healthcare providers like hospitals and clinics use medicines and Retailers also sell medicines 
+vii. Medicine reaches patients 
+Information at every step is recorded in the blockchain.
+
+6. Other Aspects 
+Smart Government 
+Whenever any transaction or information exchange takes place, this transaction or information exchange may be made more secure by using blockchain technology. A lot of transaction takes place between the government and citizens. Some of the processes for which blockchain can be introduced have been enumerated below: 
+E-voting 
+Passports 
+Business licenses 
+
+6. Other Aspects 
+Smart Government 
+Digital identity 
+Storing of judicial decisions 
+Property titles 
+Storage of academic certificates 
+Traditional e-voting solutions may not be easily auditable or sufficiently transparent. Blockchain-based e-voting can make e-voting transparent and auditable. There are various use cases of blockchain technology in egovernance.
+
+6. Other Aspects 
+Smart Government 
+Georgia uses blockchain technology (Smart contracts) for the registration of property titles. Estonia has implemented e-Residency allowing anyone in the world to have a government backed digital identity.
+Smart Home 
+A smart home is an Internet of Things (IoT) integrated residence. Smart TV, smart phone, smart lock, wearable devices, CCTV and smart meter constitute the IoT ecosystem. A smart home facilitates independent living for people.
+
+6. Other Aspects 
+Smart Home 
+But smart home is also prone to cyber attacks that may compromise the security and privacy of users. Blockchain technology is capable of addressing the security and privacy of user data. The hallmark of any smart city is the fast and secure communication between smart home and city authorities. But security threats to these communication channels exist. This unknown security threat can be eliminated by utilizing blockchain-based systems.
+
+6. Other Aspects 
+Digital Rights Management 
+Digital rights management tries to control the use, modification, and distribution of copyrighted works (software and multimedia content). Digital rights management is very important for the protection of intellectual properties. In general, the blockchain can promote copyright management by storing copyrights information on the blockchain. The immutable information stored on the blockchain can solve copyright disputes. Furthermore, smart contracts can be used to control copyrights transactions automatically.
+
+7. Challenges Of Applying Blockchain to Smart City Applications 
+Data Storage: 
+A huge quantity of data is generated by millions of devices in smart cities. It is a challenge to process this immense volume, variety, and velocity of data. In the traditional blockchain systems, each node must be capable of processing all transactions and maintaining the complete transactions back to the first block (i.e., genesis block). Therefore, it is a challenge to directly apply blockchain technology to smart city scenarios where devices have limited storage resources. One of the possible approaches is storing only the pointers on the blockchain and the rest of the blockchain for catering to the volume of data.
+
+7. Challenges Of Applying Blockchain to Smart City Applications 
+Throughput and Latency: 
+Throughput and latency are important issues to address when applying blockchain technology to smart cities. Throughput is the maximum number of transactions within a certain predefined time whereas latency represents transaction processing time. Throughput for bitcoin blockchain is 7 transactions per second and for Ethereum blockchain throughput is 15 transactions per second. As the throughput of blockchain systems depend upon the number of transactions and block interval time, throughput can be increased either by increasing block size or reducing block interval time. Increasing blockchain size will make the generation and propagation of blocks cumbersome.
+
+7. Challenges Of Applying Blockchain to Smart City Applications 
+Throughput and Latency: 
+Likewise reducing block time intervals may cause the production of stale blocks. Therefore, to support millions of devices in smart cities, it is necessary to introduce ways to increase the throughput of blockchain systems without compromising security.
+Scalability: 
+Every full node in a blockchain network stores all records and participates in the validation process. So blockchain is difficult to scale due to its decentralized nature. As the number of smart devices would grow substantially in smart cities, it will be a challenge to implement blockchain-based smart city infrastructure.
+
+7. Challenges Of Applying Blockchain to Smart City Applications 
+Identity and Privacy: 
+In public blockchain transactional details and encrypted keys are open and visible to everybody in that network. Each participating device can be identified using its public address. Thus, any adversary can infer critical information of users from this public infrastructure. Various ways have been suggested to tackle this challenge.
+Regulation: 
+In smart cities, data is generated in different formats for different devices. For sharing and exchanging data among various entities in smart cities, data format and standards should be considered.
+
+SUMMARY 
+
+This unit discussed various key aspects that define a smart city. Prominent key aspects discussed were: Smart healthcare, smart grid, smart transportation, and smart supply chain management. Blockchain application in these key aspects was discussed. It was shown that blockchain features of the immutability of records and transparency make its application in securing vital entities of smart cities. It was also seen how sensors and smart contracts can make a smart supply chain. In smart cities, millions of devices generate data, and the vulnerabilities of these devices can be minimized by the use of blockchain technology. Apart from these challenges of implementing blockchain technology in smart cities were also discussed so as to overcome these bottlenecks.
+
+STUDY QUESTIONS 
+CHALLENGE QUESTIONS 
+
+Thank You 
+

@@ -1,0 +1,920 @@
+﻿The document you provided consists of excerpts from a presentation covering the topics of Smart Port Cities, Sustainable Development, Circular Economy, and Technology.
+Below is the conversion of the document into plain text, citing the sources for each statement:
+Title and Copyright Information
+SMART PORT CITIES - 335 COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Smart Port Cities."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam.
+This course is designed for the undergraduate level/program."
+Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at: Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+SMART PORT CITIES ELSA ESTEVEZ THERESA A. PARDO By: Dr. Luis ALFARO
+Chapter 1: Introduction and Basic Definitions
+CHAPTER 1: INTRODUCTION AND BASIC DEFINITIONS
+Contents (Chapter 1 Structure)
+1. Introduction
+2. Smart Port City & Redevelopment: Smart Governance
+3. Sustainable Development
+4. Circular Economy Agenda
+5. Technology and Port Cities
+6. From Planning the Port/City - Port-City
+INTRODUCTION - SMART PORT
+Currently, ports, and the cities within which they are located, face significant changing economic circumstances, together with technological, social and cultural pressure for change, as they seek to become more sustainable. As major players in the cultural, social and economic life of cities, ports can provide economic well-being and support a strong identity for those cities and their local communities.
+The introduction to Smart Port topics includes the following elements:
+* LOGISTICS
+* TOURISM
+* TERTIARY ACTIVITIES
+* PLANNING
+There is a distinction made: SMART PORT-CITY $\neq$ SMART PORT/CITY.
+PORT CITIES face: MAIN CHALLENGES:
+* Economies Development
+* Digitalization
+* Internet of Things (IoT)
+* Blockchain
+NECESSITIES:
+* Deepwater access
+* Containerization
+* Vessels Size
+* Freight Transport Links
+Many concepts throughout social sciences vary in their definition and contents from one discipline to another, but few concepts face such a lack of definition as the port city (Chaline, 1993, 1994).
+The simplest definitions converge in defining the port city simply as a city exerting port and maritime activities. A port city is also considered as a communication node between land and maritime networks developing auxiliary activities and having a strong influence on the spatial organization of the outlying region (Brocard, 1994).
+Another definition focuses on the intensity degree of port-city relations and the imbalanced direction of the mutual socio-economic influence between port and city. The port city can be considered as a "system" on its own (Forno, 1985): it is a city where port and maritime activities have such a strong influence on the local economy that the city depends on the port to exist.
+A table summarizes levels of Smart Cities (SC) across several axes (Source: Universidad Politecnica de Madrid et al.):
+AxisICTEnergyTransportEconomyGovernancePeopleLevel 3 Networked SCICT applications Focused on StakeholdersZEB Zero Energy Buildings Integrated energy / environment managementPersuasive public mobilityIndustrial policy based on RIS-3 analysisSocial inclusion Cooperation between AdministrationsLife-long learningLevel 2 Convergent SCShare Public InformationRenewable energy intensive Smart Sensors NetworkUrban traffic optimization platformCooperation with the private sector PPPCitizen participationAdvanced social services Culture and social tourismLevel 1 Isolated SCOnline city dataSmart metering Smart grid CO2 reduction planCity cycles Traffic Congestion ManagementEntrepreneurship Municipal policyTransparencyMulticultural education policyMany of the Smart Ports (projects) are located in port cities, which also have a Smart City project that often excludes the port, focusing mostly on urban transport. It is suggested that both projects should converge and cooperate where appropriate.
+INTRODUCTION - SMART CITY
+City sustainability requires elements including conservation of resources and minimization of waste. It also requires supporting and sustaining the local population through the provision of services such as housing and public transport.
+Ports and cities have realized that to grow and become more sustainable, they must work collaboratively to achieve their individual and combined goals.
+There is no universal definition of Smart City, as it is a new concept in evolution that depends on the context in which it is used. Two definitions are most commonly used:
+1. POLITICAL: A Smart City is one that follows a model of urban, economic, environmental and social development, where investments in human capital, transport infrastructure, and communication technologies promote sustainable economic development and a high standard of quality of life.
+2. TECHNICAL: 
+o ISO-37120/2014: Indicators for the Smart City services and quality of life are applicable to any city, town, or local government responsible for measuring their performance.
+o ISO-37150/2014: Focuses on intelligent Common Infrastructure, such as energy, water, transport, waste and information and communications technologies (ICT).
+The elements influencing the Smart City concept include Technology, Human, and Institutional Factors (Source: Universidad Nueva Lisboa et al.).
+* Technology Factors relate to Physical infrastructure, Smart technologies, Mobile technologies, Virtual technologies, and Digital networks.
+* Human Factors relate to Human infrastructure, Social capital, Creative city, Learning city, Humane city, and Knowledge city.
+* Institutional Factors relate to Governance, Policy, and Regulations / directives.
+* The intersection areas include Smart City, Smart community, and Smart growth.
+Another diagram shows the Visions of Smart City influenced by Institutional, Human, and Technology factors (Source: Universidad Nueva Lisboa et al.):
+* Technology Factors $\rightarrow$ INTEGRATION lead to Smart Transportation, Smart Health Care, and Smart Safety.
+* Institutional Factors $\rightarrow$ GOVERNANCE lead to Smart Environment, Smart Energy, Smart Education, and other Policy Domains.
+* Human Factors $\rightarrow$ LEARNING also lead to Smart Health Care, Smart Safety, and Smart Education.
+INTRODUCTION - SMART PORT CITIES
+Smart Port Cities involve the interaction of PORTS with CITIES, where the latter encompasses factors such as Legislation, Finance, Cultural, Society, and Environment.
+SMART PORT CITY & REDEVELOPMENT
+A complex diagram illustrates the relationship between the PORT (fields at the core of transport) and Fields related to transport (Source: Dr. Jean-Paul Rodrigue, Dept. of Global Studies & Geography, Hofstra University). These fields are categorized:
+* ENVIRONMENT ENERGY (Environmental studies, Natural resources)
+* LAND PLANNING (Resource planning, Regional planning)
+* ECONOMY (Regional economics, Economic geography, Political geography, World geography)
+* HISTORY (Port-City, Historical geography)
+* POLICIES (Location theory)
+* SOCIOLOGY (Land use, Urban geography)
+* SAFETY SECURITY (Cartography, GIS/GPS, Information systems, Operations research, Spatial optimization)
+* SPACE ICT (Spatial statistics, modeling)
+* Central elements related to the core transport function include Transport demand, Transport networks, and Transport nodes.
+Sustainable Development
+PROBLEMS? The problem in Smart Ports is the same as in Smart Cities: any isolated ICT, Environmental or Energy normal industrial project, is often introduced as the first step to become a Smart Port, particularly in Small and/or Very Small ports. However, only Medium and Large Ports can support a feasible and credible Smart Port Project.
+A table traces the evolution of port generations (Source: Universidad Politecnica de Madrid et al.):
+GenerationYearDescription1st Generation- - - - /1940Mechanic Port, Mechanical operation, Handicraft works2nd Generation1960Container Port, Free Zone, Industrial area, Free tax port3rd Generation1980EDI Port, International network, Integrated centre, Commercial area, EDI services4th Generation2000Internet Port, Global Network, Port community, Logistic area, Intermodal services, Internet services5th Generation2020Smart Port, ITS port, Logistic community, Smart City, Smart Hinterland, Multimodal services, Sustainable portThe best way to approach the concept of Smart Ports-Cities is to focus on meeting the standards from the main maritime port traffic circuits. Key Smart Ports related Conventions helpful to achieve this goal include:
+* MARPOL: International Convention for the Prevention of Pollution from Ships
+* ISPS: The International Ship and Port Facility Security Code
+* ISM: International Safety Management
+* PSC: Port State Control
+* SECA: Sulphur Emission Control Area(s)
+Circular Economy Agenda
+A circular economy is an industrial system that is restorative or regenerative by intention and design. It replaces the 'end-of-life' concept with restoration, shifts towards the use of renewable energy, eliminates the use of toxic chemicals which impair reuse, and aims for the elimination of waste through the superior design of materials, products, systems, and, within this, business models (EMF*, 2013: 7). (*EMF stands for Ellen MacArthur Foundation).
+A circular economy seeks to rebuild capital, including financial, manufactured, human, social, or natural. This ensures enhanced flows of goods and services. The system diagram (value circle) illustrates the continuous flow of technical and biological materials. (Source: Ellen MacArthur Foundation)
+Adopting Circular Economy principles can help achieve multiple United Nations Sustainable Development Goals (UN SDGs). The circular economy vision has particularly influenced goals:
+* 6: Clean water
+* 7: Clean energy
+* 8: Economic growth
+* 11: Sustainable cities
+* 12: Sustainable consumption and production
+* 13: Climate change
+* 14: Oceans
+* 15: Life on land
+A schematic shows the Circular Economy emulating nature. In natural ecosystems, biological nutrients are used by plants to produce food, consumed by animals for survival. Biological waste is decomposed into nutrients, and other resources like water are restored through natural cycles. To mimic nature via the circular economy approach, products and services are designed and produced with minimum resources for judicious consumption and completely recycled for maintaining material circularity, thereby eliminating adverse effects on nature (Source: Universidad Politecnica de Madrid et al.).
+Technology and Port Cities
+Like cities ranging from the megalopolis to the rural village engaging in "Smart City" projects regardless of content or budgets, Ports also follow a similar path. Ports, from large international ones to the smallest local ports, label as "Smart Port" any initiative, project, or service that includes technological support and belongs to their normal field of operations (Source: Total Soft Bank Co., Ltd.).
+The Port Community System is defined as an electronic trading platform (A2A or A2B, depending on the property and business type of the Port Authority). It utilizes a centralized Web services architecture aimed at improving safety and reducing costs (Source: porteconomicsmanagement.org).
+The Port Single Window concept has two definitions and other technical legal aspects. The first definition refers to an A2B or B2B transaction platform concerning the property and business of the Port Authority (Source: UNECE -UN/CEFACT (UNECE Recommendation 33)).
+Infrastructure safety and security for people are two critical services in transport. IMO regulations like ISM or ISPS apply to maritime transport, and technical standards such as ISO-28000 are used to improve security in international supply chains. The IMO conventions are mandatory for Ports worldwide.
+An evolutionary model of Single Window development was created by the United Nations Network of Experts for paperless Trade (UNNEXT). This model is used as a reference to determine the current state of a Single Window implementation and its next stages. The stages include:
+* 1st Stage: Paperless Customs + e-Payment for Customs Duty + Container Loading List + Simple e-Documents Exchange with Port Authority and/or Terminal Operators
+* 2nd Stage: Connecting Other Government Back-end IT systems, and e-Permit Exchange with Paperless Customs system
+* 3rd Stage: e-Documents Exchange stakeholders within the (air, sea, dry) port community
+* 4th Stage: An integrated national logistics platform All shipping and logistics services providers
+* 5th Stage: A regional information-exchange system
+Regarding VIETNAM? and administrative reform (Government Resolutions 19 of 2014, 2015 and 2016): (Source: unescap.org)
+* Simplification of procedures
+* Cut-down all unnecessary documents and procedures
+* Reduce clearance to the level of ASEAN 4
+* Implementation of NSW, ASW
+The Vietnam National Single Window (VNSW) connects services like E-Manifest, E-CO, E-Payment, E-Permit, ASW, and E-Clearance. The effectiveness and efficiency of VNSW are being enhanced for all available procedures.
+The ASEAN Single Window (ASW) connects ASEAN partners (Thailand, Vietnam, Singapore, Malaysia, Indonesia, Philippines, Brunei, Myanmar, Cambodia, Laos) and is fully connected with Vietnam, ready to connect with other ASEAN partners for trade facilitation and supply chain security (Source: unescap.org).
+From Planning the Port/City - Port-City
+Three factors are essential in any Smart Port Cities project, whether through conversion or construction:
+FIRST ONE: INSTITUTIONAL
+* Governance, political action, the regulatory framework, legislative framework.
+SECOND ONE: HUMANS
+* Training, social capital, R&D+I, universities, Cluster Platforms.
+THIRD ONE: TECHNOLOGY
+* Physical and logical infrastructure, info-structure, ICT, Wireless technologies, Blockchain, Big data, AI....
+To build the common components in a Smart Port Cities Project, an approach similar to previous concepts like Intelligent City or Digital City is needed. The conceptual variants of Technology, Human, and Institutional factors are interconnected, meaning that Smart Port Cities are located in the common area of these three essential factors.
+The Smart City Program Governance process includes the steps: PLAN $\rightarrow$ DESIGN $\rightarrow$ BUILD $\rightarrow$ DELIVER (Source: Universidad Politecnica de Madrid et al.).
+Under these steps are rows of activities:
+* Define vision and goals $\rightarrow$ Operational planning $\rightarrow$ Activities Scheduling $\rightarrow$ Operations
+* Strategic planning $\rightarrow$ Partnership $\rightarrow$ Procurement management $\rightarrow$ Incident / problem resolution
+* Resource planning $\rightarrow$ Funding $\rightarrow$ Deployment $\rightarrow$ Continuous Improvement
+* Policy planning $\rightarrow$ Policy design $\rightarrow$ Activities Budgeting $\rightarrow$ Operations Budgeting
+Bands running across the bottom of the process include:
+* Communication and Engagement of All Stakeholders
+* Performance Monitoring
+* Risk and Compliance Management
+* Smart City Program Governance
+A conceptual diagram shows the relationship between Smart City, Smart Port, and Smart Region, connected by multimodal corridors (Source: Oceanfinance, Marine Business Development Firm).
+Another detailed diagram shows the integration of Smart City and Smart Port components, with both relying on Internet of Things & Cloud Computing Systems + Big Data.
+Additional Smart City Content (Chapter 4)
+Contents (Chapter 4 Structure)
+The contents outline related to Smart City topics further detail:
+* Introduction
+* What is a Smart City?
+* Definition of Smart City
+* Key Features of Smart City
+* Components of Infrastructures needed for Smart City: Institutional Governance, Physical Infrastructure, Social Infrastructure, Economic Infrastructure
+* Smart Solutions for a Smart City
+* E-governance and Citizen Services: Water Management, Energy Management, Urban Mobility, Land Use
+* Objectives of a Smart City
+* Steps towards a Smart City
+* Smart City Frameworks
+* Value Creators in Smart City
+* Layers of a Smart City
+* Governance, Management and Operations
+* Framework of Data and Information
+* Connectivity, Accessibility and Security Framework
+* Smart City and Technology Infrastructure Layer
+* Leveraging the Smart City Framework
+* Applicability of a Smart City
+* Essential Features of a Smart City Proposal
+* Additional Preferable items to be added in the Application
+* Smart Challenges and Opportunities
+* Opportunities in Smart Cities
+* Evaluating the Effectiveness on Investments
+* Smart City Management and Governance
+* Barcelona: World's Smart City
+* Summary, Keywords and Descriptions, References and Further Readings
+4.1 INTRODUCTION
+The days of industrial revolution saw cities as the engines of development, effective in developing prosperity for many countries, but the department was not always smart.
+4.2 WHAT IS A SMART CITY?
+A Smart City is an urban development plan that uses information and communication technology and internet connectivity to provide useful information to effectively manage available resources assets. This includes data collected from regular official sources and mechanical devices that are processed and analyzed to monitor and manage traffic and traffic management systems, power plants, water supply networks, waste disposal, etc.. A Smart City is an eco-friendly and sustainable city; its aim is to increase urban life quality and reduce costs.
+4.3 DEFINITION OF SMART CITY
+Defining a smart city universally is challenging, as different perspectives and policies offer various interpretations. Common features include smart design, utilities, housing, transportation, and technologies for problem-solving. A smart city requires intelligent physical, social, institutional, and economic infrastructure to ensure a sustainable environment and enhance citizens' quality of life. The concept varies by country and city, depending on development level, willingness to change, resource availability, and residents' aspirations. Urban planners aim for a comprehensive urban ecosystem supported by institutional, physical, social, and economic infrastructure pillars, involving incremental development towards a city meeting citizens' aspirations and needs.
+The elements of infrastructure for a smart city include: i. Adequate water supply ii. Assured electricity supply iii. Sanitation and solid waste management iv. Efficient urban mobility and public transport v. Affordable housing especially for the poor vi. Robust IT connectivity and digitalization vii. Good governance, especially e-governance and citizen participation viii. Sustainable environment ix. Safety and security of the citizens, particularly women, children and elders x. Health and education facilities
+4.4 KEY FEATURES OF SMART CITY
+The primary objective of a smart City is to promote core infrastructure and provide decent quality of life to its citizens. Key features include a clean and sustainable environment, application of smart solutions, sustainability, and inclusive development.
+4.5 COMPONENTS OF INFRASTRUCTURES NEEDED FOR SMART CITY
+Four kinds of core infrastructural facilities are needed: i. Institutional Governance ii. Physical Infrastructure iii. Social Infrastructure iv. Economic Infrastructure
+4.5.1 Institutional Infrastructure Institutional infrastructure is the basic element of physical structures needed for an institution's operation. Elements include:
+* Good governance
+* City development based on ICT
+* Safety and security
+* Public Participation
+4.5.2 Physical Infrastructure Urban physical infrastructure is a major requirement for a smart city in terms of capital, investment critical services requirements, and sustainable and resilient urban development, including roads, sewerage, and energy networks. Elements include:
+* 24 hours basic services
+* Smart urban mobility
+* Smart and affordable housing
+* Zero emissions in all sanitary services.
+* Integrated ICT services
+4.5.3 Social Infrastructure In India, social infrastructure includes the education system, healthcare, healthcare services, entertainment, and sport facilities, forming a subset of the infrastructure sector. Elements include:
+* Smart and quality education
+* Smart and quality healthcare
+* Entertainment and sports facilities
+* Convention centers and auditoriums
+* Botanical gardens
+4.5.4 Economic Infrastructure Economic infrastructure refers to the fundamental facilities that directly benefit the process of production and distribution in an economy. Elements include:
+* Industrial parks and expert promotion zones
+* Information technology parks
+* Trade services, financial services and tourism centers
+* Skill development centers
+* Logistics hubs etc.
+4.6 SMART SOLUTIONS FOR A SMART CITY
+Application of smart solutions requires the use of technology, information, data, and better information services. Examples of solutions include:
+* Public information and grievances redressal
+* Electronic service delivery
+* Citizen's engagement
+* Video crime monitoring
+* Waste to energy and fuel
+* Waste to compost
+* Waste water treatment
+* Smart meters to efficient water management.
+* Reduction of leakage of water.
+* Identifying the renewable sources of energy
+* Smart parking in the city
+* Intelligent traffic management systems
+* Integrated multi management systems
+4.7.1 Waste Management Smart cities combine the use of ICT to provide services for better living standards. Smart waste management utilizes sensors that measure the fill level of trash bins.
+4.7.2 Water Management Technologies like information technology, artificial intelligence, and big data can be leveraged to manage water demand and supply. Access to water is a key building block of infrastructure in smart cities.
+4.7.3 Energy Management Smart cities are necessary for the efficient use of urban amenities. Optimal management of resources is essential to ensure a high quality of life in urban centers.
+4.7.4 Urban Mobility Urban mobility is the lifeblood of modern cities, a critical economic factor, and a facilitator for smart sustainable development.
+4.8 LAND USE
+The Smart City mission aids in efficient land usage in urban areas, including planning for unplanned areas. Key aspects include:
+* Housing facilities expanded for the houseless (an inclusive approach).
+* Reduction of traffic congestion, air pollution, and resource depletion, along with an increase in public transport, are part of the smart City management system.
+* Governance aims to be citizen-friendly, increasing transparency and accountability.
+* Each city may gain a separate identity based on local expertise, such as Education, health, craft, culture, textile, hosiery, etc.
+* Applying smart solutions to infrastructure development.
+4.9 OBJECTIVES OF A SMART CITY
+The objectives include:
+* To attract people for available opportunities (e.g., markets, manufacturing centers, culture, cosmopolitan vibes, education, health etc.).
+* Identifying pull factors nearby places of the cities and increasing such facilities.
+* Decoding specific reasons for choosing a city and providing corresponding facilities.
+* Identifying people's desires based on their diversity of needs.
+* Classifying needs into three categories: livable, economic ability, and sustainability, and arranging accordingly.
+4.10 STEPS TOWARDS A SMART CITY
+In India, Smart Cities are selected for funding based on competitive development strategies, enhancing cooperative federalism. State and Union Territories play crucial roles. Understanding retrofitting, redevelopment, and Greenfield development is essential for policy makers and stakeholders. Major investments, resource mobilization, and active participation are key for Smart City missions.
+4.10.1 Smart City Frameworks A smart City is developed based on technology and focuses on outcomes. These outcomes relate to efficiency in governance, sustainability in environment, water, energy, and air quality management, mental and physical health wellness, effective traffic management systems, economic development, public safety, and quality life.
+4.10.2 Value Creators in Smart City Four types of value creators are involved in smart City development. While people often think services are provided by the government or quasi-government agencies, the actual value producers are business organizations, communities, and residents.
+4.10.3 Layers of a smart City A smart City consists of multiple integrated layers, where technology plays a vital role alongside other capabilities.
+* Value Layer: This is the most visible layer for residents (business houses, visitors, workers, students, tourists) and acts as a catalogue for smart City services.
+* Innovative Layer: To maintain relevance, value creators must continually innovate and update services, requiring a variety of innovative programs.
+4.12 FRAMEWORK OF DATA AND INFORMATION
+Recent technological advancements and real-time data are crucial, though managing large amounts of data is challenging. Smart cities must establish frameworks for secure data collection, processing, analysis, and storage. Transportation systems require efficient data management for security and privacy. Converging heterogeneous data sources (including social media) is essential. Government, governance, public facilities, businesses, and communication data must be managed separately and securely.
+4.13 CONNECTIVITY, ACCESSIBILITY AND SECURITY FRAMEWORK
+Smart City residents, things, and systems are interconnected. Technology must be enhanced, and the ability to connect all three factors and manage connectivity forms an important layer.
+4.14 SMART CITY AND TECHNOLOGY INFRASTRUCTURE LAYER
+Most people associate smart Cities automatically with technology. Scaling up technology infrastructure differs in smart Cities compared to conventional municipalities.
+4.15 LEVERAGING THE SMART CITY FRAMEWORK
+The Smart City consists of a complex framework where people, processes, policies, technology, and other enablers collaborate for better outcomes. Steps needed to leverage the framework include:
+1. Understand the particular smart City: Tailoring the realities, incorporating the development vision, strategy, and executing plans.
+2. Identification of current capabilities and gaps.
+3. Evaluating the existing and new smart City projects: Indicating missing items in the plan project.
+4. Prioritizing and developing necessary frameworks: Identification of existing capabilities, creation of strategic partnerships.
+4.16 APPLICABILITY OF A SMART CITY
+There is no prescribed model for a smart City proposal; the approach is not one size fits all. Each city must prepare its own vision mission plan. A smart City must possess a local context, resources, and ambition.
+4.17 ESSENTIAL FEATURES OF A SMART CITY PROPOSAL
+Although no specific model is proposed for smart City application, the proposal is expected to include a large number of infrastructure services and smart City solutions. Essential features include:
+* Assured electricity supply, with at least ten percent of energy requirements coming from solar energy.
+* Adequate water supply, including wastewater recycling and storm water reuse.
+* Sanitation, including solid waste management.
+* Rainwater harvesting.
+* Smart metering.
+* Digitalization and robust IT connectivity.
+* Pedestrian free pathways.
+* Encouragement for non-motor transport facilities.
+* Non vehicles streets and zones.
+* Smart parking facilities.
+* Energy efficient streetlights.
+* Innovative usage of open spaces.
+* Encroachment free public areas.
+* Ensuring safety of the citizens (especially children and women).
+4.19 SMART CHALLENGES AND OPPORTUNITIES
+The Smart City concept is innovative, futuristic, and unfathomable, with common problems and challenges in implementation.
+* Smart Cities use sensors for technology and analyzing information.
+* As Smart Cities are technology driven, cyber terror threats and vulnerability pose a security threat.
+* Invasion of privacy via public cameras is a challenge, although they also provide greater security.
+* Educating the community is essential to attain the benefits of the smart City proposal.
+* Smart city planning and advantages are often used by influential people, potentially leading to the exclusion of vulnerable people.
+* Lack of confidence or reflectance among citizens must be addressed.
+* Existing infrastructure for energy, water, and transport systems requires more focus.
+* Political differences can be a roadblock to implementation.
+* Public and private sector coordination is essential, requiring synchronization steps.
+4.19.1 Opportunities in Smart Cities: Despite challenges, opportunities abound in smart City implementation.
+* Modern cities struggle with traffic congestion, but smart solutions for traffic management, traffic lights, and road situation solutions are possible.
+* Public transportation is a leading solution for traffic problems.
+* Smart City technology can enable drivers to automatically locate available parking spaces, reducing time and stress related to parking.
+* Smart Cities serve as instruments to increase security and safety, helping reduce crimes.
+4.20 EVALUATING THE EFFECTIVENESS ON INVESTMENTS
+Smart cities require measurement for performance and stakeholder benefits, as improving well-being and inclusivity is crucial for sustainable societies.
+* Challenges and opportunities must be assessed to determine effective investment indicators.
+* Evaluating completed and ongoing projects is essential for evidence-based decision-making.
+* Prioritizing funds allocation and identifying suitable investment decisions are key.
+* Evaluations help identify gaps in infrastructure and underinvestment across sectors.
+* Investment evaluations can address regional differences and technological challenges to ensure effective implementation of crucial decisions.
+4.21 SMART CITY MANAGEMENT AND GOVERNANCE
+Smart City management focuses on the productive utilization of the smart City method of operation. Absolute scalability, modularity, and compatibility are integral to smart City management systems. This management and governance system handles citizen relationships, high data security, automated information, working systems, and public-private partnership management systems.
+4.22 BARCELONA: WORLD'S SMART CITY
+Juniper research named Barcelona the top smart City in 2015. Although the city was not top across any single metric (Masdar city in the UAE won in environment and sustainability), Barcelona's involvement in the smart City concept and consistent above-average performance across all metrics led it to the top step. For example, Singapore's smart traffic systems were noted as second to none.
+Review/Summary Slides
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS
+SAQ 3 a. What are the objectives of a smart city? b. Explain the steps towards a development of smart city c. Who are the value creators of a smart city? d. Explain the different layers a smart city e. How do smart city governance and management are taken place? f. Enumerate the challenges and opportunities in a smart city
+Thank You
+
+
+
+This document consists of excerpts, primarily focusing on Chapter 2 of the Smart Port Cities material, covering Port-City Redevelopment, Sustainable Development, Smart Governance, and the Relational Port-City.
+Title and Copyright Information
+SMART PORT CITIES - 335 COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI) Da Nang, Vietnam. This course is designed for the undergraduate level/program."
+Copyright Notice: "Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 608) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+The material cites external publications by Elsa Estevez and Theresa A. Pardo (from Smart Cities and Smart Governance), as well as editors Angela Carpenter and Rodrigo Lozano (from European Port Cities in Transition). The material is presented By: Dr. Luis ALFARO.
+Chapter 2: Port-City Redevelopment and Sustainable Development
+SMART PORT CITIES CHAPTER 2: PORT-CITY REDEVELOPMENT AND SUSTAINABLE DEVELOPMENT
+Contents (Chapter 2 Structure)
+1. Literature Review on Sustainable Development in Smart Port-Cities and Highlights
+2. Smart Port Cities, International Maritime Transport and the Sustainable Development Goals
+3. Moving Together to Move First: Ensuring Local Transformations Are Part of a Global Transition
+4. Smart Governance Port-City Redevelopment: Challenges and Opportunities
+Literature on Sustainable Development in Smart Port-Cities and Highlights
+Diverse literature exists on sustainable development in Smart Port-Cities, highlighting a series of challenges for port-city redevelopment. These challenges include:
+* The impacts on cities of air or noise pollution.
+* Greenhouse gas emissions.
+* Infrastructure challenges (including energy supply and inland transportation).
+* Urban development in and around port areas.
+* Formal and informal mechanisms or instruments used to alleviate negative impacts or resolve problems related to these challenges.
+The Port-City redevelopment aim is generally to consider the challenge of integrating inland waterways and short-sea shipping. It also addresses diverse challenges related to passenger travel (cruise ships, ferries, small boats, etc.), including energy supply, waste and wastewater, and the use of chemicals. The concept of Port-City Redevelopment includes relocation of cargo terminals and other port operations outside of the city and their related impacts on urban infrastructure. It also involves competition for urban space, both in and around port areas and in waterfront areas.
+Two important questions regarding the concept of Port-City Redevelopment are necessary to consider:
+1. What are the elements of Smart Port-City and Smart Governance in a Smart and Open Government Environment?
+2. What kind of Research and Practice agendas would be supportive of the Development and Evolution of Smart Governance in the Public Sector?
+In both instances, governance emphasizes the resiliency of government operations by employing adaptive capabilities.
+Smart Governance
+The evolution of Smart Governance in Port-Cities is considered a "Centerpiece" of achieving smartness in infrastructure, public-sphere interactions, public administration, societal security and safety to change from traditional to smart government.
+In the 21st century, seven elements address the "Smart Governance Model" as a prerequisite for conceptualization:
+1. Norms
+2. Policies
+3. Practices
+4. Information
+5. Technologies
+6. Skills
+7. Other resources
+These elements must fulfill eight focus areas:
+1. Budgeting/ Controlling
+2. Government Modernization
+3. Security and Safety
+4. High-Speed Connectivity
+5. Electric Mobility
+6. Participation and Collaboration
+7. Open Data/ Big Data
+8. Open Government
+A Smart Port-City is invited to fulfill four topics: Governance, Urban Planning and Development, Climate Change Mitigation, and Sustainable Transportation.
+The SMART GOVERNANCE TIMEFRAME shows that "open data" is closely connected to "big data," "open government," and "digital government".
+* The Open Data - Centric View highlights the strongest links to "open government," "open data policies," "big data," "governance," "innovation," and "stakeholders".
+* The Open Government-Centric Perspective shows the strongest link is to "open data," with other strong links including "digital government," "public administration," "open data policies," "big data," and "collaboration".
+* The Smart City-Centric Perspective shows strong links between smart city at the center and "open data," "smart grids," "renewable energy," "innovation," "collaboration," "digital government," and "smart government". The IoT (Internet of Things) is also a strong determinant.
+The Smart City Program Governance process involves four major steps: PLAN $\rightarrow$ DESIGN $\rightarrow$ BUILD $\rightarrow$ DELIVER. Activities span strategic planning, funding, procurement management, deployment, operations, and continuous improvement.
+Smart Port Cities and Sustainable Development Goals
+The pursuit of sustainable development is an urgent challenge, indicated by the adoption of the 17 global Sustainable Development Goals (SDGs) by world leaders (UN 2015). The SDGs emphasize the need for action to address economic, environmental, social, and institutional barriers to sustainable development.
+Industrialization and Urbanization are often considered important drivers of unsustainable patterns of development, thus sustainable development requires the adoption of new approaches and practices. Smart Port-Cities should play a central role in sustainable development.
+Ports exert a strong cultural influence on cities and regional, national, and international "hinterlands". They are central to urban life, influencing port cities directly through visible, material impacts, and indirectly through their role as nodes in global supply chains.
+Port Operations - Urban Governance: Governance is the most obvious form of practice. Port Authorities often combine current council executive objectives with long-term goals outlined in regional development plans and city masterplans.
+A Fossil-Fuel Free Port-City? Maritime transportation holds an important role in a region's climate transition, and management directives SHOULD call for minimizing goods transport by road through the use of waterways and railways. Reducing emissions from ships at dock in the city is therefore urgent. Actions to achieve a fossil-fuel free port-city include:
+1. Use of differentiated port fees to reduce emissions and noise (and to achieve responsible waste and wastewater management).
+2. Work to use alternative fuels for ships.
+3. Provide OPS (Onshore Power Supply) to ferries and cruise ships.
+4. Allow environmental inspectors to access facilities to monitor standards.
+5. Participate in international environmental agreements and standards.
+6. Support climate adaptation and the development of a resilient city.
+Onshore Power Supply (OPS) is defined as an electrical cable extended from the pier and plugged into the ship's receptacle to supply power to operate the machinery.
+Offshore/Onshore Challenges
+The greenhouse gas emissions of international maritime transportation were and remain unregulated by the Paris Agreement (UN 2015). This highlights a tendency for nations to regulate spaces "onshore" while leaving the fluid world of shipping "offshore" in a self-governed regulatory netherworld.
+Offshore and Onshore operations meet at the quayside. The sustainable development challenges of international maritime transport and port city urban areas are interconnected and require collaborative solutions to fulfill the SDGs. Challenges and solutions regarding Offshore and Onshore are often discussed in isolation.
+What can Smart Port-Cities do to contribute to sustainable development?
+The World Ports Climate Declaration (WPCD) identified actions for port cities to reduce greenhouse gas emissions and other environmental impacts from port operations. These include reducing and monitoring emissions from ocean-going shipping, reducing environmental impacts of onshore activities (e.g., terminal operations and energy use), and reducing impacts from onward transportation to inland areas. However, it is relatively straightforward to shift operations elsewhere to avoid financial penalties or access restrictions linked to governance schemes like the WPCD.
+Sustainable Transportation and HGVs
+Onward transportation efforts require complex webs of stakeholders and the involvement of local and national authorities. For many port cities, onward transportation consists of large numbers of heavy goods vehicles (HGVs) carrying containers and dangerous loads through densely-populated or congested areas.
+Using or avoiding HGVs: In better cases, onward transport uses transshipment to short-sea shipping, inland waterways, or intermodal transport via railways. Environmental impacts are reduced when using cleaner fuels or certified green electricity. However, when HGVs are used, Smart Port-Cities must consider wider socio-economic and environmental impacts when planning for sustainable development.
+The presence of large numbers of HGVs generates congestion, impacting local air quality, noise pollution, and increasing risks to public safety. Smart Port-Cities need measures to ensure HGV transport occurs in appropriate locations and at appropriate times, and using clean vehicles and fuels.
+Strategies for clean onward transportation imply that port cities should work with stakeholders to ensure:
+1. Transport firms NEED to use renewable fuels and electric propulsion in HGVs.
+2. Smart Port-Cities procure clean transport services and work with transport purchasers to encourage similar demands.
+3. Smart Port-Cities actively inform transport firms about available technologies that can reduce emissions (renewable-fuelled or electric trucks/equipment).
+4. Distant cities sending or receiving goods make similar demands and enable similar actions.
+Port-City Redevelopment Challenges and Opportunities
+Port-Cities play an important role in urban life, particularly along waterways and quaysides. Industrial activities and bulk cargo/container transport have increasingly moved away from the urban heart to peripheral zones in recent decades.
+Challenges for sustainable development of the port and the port-city-region include:
+1. Meeting Local Governments' commitment to be fossil-fuel free by 2040-2050.
+2. Planning for sustainable redevelopment of former port areas or along quaysides in a rapidly-expanding urban region.
+3. Providing and maintaining physical infrastructure (quays, terminals, roads, rails, etc.) to support port operations and transport to/from the ports.
+4. Managing transport and related impacts (air and noise) both at the quayside and for transportation to/from port areas.
+5. Managing the needs of large and small vessels and the environmental risks associated with them (e.g., OPS installation or waste management systems).
+The URBAN REDEVELOPMENT PORTION: SUSTAINABLE, CLIMATE-SMART relies on urban regeneration* (redevelopment of old industrial areas along the quaysides), environmental quality, sustainable transportation, and efforts to reduce greenhouse gas emissions and phase out fossil fuels.
+The challenge of reducing greenhouse gas emissions and local air pollution caused by fossil fuels in urban transportation is complex in port cities due to increased road freight transport (HGVs), tourist transport (cruise ships, ferries), and emissions from ships at the quayside. Policies adopted may include using port access restrictions (or city access restrictions) linked to environmental objectives, making access slots available only to high-environmental performance operators.
+Chapter 2: From Planning the Port/City to Planning the Port-City
+CHAPTER 2: FROM PLANNING THE PORT/CITY TO PLANNING THE PORT-CITY: Exploring the Economic Interface
+The contents structure includes: General Overview, Introduction, The Relational Port-City, A Visualization Method, Case Study, Results & Videos, and Final Remarks.
+General Overview: The landlord role of Port Authorities (PAs) is being challenged. The main task of a PA as landlord is the basic development and management of its port area, including making (new) land ready for leasing and ensuring facilities (quays, locks, docks) meet the requirements (e.g. deep water access) of maritime firms.
+The maritime industry scaled up vertically and horizontally, becoming increasingly global and corporate. This acceleration meant traditional democratic policy processes of urban governments did not have sufficient time to implement required infrastructure changes, affecting the port's competitive level.
+Many PAs became (semi-) independent organizations with separate budgets and management to increase the speed of decision-making. The PA business model generates income by leasing land or by charging fees to incoming ships. This model transferred profits (dividends) to stakeholders, often the urban government. This shift led the maritime logistical sector towards a polarized hub-and-spoke network, creating winners and "far more losers among the ports".
+The Semi-Independent model is simple: Storage and more Ship Movements. Profits are used to redevelop and improve logistical parts of port areas (e.g., creating new terminals, deepening canals, building new roads/railways). This self-fulfilling prophecy for 'winners' and 'losers' carries a risk.
+The Relational Port-City: Traditional models like the functional-morphological sequential Anyport and Port-City interface model (Bird 1963, Hoyle 1989) explain that maritime functions effectively moved out of urban cores in many port-cities. The difference today is that non-port urban functions (retail, transport, sport) are institutionally part of the city, while the port is not.
+Within spatial applied sciences, the relational approach is the third paradigm (after perceiving reality and landscape conception). The relational approach acknowledges that regions condition and are conditioned by politics, culture, economics, governance and power relations.
+The port city, under the relational approach, implies two things:
+1. The port and city exist as a structuralized effect, influencing behavior (e.g., through mobility and environmental regulations).
+2. Port and city are structuralized effects but only exist 'in permanence'; if no maritime functions operate within port areas, these port areas stop existing and may become an urbanist/architectural relict ('portscapes') or disappear.
+The case study uses networks to explain the port-city interface, focusing on three aspects: (i) its boundaries, (ii) its structure and hierarchy, and (iii) its pluralistic nature.
+* Networks are fundamentally open and endless, in time as space.
+* A network has a structure and hierarchy, correlating to differences in node importance (e.g., a hub-and-spoke network means the central node is more important).
+* The pluralistic nature of networks is often overlooked in port studies, which tend to focus on only one type of network.
+The port-city interface focuses on six non-exclusive different types of networks:
+Relational typeExplanationExamples1. Input/outputFor the production of goodsGrains, diesel, organic waste2. EnergeticUsed as input for support of production of goodsElectricity, diesel, heat3. R&DThe (fundamental) research and development of production of goods or production processesProcesses in (lab-) environments4. Advanced producer servicesServices in support of (maritime) production/transport activitiesEngineering, IT services, insurance, legal advice5. Membership/associationOrganisation in which companies/institutions meet each otherAssociation, labour union, chamber of commerce6. ShareholderFull or partial ownership of sharesMother/daughter companiesDatabase and Visualization: The DATABASE MODEL uses a two-table From-To structure, combining nodal data (actors involved) with the (6-type) relational data connecting these nodes. This links the nodal and relational table on a one-to-many relational basis. Nodal data relied on socio-economic databases for Belgium and The Netherlands, completed with the international database Orbis Bureau van Dijk.
+The visualization method converts and implements the database in ArcGIS ArcMAP 10.3, generating a geographical network (GN) from linked point and polyline shapefiles. This GN can be combined with the institutional-administrative layer to locate the network in space.
+Case Study: Ghent and Amsterdam
+The case study represents the relational port-city interfaces of the steel manufacturing sector in The Port of Ghent (Belgium) and Amsterdam (The Netherlands).
+Ghent (Belgium): The steel manufacturing sector centers around ArcelorMittal Ghent (founded in 1962 as Sidmar). The steel plant is designed as a maritime integrated plant where almost all production processes occur within the same factory, from intake of iron ore and coal bulk ships to output of steel products by train or ship.
+* The Input/Output network is limited.
+* The plant only relates to the energetic relation through burning emission gasses to produce electricity for the production process.
+* An important element is the R&D network, revealing a remarkable regional knowledge network between the steel plant and research firms clustered in the science park Zwijnaarde of Ghent University.
+* The financial network indicates the independent character of the research cluster towards the industrial part, primarily controlled by public shareholders.
+Amsterdam (The Netherlands): TATA Steel IJmuiden functions as an integrated steel plant within the port of IJmuiden. The location was chosen after War World I because placing the plant on a maritime location facilitated the importation of cheaper foreign coal and iron ore.
+* The complex consists of different companies, creating an inter-firm input-output network. The main actor is illustrated by a hub-and-spoke structure.
+* The interdependency became apparent due to complaints from neighboring residential areas concerning the emission of unhealthy and disturbing clouds of dust coming from the industrial complex (specifically from the processing of residual steel slags by Harsco Metals).
+* Residual emission gasses are converted into electricity. TATA Steel recently installed PV installations to increase solar energy input.
+* The R&D network shows TATA runs its own R&D center. Unlike Ghent, there is a lack of connections with the city of Amsterdam.
+Conclusion (Final Remarks): The finding is that port and city are connected, and at the same time also separated. The relational geometries demonstrate the reciprocal relation where a port-city interface conditions and is conditioned by politics, culture, economics, governance and power relations. Understanding this requires diving deeply into each port city or port-city interface reality.
+VIDEOS
+1. TATA Steel IJmuiden (Focuses on steel as a building block of a modern nation and how steel is produced at one of the biggest factories).
+2. ArcelorMittal Belgium - Company Video (Focuses on producing over a million tons of rails annually and offering reliable products).
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS Thank You
+
+
+
+The document you provided consists of excerpts from a presentation covering advanced topics in Smart Port Cities, specifically focusing on physical infrastructure (transportation, energy, water, stormwater, and waste management) and enabling technologies (ICT, IoT, and AI).
+Below is the conversion of the document into plain text, citing the sources for each statement:
+Title, Copyright, and Authorship
+SMART PORT CITIES - 335 COPYRIGHT
+In accordance with copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management. The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI), Da Nang, Vietnam. This course is designed for the undergraduate level/program.
+Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at: Dr. Luis Alfaro, Director of Ports, Logistics and SCM, DUY TAN UNIVERSITY. The SouthStar Management Institute (SMI) at 254 Nguyen Van Linh St., Danang, Vietnam. T: (+84) 236.365.0403 (Ext. 608) - (+84) 236.382.7111. E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn. W: http://smi.edu.vn/.
+The material references European Port Cities in Transition: Moving Towards More Sustainable Sea Transport Hubs, edited by Angela Carpenter and Rodrigo Lozano, and Smart Cities and Smart Governance: Towards the 22nd Century Sustainable City, edited by Elsa Estevez, Theresa A. Pardo, and Hans Jochen Scholl. The material is presented By: Dr. Luis ALFARO.
+
+CHAPTER 3: PHYSICAL INFRASTRUCTURE-II: ROADS AND TRANSPORTATION, ENERGY AND ICTS
+The contents of this chapter include: Introduction, Smart Transportation Systems, Smart Energy Management System, Information and Communication Technologies for Smart Cities, and Summary.
+Introduction
+Infrastructure services provide the basis for everyday life and enable the flow of goods, information, and services within urban and regional settings. Robust infrastructure is imperative for maintaining basic services in cities and promoting inclusive growth. Infrastructural management is complex and requires integration with technology to increase operational efficiency and reduce energy cost. Smart infrastructure is key to improving cities and is directly correlated to improving the quality of life of citizens. The key technologies driving the growth of smart cities are connectivity, cloud computing, data analytics, sensors, the Internet of Things, and artificial intelligence.
+Objectives: After reading this unit, one should be able to discuss smart concepts for smart transportation for road based transport, understand Intelligent Transport Systems technology, describe Smart Energy systems in cities, understand Smart Grids and Smart Meter concepts, and elaborate on the application of Information and Communication in smart cities.
+Smart Transportation Systems
+Transportation forms the movement arteries for modern society and economy. The transportation of both people and goods is of utmost importance in cities. Increased urbanization, population, and growing economic activities have led to increased mobility within cities. Traffic management refers to measures that preserve traffic capacity and improve the security, safety, and reliability of the overall transport system.
+Smart Mobility is an approach that reduces congestion and fosters greener and affordable transportation options. Smart mobility systems apply to mass transit systems and individual mobility systems like bicycle riding, ride sharing (or carpooling), vehicle sharing, and on-demand transportation. The use of services like Ola and Uber has introduced disruptive concepts of sharing, convenience, and mobility within cities through dynamic ride-sharing (DRS). Smart Mobility Infrastructure Components include Mass Rapid Transport, Multimodal Integrated and BRT, Water Transport/Freight, Aviation, Non-Motorised Transport, and Smart roads networks (Figure 3.1).
+Smart Road Management is an essential part of the smart city initiative as road-based traffic congestion is a severe issue exacerbated by city development. Traffic congestion occurs when demand exceeds the available road capacity, as adding new routes in established urban areas is difficult. Smart traffic management includes Intelligent Transport Systems (ITS) with integrated components like adaptive traffic signal controls, highway management, and emergency management services.
+Intelligent Transport Systems (ITS) uses information and communication technologies for efficient decisions related to the transport sector. ITS uses sensor data, communication, and automated algorithms to ensure smoother traffic flow. The development and integration of traffic management measures based on dynamic data collection and performance management are central to the smart transportation approach.
+The entire application of ITS is based on data collection and analysis for traffic management. ITS components comprise electronic systems incorporating information processing, communication, control, and sensing technologies to address transportation problems. ITS components include a network of sensors, connected cars, GPS tracked public transportation, dynamic traffic lights, passenger information panels, automatic number plate readers, CCTV systems, navigation facilities, and signaling systems. ITS functions include Road information monitoring, Intelligent road lights and signals, Sensors, and Analysis and accounting of users behavior (Figure 3.2).
+Enabling ITS Technologies: ITS support functions range from simple mobile phone information alerts to highly sophisticated traffic control systems. Enabling technologies utilized by ITS include: Data processing, management and archiving technologies; Detection technologies; Communication technologies; Information dissemination technologies; Location referencing and positioning technologies; Traffic control and vehicle control technologies; Electronic payment technologies; and Surveillance and enforcement technologies (Figure 3.3).
+Advantages of ITS: ITS benefits include:
+* Using a navigation system to find the best route based on real-time conditions.
+* Improving the mobility of people and goods by reducing congestion.
+* Helping make effective operations and decision making.
+* Alerting drivers of potentially hazardous situations in time to avoid crashes.
+* Guiding drivers to an empty parking space.
+* Rerouting traffic in response to road conditions or weather emergencies.
+* Increasing safety, reducing traffic congestion, and managing incidents effectively.
+* Improving safety by providing advance warnings before potential crash situations.
+* Meeting transport policy goals and objectives, such as demand management or public transport priority measures.
+Road Information Monitoring Technologies (Table 1):
+TypeTechnologyUse/ApplicationNon-intrusiveInfrared detectorsApplication for speed measurement, vehicle length, volume, and lane occupancy; tracking the number of vehicles, vehicle's presence, and occupancy.Non-intrusiveUltrasound detectors or ultrasonic sensorsUsed in the development of applications for measuring vehicle's passage, presence, and speed.Non-intrusivePassive acoustic detectorsVehicular volume and speed measurement, detection of motion direction of the vehicle, and used by applications for managing traffic lights.Non-intrusiveRadar detectorsDetection of vehicles across several lanes and classification by length; reporting vehicle presence, flow rate, occupancy, and speed forecast class.Non-intrusiveVideo detection systemsUsed to track vehicles mainly for toll management.Non-intrusiveRFID (Radio-frequency identification)Used to track vehicles mainly for toll management.IntrusivePneumatic instruments (traditional)Used for keeping track of the number of vehicles, vehicle classification, and vehicle count.IntrusiveInductive loops or inductive loop detectorsUsed for the detection of vehicle's movement, presence, count, and occupancy. Signals generated are recorded in a device at the roadside.IntrusiveMagnetometers or magnetic sensorsUsed for detection of presence of the vehicle, identifying stopped, and moving vehicles.A wide range of sensors is installed in, on, and above the roadway to obtain geographical and critical time coverage for traffic flow. Intrusive sensors are installed on pavement surfaces and offer high accuracy but high installation and maintenance costs. Non-intrusive detectors are mounted to the side or above the road surface and typically measure emitted infrared radiation. This type of monitoring can provide wireless access to vehicles and collect relevant information via sensing capabilities.
+Use of Sensors in Traffic Management: Sensor networks are key for innovative traffic management solutions. Sensors can provide different traffic data, ranging from point data to continuous path data. Acoustic and magnetic sensors are cost-effective, power-efficient, and popular recent vehicle monitoring solutions.
+Functional categories of traffic sensors:
+* a) Counting Sensors: (e.g., inductive loop detectors, magnetic sensors) provide point data including vehicle counts, presence, occupancy, and speed. Ultrasonic sensors measure volume, occupancy, speed, and traffic classification.
+* b) Scanning Sensors: (e.g., video detection systems, automatic vehicle identification sensors). LIDAR (Light Detection And Ranging) is a key component for autonomous vehicles, enabling self-driving cars to observe the world with 360-degree visibility and highly accurate depth information, although widely accepted standards are lacking.
+Road Condition Sensors (Environmental Sensing):
+* I. Road Condition Sensors: Measure surface temperature and moisture, and detect snow and ice presence/thickness; they can be embedded in pavements.
+* II. Visibility Sensors: Measure visibility along a road section for fog, smog, dust clouds, heavy rain, and snowstorms. They use the principle of "forward scattering" or light diffraction to detect visibility changes caused by inclement weather. These sensors provide spot measures at specific locations and must be carefully sited.
+* III. Thermal Mapping Sensors: Detect ice presence, applicable for ice formation on airport runways to improve safety during aircraft takeoff/landing.
+* IV. Noise Sensors: Measure vehicle flow rate, occupancy, and speed by detecting acoustic energy (audible sounds) produced by vehicles and tire interaction with the road.
+* V. Wind Speed Sensors: Essential component of environmental sensing stations installed at high/exposed bridges and windy road network locations, providing warnings to heavy-duty vehicles like freight trucks.
+Use of Internet of Things (IoT) for Traffic Management: The IoT paradigm connects physical devices over the Internet to exchange information, track, and monitor traffic movement. IoT creates connections between vehicles and transportation infrastructure.
+* a) IoT in Traffic Lights: An IoT-based real-time traffic monitoring system dynamically handles traffic signals based on traffic density. Sensors at high-traffic junctions use IoT to gather data. CCTV cameras capture traffic and transmit data to the traffic management group. Big data analytics via IoT can analyze alternative routes to ease congestion. Traffic lights have weather sensors to adjust light brightness and detect unfavorable weather.
+* b) IoT for Car Parking: IoT-based sensors in parking lots give real-time information about empty spots, addressing the lack of parking spaces in cities. Sensors transmit real-time data about free/occupied spots via web/mobile applications.
+* c) IoT for Emergency Assistance: CCTV cameras and sensors monitor roads to identify, locate, and communicate accident spots to the nearest emergency rooms for timely response. IoT helps emergency vehicles pass through crowded traffic lanes.
+* d) IoT for Logistics Industry: IoT technology is applicable in logistics. M2M communication and GPS capabilities track a vehicle (moving or rest) and its contents in real-time to monitor against challenges like weather, distance, and thefts. This ensures efficient monitoring to avoid predictable delays, especially for perishable or temperature-sensitive goods, leading to more efficient utilization of the transportation network.
+Use of Artificial Intelligence (AI) in Transport Management: AI is a technology empowering machines with human intelligence capabilities. AI can be applied to traffic management and decision-making systems. AI applications in urban mobility are extensive, including adjusting streetlights, traffic lights, congestion fees, public transportation, parking fees, notifications of parking space availability, and the speed/safety of vehicles and pedestrians. AI creates opportunities for transport to be safer, more reliable, efficient, and cleaner. AI models reduce human errors. Transportation analytics minimizes driving hazards in crowded areas and monitors safety regulation compliance.
+AI is applicable in the following transportation sectors:
+* Self driving cars: A groundbreaking AI innovation, where autonomous vehicles are becoming a reality. AI is vital for processing, control, and optimization.
+* Traffic management: AI-powered systems and big data analytics reveal traffic patterns to reduce congestion.
+* Delay prediction traffic: Prediction techniques use traffic monitoring data to forecast traffic conditions, helping predict delays, accidents, and wasted fuel.
+* Drone taxis Traffic signal control: Signals can be self-organizing/adaptive using vehicular ad hoc network (VANET) technology and intelligent control algorithms. AI and object recognition software classify pedestrians, motorbikes, emergency vehicles, etc., broadcasting information to vehicles at intersections, enhancing driver awareness, overcoming blind spots, and preventing hazards.
+Smart Mobility Bengaluru, India: Under the Smart City initiative, Bengaluru plans to upgrade its entire transport infrastructure (roads, pavements, public transport, parks, streetlights) with technology. Siemens Mobility built a camera-based monitoring system using AI to detect vehicles and calculate traffic density. Based on real-time road congestion, traffic lights are altered for smooth traffic flow. Signals automatically change according to the number of vehicles at a junction. Plans include coordinating signals using sensors and addressing pedestrian safety.
+Smart Energy Systems
+Energy is the most critical infrastructure required for keeping all sectors (buildings, transport, water supply, telecommunication, etc.) operational in cities. Energy management involves three roles: consumers, producers, and providers. Modern energy management focuses on ensuring energy optimization rather than just calculating savings by replacing inefficient equipment. Smart energy management systems use sensors, advanced meters, renewable energy sources, digital controls, and analytic tools to automate, monitor, and optimize energy distribution and usage. Innovations include distributed renewable generation, microgrids, smart grid technologies, energy storage, automated demand response, virtual power plants, and demand-side innovations (electric vehicles, smart appliances). Small-scale smart energy systems allow consumers to become energy producers by installing solar panels.
+Smart Energy Components in Cities (Figure 3.4) include: Demand response and demand side management, Distribution automation systems, Integration of renewable and decentralized energy, Network monitoring and control, and Building automation systems.
+Benefits of Smart Energy Management:
+* Identify key energy consumers and manage them.
+* Identify energy wastage points and address them.
+* Monitor power usage trends using analytics.
+* Anticipate and utilize peak load leveling to manage energy consumption efficiently, reducing costs by moving consumption to low demand periods.
+* Saving labor and cost for maintenance problems/issues due to smart network systems.
+Energy Management Tools: Traditionally, control systems were manual or basic. Modern computer-based control systems and smart algorithms, integrated with ICT into the power grid, make controlling the load easier. Commonly used control systems (Figure 3.5) include PLC (Programmable Logic Controller), SCADA (Supervisory Control and Data Acquisition), EMS (Energy Management System), BEMS (Building Energy Management System), and Automation Systems.
+An Energy Management System (EMS) uses computer-aided tools to monitor, control, and optimize generation/transmission system performance, and control/monitor energy consuming devices (HVAC, fans, pumps, dampers, lighting). SCADA systems and EMS are essential parts of the distribution management system (DMS).
+Key Steps in Energy Management:
+* Modeling and Forecasting: Involves gathering energy consumption data and plotting it against a variable representing the primary driver of consumption.
+* Benchmarking: Comparing energy consumption of different entities against recognized reference standards.
+* Energy Use and Cost Analysis: Breakdown of energy use and cost for equipment/processes; this is the first step toward understanding current energy performance and targeting conservation measures.
+* Measurement and Verification: Process of determining energy or demand saving by comparing usage before and after implementing a conservation measure.
+Use of Sensors for Energy Management: Sensors provide real-time energy optimization. Sensor devices within IoT improve diagnostics, decision-making, analytics, optimization, and performance metrics. An Active EMS involves a sensor network and control units collecting data for optimization. Demand Response (DR) is technology that controls loads based on overall demand for reliability and optimization. Commonly used sensors:
+* i. Temperature Sensors: Detect fluctuations in heating/cooling of a system. They maximize system performance and manage energy consumption (e.g., turning ventilation systems on/off).
+* ii. Light Sensors: Measure luminance (ambient light level) or brightness. They automatically control lighting levels indoors and outdoors by turning on/off or dimming the lights.
+* iii. Occupancy Sensors (motion sensors): Detect infrared light radiation emitted from objects. They save energy by turning lights off soon after the last occupant leaves. Types include ultrasonic and infrared sensors. They can also be applied for air conditioning systems.
+Use of IoT in Energy Management: IoT offers numerous applications in energy supply, transmission, and distribution, improving efficiency and demand management.
+* a) IoT for Energy Consumption Efficiency: IoT integrated tools help EMS collect and analyze real-time energy consumption data. IoT powered EMS tools measure energy usage/flow for maintenance improvement and downtime prevention. Smart devices track the time/amount of used electricity, allowing reduction of demand during peak usage periods (when electricity price is high).
+* b) IoT for Power Maintenance: IoT monitors/controls equipment and maintenance processes, helping alleviate the risk of loss of production or blackout caused by aging equipment and poor maintenance. IoT helps reduce power plant management challenges by detecting abnormal decreases in energy efficiency.
+* c) IoT for Smart Lighting: Sensors (motion, thermal) detect occupancy. Intelligent lighting uses IoT beyond illumination, embedding video cameras, acoustic sensors, and data communications capabilities into LED fixtures/bulbs. Ambient light sensors detect sunshine levels, adjusting indoor lighting to save energy.
+Smart Grids in Smart Cities: Energy infrastructure is critical for operationalizing city functions. Increasing energy demand (especially peak demand) threatens grid functionality. A smart grid responds immediately to energy demand changes by incorporating control, automation, and new technologies. Smart grids aim at improving urban service performance and are a key component of a Smart City.
+A smart grid is defined as an "electricity delivery system" integrated with ICT for enhanced grid operations, customer services, and environmental benefits, creating environmental and cost benefits by improving generation, delivery, and consumption efficiency.
+Benefits of Smart Grids include:
+* Modernizing power systems through self-healing designs, automation, remote monitoring/control, and establishment of microgrids.
+* Informing/educating consumers about energy usage/costs to enable autonomous decisions and active participation in demand response.
+* Providing efficient, safe, secure, and reliable integration of distributed/renewable energy resources.
+* More efficient use of electricity.
+* Accommodating all generation and storage options.
+* Reducing operations and management cost for utilities, ultimately lowering power costs for consumers.
+* Increased participation of large-scale renewable energy.
+* Better integration of consumer owner power generation systems.
+* Reducing costs associated with the production and distribution of electricity.
+* Improving the energy efficiency of the entire grid.
+* Smoothing spikes in energy production.
+* Improving flexibility in equalizing supply and demand.
+* Improving the reliability of the grid.
+Smart grids account for all electric grid elements (production units, energy storage materials, power lines, etc.) to ensure coherent and optimal functioning. Measuring and control technologies are deployed across the grid and connected to a data network. Intelligent electricity meters measure user consumption and send information to the power company.
+The Smart Grid concept (Figure 3.6) facilitates deployment and integration of Distributed Energy Resources, Renewable energy generation, Automated systems, Energy Storage systems, and Peak shaving technologies.
+Smart Energy Meters are advanced electronic devices that track precise electricity usage and record data at predetermined intervals. They provide detailed/accurate analytics on real-time usage. Data is sent directly to the utility company daily and hourly, giving producers/consumers an in-depth view of current energy consumption trends.
+Benefits of smart meters: Consumers access better information, reduce costs by increasing consumption during off-peak tariff periods, and are empowered to manage their energy consumption. Utility companies can optimize network planning, and companies can help block potential energy theft based on historical consumption habits.
+Information and Communication Technologies for Smart Cities (ICT)
+Smart city applications use data/technology to improve citizen quality of life. Reliable communication/networking infrastructure is the backbone of Smart cities. ICT plays a very important role in developing a traditional city into a smart city. Developing smart cities involves adopting advanced ICT to enhance urban service performance, aggregating city information for data analysis, and helping understand how the city functions.
+ICT Characteristics in a Smart City:
+* i. Network security: Necessary in interconnected environments where information is exposed to risks, ensuring data integrity and authenticity.
+* ii. Interoperability and open standards/SW: Necessary for seamless integration/execution of services. Data should flow freely across city functions (lighting, transportation, infrastructure).
+* iii. Information sharing: Vital for facilitating cross-scale information sharing and better operational decisions. Open data should be presented consistently.
+* iv. Cost effectiveness: ICT services (Internet, voice, videos, multimedia systems) must be affordable; affordability is an impetus for wide adoption.
+* v. High reliability and long lifetime: Infrastructural components must stay online for many years without requiring replacement. Industrial-grade specifications meet extreme environmental conditions (shock, corrosion, temperature, vibration, humidity).
+* vi. Scalability and flexibility: Demand for information services/data transmission is continuously growing. Redundancy is key to large-scale network operation. Scalability is vital as urban centers grow and Smart City applications increase.
+Applications and Components of ICT in cities: Smart cities must be digitally connected, adding digital intelligence to existing systems. Digital infrastructure requires a network of sensors/devices, comprehensive broadband/wireless networks, and platforms for data storage/sharing. ICT components include physical technology (computer hardware/monitors) and digital technology (wireless software solutions, mobile technology). The hardware is comprised of a computer machine and infrastructure facilities.
+Components of ICT in Cities (Figure 3.7): Cloud Computing, Software, Hardware, Data, Internet access, Transactions, and Communication technology.
+An ICT Infrastructure typically uses these components together with an integrated software system. The ICT framework is essentially an intelligent network of connected objects and machines transmitting data using wireless technology and the cloud. Cloud-based IoT applications receive, analyze, and manage real-time data to help municipalities, enterprises, and citizens make better decisions.
+Role of ICT: The ICT infrastructure is the central nerve of the smart city, improving performance, design, planning, and quality of infrastructure using digital management.
+* a) ICT enabled information and knowledge sharing: ICT fosters knowledge generation and a learning environment, supporting digital innovation. ICT tools, AI, data warehousing, and data mining manage knowledge and share information.
+* b) ICT enabled integration: Access to timely/relevant information is needed for timely action. ICT-based early warning systems (e.g., for natural disasters) require large amounts of data to study patterns, identify trends, and predict problems.
+ICT Enabled applications in cities (Table 2):
+InfrastructureICT Enabled Applications in citiesSmart MobilityIntelligent integrated transport systems; ICT-enabled traffic control; Smart signals, variable signage, Real-time maps, Route Guidance System; Toll collection and traveller information systems on highways; Transit management with passenger information systems; Smart cards, Road pricing and electronic vehicle monitoring systems in cities; Safety and security, accident monitoring; Maintenance, MIS and management.Environment and EnergyEnergy networks, smart grids; Renewable energy grid; Green buildings, smart meters; Power quality monitoring; Intelligent management and maintenance.Public UtilitiesICT enabled digital metering systems; Intelligent network transmission/disturbing systems; Real-time network condition monitoring; Intelligent water with minimum losses and leakages; Assessing the condition of underground pipes; Identifying leaks using non-invasive techniques and advanced analytics; ICT enabled billing and payment.Application of ICTs in smart cities (Figure 3.8): ICT interconnects various domains, including Real Estate & Building (Governance); Industrial & Mfg and Utilities (Economy); Waste, Water & Air Mgmt (Environment); and Safety & Security, Health Care, Education, and Mobility (Society).
+The 5G-powered Smart City: 5G is the fifth generation of wireless technology, positively impacting digital experiences. 5G is an enabling technology for IoT, and smart cities rely on IoT to function. 5G provides scalable/reliable connectivity with higher speed, short latency, and the ability to connect multiple devices simultaneously. 5G networks are expected to overcome limitations of 4G networks (being 50 to 100 times faster) and enable deployment of new applications.
+Advantages of 5G: Significant network performance improvements. Adds various service dimensions via enabling technologies (IoT, AI, Robotic Process Automation (RPA), Augmented Reality / Virtual Reality (AR/ VR)). Provides a highly available and reliable network. Facilitates real time capabilities and performance for services requiring greater monitoring and control.
+Case Study: The Gujarat International Finance Tech-City (GIFT City): GIFT City is an integrated smart city in India built on an 886-acre site.
+* ICT services: Aimed at fiber-optics infrastructure and a data center for common ICT infrastructure services.
+* Smart Water infrastructure: Vision is to provide potable water on demand, with the pipeline network configured as a loop system.
+* Solid waste management: Plans include an Automated Waste Collection system where waste is sucked in pipes at 90km/hr, minimizing human intervention and cleaning the city.
+* Transportation: Master plan aims for transit-oriented development based on a walk-to-work approach and pedestrian-friendly infrastructure, using efficient public transport systems. The city will have an Intelligent Transport System (ITES) providing real-time information about traffic, public transport, and routes.
+* Intelligent Building Management System: Buildings will be equipped with IBMS to control various functions.
+Summary (Chapter 3 - Physical Infrastructure II): A smart city is an ICT framework to address urbanization challenges. Large amounts of collected data require extensive, robust, and scalable ICT infrastructure. IoT is an integral part of the Smart City, and ICT network design enabling IoT applications is essential for seamless and smart infrastructure management. ICT and IoT enhance infrastructural performance and interactivity of urban services.
+
+CHAPTER 3: SMART PHYSICAL INFRASTRUCTURE I: WATER SUPPLY, STORMWATER, AND SOLID WASTE MANAGEMENT
+The contents of this chapter include: Introduction, Smart Infrastructure, Smart Water Management System, Smart Stormwater Management, Smart Waste Management Systems, Key terms, and References and selected reading.
+3.1 Introduction: Infrastructure systems (water supply networks, stormwater management, waste systems) form the foundation of modern society. Cities must continuously build, maintain, and upgrade physical infrastructure to meet population growth and economic development demands. Rapid urbanization increases the need for an integrated approach to infrastructure management.
+Learning Outcomes: Discuss Smart concepts for the infrastructural sector, understand IoT application in Smart Infrastructure, describe sensors used in Smart physical infrastructure Management, and elaborate on artificial intelligence application for the infrastructural sector.
+3.2 Smart Infrastructure: Smart Infrastructure is the basic foundation of a Smart City. It integrates physical urban infrastructure with human capital, information, and computing technologies (software, server, and network infrastructures). Sensors help manage utilities by detecting environmental changes and communicating across networks, ensuring optimal resource use and improved performance through greater efficiency. Smart Infrastructure transforms how infrastructure is planned and managed, allowing operation and control of both cyber and physical systems. Its components are connected, generate data, and are used intelligently for decision-making. The biggest advantage is system optimization to maximize existing infrastructure networks, investments, and reduce future capital investment needs.
+Advantages of Smart Infrastructure:
+* More effective, data-driven decision-making.
+* Maximize existing infrastructure systems.
+* Optimal utilization of resources based on consumption patterns.
+* Anticipating future demand based on real time data.
+* Responsive and resilient to climate change.
+* Increased citizen and government engagement.
+Factors to consider for Smart Infrastructure management:
+* A People-centric approach that responds to the sustainable development needs of people, including older generations and people with disabilities.
+* Smart Infrastructure must be responsive and resilient to external challenges like climate change.
+* Technologies must be flexible, capable of future modifications, and emphasize interoperability among components.
+* Smart city infrastructure components raise risks regarding cybersecurity and digital data safety.
+3.2.1 Use of Internet of Things in Smart Infrastructure Management: The term 'Internet of Things' (IoT) was introduced in 1999. In 2009, the ITU defined IoT as a global infrastructure enabling advances in services by interconnecting physical/virtual things based on existing/evolving interoperable information and communication technologies. IoT is central for interconnection between the physical/virtual world, utilizing environment sensing, network communication, and data analysis methodologies. IoT is a connectivity tool for sensing service status, enhancing infrastructure management via communication/processing capabilities.
+Three-tier architecture for IoT in infrastructure management (Source: Reynolds, 2020):
+* Perception Layer (Bottom Layer): Consists of 'things' (sensors, phones, etc.) and Internet-enabled devices that perceive/detect objects. Characterized by digital devices collecting information/requests from networks.
+* Network Layer (Middle Layer): Wireless or wired transfer of information generated by 'things'. Sensors collect thousands of data points per second. Composed of online networks that help transfer data.
+* Application Layer (Top Layer): Processes and analyzes data, making it available as knowledge. Responsible for distributing learning content.
+City's framework for Smart Infrastructure (Figure 6.2):
+1. Visualization and integration layer: Physical and digital infrastructure meet (e.g., Smart Buildings, Smart Grid, Smart Waste, Smart Mobility).
+2. Sensor layer: Smart devices measuring and monitoring city/environment parameters.
+3. Connectivity layer: Transports data/information from sensors to data aggregators and storage for analysis.
+4. Data Analytics layer: Makes sense of data from disparate sources (geospatial data, traffic data, crime statistics, etc.). Analyzes collected data to predict events (like traffic congestion).
+5. Automation layer: Digital enabling interface allowing automation and scalability for many infrastructure networks to develop Smart services.
+3.2.2 Smart Infrastructure Financing: Governments usually take the lead in funding infrastructure with large, upfront CapEx and long payback periods. Smart Infrastructure requires new funding models as private companies are involved in execution and management. The Model for Financing Smart Infrastructure Projects (Figure 6.3, Source: UN Department of Economic and Social Affairs, 2016) includes: Incorporating performance-based approaches for revenue sharing; Supporting fiscal incentives, PPPs, and qualified infrastructure bonds focused on smart city requirements; and Encouraging active central state/municipal collaborations for smart projects. Funding models include Government-based financing tools, contributions by States/Urban Local bodies, User Charges, PPPs, Municipal bonds, and private fund options.
+3.2.3 Role of Data in Smart Infrastructure Management: Data is the most important and central component. Sensor networks, intelligent meters, mobile phones, and IoT devices collect large amounts of data. This data generates new insights to improve service distribution. Data is collected by government/public agencies, private entities, and citizens via their mobile devices.
+3.3 Smart Water Management System (SWS): Water management handles the diverse needs of multiple consumers (domestic, commercial, institutional, industrial). SWS manages water demand, uses technology to save water, reduce costs, increase reliability, and enhance transparency. Physical pipe networks are overlaid with data/information networks. SWS uses sensors, information, and ICT for real-time monitoring of data (pressure, water flow, quality, moisture, etc.). Smart capabilities include detecting non-revenue water (NRW) losses and water contamination, integrating supervisory control and data acquisition (SCADA) systems and geographic information systems (GIS).
+Advantages of Smart Water Management Systems:
+* Conserving water and reducing costs by analyzing usage and dynamically adapting supply.
+* Efficient water quality monitoring.
+* Reduced labor costs associated with manual meter reading.
+* Providing sufficient awareness and pricing mechanisms to consumers.
+* Continuous monitoring of water quality and early response preventing high costs.
+* Stemming NRW losses through leak detection.
+* Reducing the water footprint by predicting efficient watering timing.
+SWS Components (Figure 3.4): Water Treatment Plan, Water Supply System, Water Body Monitoring, Smart Meters, Advanced Water Treatment and Automation, Leakage Detection, Water quality monitoring, Pressure transient analysis for burst detection, Smart metering, and Water demand assessment.
+Smart water distribution network consists of: Water Storage points with water level and quality sensors along with water pumps; Distribution lines with pressure/flow sensors and electrically actuated valves; and Consumer points with flow meters. The network backbone uses electrically actuated valves (butterfly valves) to control water flow to households, area-wise, and street-wise.
+Role of Data in Smart Water Management: Efficiency relies on water data availability. Data components and applications include:
+* Digital Output Instrument (Meters/Sensors): Collects/transmits real-time information. Applications include rain gauges, flow meters, water quality monitors, acoustic devices for leakage detection, and smart water meters.
+* SCADA: Processes data/information to remotely operate/optimize systems. Applications include pressure management, pump station optimization, and water treatment plant control.
+* Software: Stores, uses, and reports data for modeling infrastructure/environmental systems. Applications include integration with GIS/SCADA for network management, enhanced decision-making, smart metering/billing, and cloud-based data hosting.
+3.3.3 The Internet of Things for Smart Water Management: IoT applications include water pipeline monitoring, water quality monitoring, smart meter reading, and IoT security for SWS. IoT-enabled SWS deploy sensors (measuring volume, flow, temperature, pressure, vibrations, humidity) via wireless networks. IoT-based SWM involves UV sensors and Arduino to detect tank water level. Specific IoT components include: Water Level Sensor (detects level in reservoirs/tanks, used for water leakage/rainfall sensing), pH Sensor (measures pH level), and Flow sensor (measures flow of water).
+* a) Water Demand Assessment: Predictive analytics determine required water amount for the next day, based on historical data combined with special events/holidays/weather. Smart technologies enable continuous consumption monitoring.
+* b) Water Leakages and Energy Efficiency: IoT enables remote, real-time detection of leakages/bursts, a key benefit of smart water networks. IoT helps schedule maintenance/shutdown of pumps. Predictive analytics calculates energy price during different hours, reducing energy consumption.
+c) Use of Artificial Intelligence in Water Supply: Infrastructure transformation is driven by Internet, big data, and AI algorithms. AI algorithms make water distribution systems more efficient. Integrated hydraulic modeling is the way forward, incorporating AI into planning/operations to enhance decision-making. AI combined with special equipment (acoustic sensors, gas tracers) is used for leak detection.
+Traditional Hydraulic Modeling (HM) vs. HM Integrated with AI (Source: Asian Development Bank, n.d.): HM is deterministic, uses one-off calibration based on aggregate error functions, relies on limited data, simplifies water demand uncertainty, uses shortcuts for measurement errors, and mostly doesn't characterize anomalies. HM+AI is probabilistic, uses continuous learning/real-time calibration, maximizes available big data, reflects uncertainty from meters/aggregation, holistically introduces sensor measurement errors, and classifies residuals into categories like illegal connections, leaks, and pipe bursts.
+3.3.4 Smart Water Metering: Smart water meters, IoT enabled, track consumer usage via high-frequency data. Data is transferred to a central database for billing and analytics. This creates a two-way communication channel, empowering consumers/providers to manage demand.
+* Mumbai Case Study: Mumbai installed smart water meters and reduced water leakage by 50% (saving 700 million liters daily), compared to the global average leakage of 34%.
+* Nagpur Smart Water Management: Nagpur, Maharashtra, was the first city to outsource water supply under a 25-year PPP model. Objectives included providing 24-hour safe drinking water to 100% of the population within five years, and reducing nonrevenue water (NRW) from 50% to below 25% in 10 years. The project was initiated by Nagpur Municipal Corporation and showcased as a model case study.
+3.4 Smart Stormwater Management: Urbanization and land development disrupt the hydrologic cycle. Smart storm management uses sensor/information technology and real time monitoring data to optimize/mitigate discharged runoff impact.
+Advantages of Smart Stormwater Management:
+* Track and prevent urban flooding.
+* Validation of drainage models.
+* Optimize system capacity by adapting to evolving conditions.
+* Restoring pre-development hydrology/base flows by modulating release rates based on forecast information.
+* Reducing O&M costs by issuing real-time alerts.
+* Continuous monitoring of stormwater storage helps maintain water quality.
+3.4.1 Real-Time Control Systems (RTC): RTC helps manage stormwater systems, often oversized for safety. RTC continuously regulates flow based on real-time information (capacity, weather conditions) to reduce outflows during storms and relieve stress. RTC requires continuous monitoring (water level, rainfall, weather forecast), control devices (valves, gates), and data communication to actively manage flows. Stormwater monitoring includes complex multi parameters (flow, level, rainfall, temperature, pH, conductivity, dissolved oxygen, turbidity, nutrients).
+Strategies and technologies for generating useful stormwater data:
+* i) Continuous Monitoring: Systems report data back to a central system; requires physical quantities and equipment status to be monitored for safe O&M.
+* ii) Level Monitoring: Uses pressure transducers, ultrasonic level meters, microwave meters, capacitive probes, or floating/vibrating level sensors.
+* iii) Flow Monitoring: Used to understand characteristics of collection systems.
+* iv) Rainfall Monitoring: A network of spatially located rain gauges measures rainfall quantities over a region.
+3.4.2 The Internet of Things for Stormwater Management: Advances in sensors/data acquisition enable monitoring pre- and post-construction stormwater infrastructure performance metrics. The focus is on real-time control of stormwater basins and ponds, common elements in stormwater systems.
+* a) IoT Watershed Management: IoT-based systems use continuous monitoring/adaptive control (CMAC) incorporating sensors, weather information, data analytics, AI, and ML. CMAC collects continuous, facility-level performance data for maintenance.
+* b) IoT Flood Management: An early warning system is critical. The perception layer uses devices to gather hydrological, meteorological, and geological data, transmitted via WSN and other communications equipment. An ultrasonic sensor measures river water level, forwarding data to a microcontroller which alerts authorities of upcoming floods. Software components compute stream flow and quantify spatial flood risk.
+c) Use of Artificial Intelligence in Stormwater Management: AI technologies are used for hydrological and hydraulic modeling. AI enabled applications, using modeling tools/decision support systems, control hydrological devices (pumps, valves, gates) to adjust drainage system flow rate. Benefits include increased energy efficiency, decreased cost, and reduction in flood risks.
+3.5 Smart Waste Management: Waste generation is a global infrastructural challenge. Solid waste can cause significant health, aesthetic, and environmental pollution if not disposed appropriately. Smart waste management uses technology to identify waste generation patterns, optimize driver routes/schedules, and reduce operational costs. IoT (sensors/connectivity) helps manage waste sustainably and environmentally friendly.
+Advantages of Smart Waste Systems:
+* Reduction in collection costs (Smart bins transmit fill level information), leading to savings on labor and fuel costs.
+* Dynamic routing of waste with optimization based on real time data.
+* Timely and improved cleanliness due to real time data information.
+* Understanding of waste generation patterns using data analytics.
+* Direct CO2 reduction from optimized routes leading to less fuel consumption.
+The Smart Waste Management model (Figure 3.6) involves Optimal Route for Garbage Trucks, Smart Bins for Waste Collection, Less Manual Labour, Fuel and Energy Saving, and Optimal Bin Locations for Citizens.
+3.5.1 The Internet of Things for Smart Waste Management: IoT plays a vital role in collection, integration, and processing information. Smart waste management involves assessing trash bin fill level, optimizing truck routes, and easing the sorting process.
+* a) Using IoT for Smart Bins: Sensors collect data (filling level, temperature, humidity). Ultrasonic sensors detect garbage height. Data is collected by a microcontroller, sent to a web page via wifi module, and displayed on a server. GSM sends text messages about garbage level/location. Sensors help sort biodegradable, recyclable, and reusable items.
+* b) Using IoT for Route Optimization: IoT tracks container locations, identifies high demand locations, and suggests the shortest collection route. Smart trucks capture vehicular data and driver activities for performance reporting. Cloud based analytics improve scheduling/optimize truck routes. Main reasons to adopt route optimization include reducing mileage, cutting costs (labor/fuel), identifying cost-effective routes, and giving better customer response.
+c) Use of Artificial Intelligence in Waste Management: Digitalization/AI methods contribute to improving city waste management. AI begins its role with intelligent garbage bins. AI defines/optimizes routes based on timing and needs, reducing transportation costs and time.
+
+KEYWORDS
+* Artificial intelligence (AI): Intelligence exhibited by machines, rather than humans or other animals.
+* Citizen-centric approach: Delivery of services based on solving needs and challenges of the people they serve-used to increase public satisfaction, improve efficiency, and reduce costs.
+* Cloud: Highly scalable computer storage and memory capabilities located in a data center that enables flexible and rapid scale-up and scale-down of application resources.
+* Connectivity: A generic term for connecting devices to each other to transfer data back and forth.
+* Integrity: Property that information is not altered in any way, deliberately or accidentally.
+* Interoperability: The term describes a system's ability to share information and services with another system ideally based upon common standards.
+* Open data: Data that is freely available for everyone to use without copyright, patent, or other restrictions.
+* Radio Frequency Identification (RFID): The use of electromagnetic or inductive coupling in the radio frequency portion of the spectrum to communicate to or from a tag through a variety of modulation and encoding schemes uniquely to read the identity of an RFQ Tag.
+* Real-time: Real-time computing describes hardware and software systems that are able to respond very rapidly to continuously occurring external events.
+* Remote Monitoring and Control: Automated monitoring and control of devices, technologies, or processes.
+* Sensor: To determine certain physical or chemical characteristics and transform them into an electrical signal to make them digitally process able. Sensors form the backbone of the IoT, helping to bridge the gap between digital and physical.
+* Smart city applications/apps: A type of smart city technology or system that has a specific function: such as smart street lighting, smart bins or smart drains.
+* Smart infrastructure: The integration of smart technologies into the fundamental systems that serve a city or municipal area.
+* Smart networks: A network that contains built-in diagnostics, management, fault tolerance and other capabilities to prevent downtime and maintain efficient performance.
+
+Summary and Questions
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS Thank You.
+
+
+
+The document provided consists of excerpts from a presentation titled SMART PORT CITIES - 335, focusing primarily on Chapter 4: Urban Land Management and Infrastructure Development, and Creating Public Value in Cities.
+Below is the conversion of the document into plain text, cited comprehensively:
+SMART PORT CITIES - 335
+COPYRIGHT
+In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management.
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI). Da Nang, Vietnam.
+This course is designed for the undergraduate level/program.
+Copyright Notice: Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at: Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+The material is presented By: Dr. Luis ALFARO. The source material references European Port Cities in Transition: Moving Towards More Sustainable Sea Transport Hubs, edited by Angela Carpenter and Rodrigo Lozano, and Smart Cities and Smart Governance, edited by Elsa Estevez, Theresa A. Pardo, and Hans Jochen Scholl.
+
+CHAPTER 4: SECTION 1: URBAN LAND MANAGEMENT AND INFRASTRUCTURE DEVELOPMENT
+Contents (Chapter 4, Section 1 Structure)
+1. Introduction
+2. Need For Urban Land Management
+3. Urban Land Management: Strategies and Techniques
+4. Strategic Use of Land in Infrastructure Financing
+5. Indian Project Experience of Land-based Financing
+6. Land Monetization in India: Element, Key Legislations and Policies
+7. Summary
+1. Introduction
+Land is the base for the super built environment and platform for all human activities. Estimates show that about 2.5% of the total reporting area of the Country is under urban settlements. Management of urban land is critical to city development as the lands available in the cities are less in quantity. Changes in urban land use are critical and determine the environmental quality.
+Effective urban planning protocols, processes, and institutions, underpinned by effective legislation, are required to manage the transformation of India's cities and towns and effectively manage new growth. The strategic use of urban land for infrastructure financing is another dimension of urban land management.
+After reading this unit, the learner will be able to:
+* Explain the need for land management.
+* Discuss land management strategies and techniques.
+* Describe the strategic use of land in infrastructure financing.
+* Narrate India's project experience of land-based financing.
+* Explain land monetization in India.
+2. Need For Urban Land Management
+Effectively managing the new growth of urban areas requires transforming agricultural land at the periphery of cities and towns, or smaller settlements that are not yet "urban," to be suitable for urban or non-agricultural uses. This transformation requires that irregular landholdings and plots be given regular shapes, ordered, and provided access. Infrastructure services such as water supply and drainage must be provided, and land must be appropriated for providing roads, parks, social amenities, and low-income housing.
+Furthermore, development controls must be prescribed to result in a good quality-built form and levy development or betterment charges to offset the cost of developing the physical and social infrastructure. This process must happen in a timely manner and be acceptable to the "landowners" to avoid conflict in the growth management process.
+Appropriate land use for effective planning, development, and management of land resources assumes great importance. Urban land can be classified into four categories:
+* Developed urban land
+* Undeveloped urban land
+* Land within the urbanizable limits - 10-15 years
+* Land beyond the urbanizable limit
+2.3 Urban Land Management: Strategies and Techniques
+Strategies available for access to urban land include:
+* Guided land development for large areas (called urbanizable blocks in Haryana).
+* Land pooling and reconstitution (institutionalized as Town Planning Schemes in Gujarat and other States).
+* Land reconstitution/redevelopment (for in situ upgrading in small parcels in core areas).
+* Acquisition for public purpose under the Land Acquisition Act, 1894.
+* Joint Sector Model of land assembly and development (Greater Noida, CIDCO, New Mumbai, etc.).
+* Transferable Development Rights (TDR) (for built-up areas).
+* Saleable FAR and mixed-use concept (for regeneration of inner city).
+* Land Pooling and Redistribution Scheme (Town Planning Scheme, Gujarat and Maharashtra).
+I. Land Acquisition The Land Acquisition Act, 1894 in India gives Government authorities the right to acquire parcels of land for the implementation of development projects. The practice of land acquisition by public entities in India originated in 1824 when the British Government of India instituted regulations to facilitate urban land public acquisition from private owners.
+II. Land Assembly Models Different state governments have experimented with various land assembly models to accommodate the growing demand for urban space. For example, the Delhi Development Authority has involved government monopoly in acquisition and also monopoly in infrastructure and housing development.
+III. Public-Private Partnership (PPP) Some state governments have encouraged private sector initiatives and public-private partnership for land assembly and land development, seen in locations such as Gurgaon (Haryana), NOIDA (Uttar Pradesh), Greater NOIDA (Uttar Pradesh), Hyderabad (Andhra Pradesh), and Bangalore (Karnataka). In Gurgaon, for instance, the cost of land development is met through private developer's equity, installment payments by purchasers of plots/houses, and commercial financing.
+IV. Land Pooling Scheme Institutional innovations in land pooling have worked in several states. The Town Planning Schemes (TPS) of Gujarat, the Vijayawada model of land-sharing in Andhra Pradesh, and the Magarpatta model of township development in Pune, Maharashtra, are examples of how land can be pooled for urban planning and development. These schemes encourage owners to participate in planning instead of just providing monetary compensation for their land.
+Magarpatta city, spanning 430 acres on the outskirts of Pune in Maharashtra, serves as a different example of land pooling. Farmers with their ancestral land in Magarpatta demonstrated that it is possible to become partners in urban development. A community of 120 farmers set up the Magarpatta Township Development and Construction Company, creating a world-class township based on the 'walk to work, walk to school' principle. The land in Magarpatta was under the jurisdiction of the Pune Municipal Corporation since 1960, although it was earlier designated as an "agricultural zone". The company prepared a city plan for Magarpatta and approached the government of Maharashtra with an integrated township proposal under the Maharashtra Regional and Town Planning Act, 1966.
+V. Transferable Development Rights (TDR) The Ministry of Housing and Urban Affairs (MoHUA) announced a "Value Capture Finance Policy Framework" in 2017, naming Transferable Development Rights (TDRs) as one of the methods suitable for adoption by the Centre/States/Urban Local Bodies (ULBs) in appropriate schemes. The primary application of the TDR tool is to support the ULBs in saving the costs required for developing urban infrastructure projects, rather than raising huge revenues.
+TDR is a land development technique that separates the development potential of a particular land parcel from the land itself, allowing its use elsewhere within the city's defined zones. The owner can sell the development rights of a parcel of land to another party. This entitlement exceeds the usual Floor Space Index (FSI) available for receiving a plot in accordance with prevailing laws and regulations. This entitles a landowner to construct additional built-up area on an existing building or vacant land. TDR is generally utilized for the redevelopment of inner-city zones and for reconstruction/re-development, and it has been implemented in numerous cities/States.
+4. Strategic Use In Infrastructure Financing
+Internal revenue sources are considered the most critical funding levers available to a municipality. Without effective, predictable generation of internal revenues, attracting new, external sources of funding is impossible. External sources, such as bank loans, bonds, or other capital market instruments, will only be available to municipalities based on the internal revenues they generate now and are expected to generate in the future. The internal revenue generation of a municipality reflects the quality of its governance, and the transparency and accountability of its administration.
+Case Studies of Land-based Financing:
+* Amaravati City: Amaravati city gained significance in 2014 when it was designated as the administrative capital of the newly carved state of Andhra Pradesh. To anticipate challenges from rapid urbanization, population increase, and the resulting increase in land value in the urban area, the Government of Andhra Pradesh introduced the "Land Pooling Scheme (LPS)". The LPS served as an innovative land-use planning instrument designed to capture land value increases in an equitable manner that balances development with urbanization.
+* The Bangalore-Mysore infrastructure corridor: Conceived in the 1980s as an expressway of approximately 111 km connecting the heritage city of Mysore to the capital city Bangalore. The project, proposed by Nandi Infrastructure Corridor Enterprises Ltd., included residential, industrial, and commercial facilities. The objective was to decongest Bangalore city and attract people to shift to upcoming townships along the corridor. The government of Karnataka entered into a Framework Agreement with the developer in 1997, agreeing to provide land for the project.
+* Hyderabad Metro Rail Project: This rail project encompasses 66 stations across 72 km, estimated at Rs. 14,132 crores. It is being developed by L&T Hyderabad Metro Rail Private Limited, Hyderabad. Nearly 40% of the revenues are estimated to come from real estate development and lease revenues derived from the project.
+6. Land Monetization In India: Elements, Key Legislations And Policies
+Initiatives to reform the institutional governance and financial systems have occurred in India, although they are limited and fragmented, aimed at encouraging private sector participation and coexisting with the social contexts surrounding land.
+The policy and legislative framework enabling land-based financing in India includes:
+* Municipal Corporations Acts
+* Municipality Acts
+* Development Authority Acts
+* Town Planning Acts
+* Stamp Duty, and Registration Acts
+* Various schemes of the central and state government, national policies, and state policies.
+The powers to legislate different types of instruments vary by the type of agency. Proponents of infrastructure projects are mostly city administrations and state-level parastatals, whose access to different sources of finances is limited by the powers to influence the prevailing legislation. In most cases, they have very limited say in introducing a new element or changing the base or the rate of a tax system, though they have better control over the administration of any tool once the same has been enacted.
+The primary legislation that enables the acquisition of land for infrastructure and development projects is the Land Acquisition Act, 2013. This Act sets out compensations that are much more aligned to market values than its predecessor. Section 26(3)(c) of this Act envisages that a Company can acquire land as equity and make landowners as its shareholders. This provision makes it possible for a Government company to monetize land by acquiring it, developing necessary public infrastructure, and benefitting from the revenues that accrue.
+
+CHAPTER 4: SECTION 2: CREATING PUBLIC VALUE IN CITIES
+This section focuses on Creating Public Value in Cities.
+Contents (Chapter 4, Section 2 Structure)
+1. Introduction
+2. Smart Cities, Context and Public Value Creation
+3. The Critical Role of Context in Smart Cities Investment and Decision Making
+4. Building Public Value
+5. VIDEO - CASE STUDY
+6. Summary
+7. Study and Challenge Questions
+The presentation discusses Smart Cities and Smart Ports in relation to public value creation.
+Four Key Analytic Ideas
+Four key analytic ideas are presented for understanding smart cities and public value creation:
+* The "Strategic Triangle".
+* The "Task Environment".
+* The "Authorizing Environment".
+* The "Value Chain".
+The Strategic Triangle
+The Strategic Triangle is an analytic concept serving a function similar to that served by Porter's "Five Forces," or McKinsey's "Six Circles" in the Private Sector. Its purpose is to help managers find a "Fit" between the Environment they Face and the Enterprise they Lead. For the Public Sector, it is simplified to three circles.
+The Strategic Triangle consists of three components:
+1. Public Value.
+2. Legitimacy & Support.
+3. Operational Capabilities.
+The functions of the Strategic Triangle include:
+* To help public managers position their enterprises in complex, dynamic environments.
+* To focus and distribute managerial attention across their "Task Environment" and their "Authorizing Environment".
+* To help them envision a sustainable Public Value proposition to be pursued.
+The concept of the Strategic Triangle is sometimes presented as a trivial concept, or failing to touch all bases if components are neglected.
+The Task Environment and Public Value
+The Task Environment refers to the following conditions:
+* Social Conditions to be Ameliorated.
+* Substantive Problems to Be Solved.
+* Needs to be Met.
+* Rights to Be Vindicated.
+* Opportunities to be exploited.
+The relationship between Public Value and the Task Environment is central to managerial activity:
+* To Create Public Value is the point of all managerial activity.
+* Public Value is created when managers transform social conditions in collectively desired directions.
+* The "Task Environment" consists of the particular social conditions public managers seek to change.
+* Demonstrations of Public Value creation lie in evidence showing changes in social conditions.
+* A known problem is that not everyone sees Public Value in the same way.
+The Authorizing Environment
+The "Authorizing Environment" is defined as actors from whom a manager formally needs authorization and resources to survive and be effective, or those other actors who can influence the formal actors.
+The presentation provides pictorial representations of the Authorizing Environment in two governance systems:
+* A (United States) Picture: The public manager interacts with the Chief Elected Executive, Elected Legislature, Political Appointee, Staff Offices, Courts, Interest Groups, Media, Staff, Clients, and Citizens.
+* A (Westminster) Picture: The public manager interacts with the Prime Minister/Premier, Minister, Dept Head, Elected Legislature, Central Agencies, Courts, Interest Groups, Media, Staff, Clients, and Citizens.
+In the Theory of Public Administration, policies are based on durable, coherent policy mandates constructed through political deliberation and agreement. However, the Reality of Public Management is often characterized by incoherent, fickle mandates emerging from a chaotic authorizing environment. This reality implies that managerial orientation requires managers to be imaginative leaders rather than trusty bureaucrats, and to be politically astute or helpful in legitimating decisions.
+Operational Capacity and the Value Chain
+Operational Capacity and the Value Chain are closely related concepts.
+* Operational Capacity: Assets and capabilities entrusted to the manager (plus those that the manager can influence required to achieve the desired results). Operational capacity is calculated as: Organizational Capacity + "Partners" & "Co-Producers" + (Sometimes Clients!).
+* Value Chain: The process by which fungible assets like money, labor, ideas, etc. are deployed to produce particular results.
+The Value Chain model illustrates the flow from Inputs (Organization Activities, Processes, Procedures, Programs, Partners and Co-Producers) to Outputs, leading to Client Satisfaction and ultimately Outcomes.
+There are two different concepts of Public Value:
+* Client Satisfaction: Including Client beneficiaries and Client obligatees.
+* Social Outcomes: Including Indirect beneficiaries and Achievement of collectively defined purposes.
+Integrating clients into production is discussed with examples from the private sector (E-Commerce and Software Production, McDonald's, Ikea, Supermarkets) and a public example: Solid Waste Re-Cycling.
+
+SUMMARY
+This document concludes with slides indicating a Summary section and listing two categories of questions:
+1. Study Questions
+2. Challenge Questions
+
+
+
+The document provided consists of excerpts from a presentation titled SMART PORT CITIES - 335, focusing on Smart Governance and the integration of Governance and Sustainability in Ports (Chapter 5).
+Below is the conversion of the document into plain text, cited comprehensively:
+Title and Copyright Information
+SMART PORT CITIES - 335 COPYRIGHT
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management."
+The authorized entity solely permitted to use this material is: SouthStar Management Institute (SMI). Da Nang, Vietnam.
+This course is designed for the undergraduate level/program.
+Copyright Notice: "Any other party wishing to access this POWERPOINT PRESENTATION must request the information directly via email at:"
+Dr. Luis Alfaro Director of Ports, Logistics and SCM DUY TAN UNIVERSITY The SouthStar Management Institute (SMI) 254 Nguyen Van Linh St., Danang, Vietnam T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn W: http://smi.edu.vn/
+The material is presented By: Dr. Luis ALFARO. Source material references include European Port Cities in Transition: Moving Towards More Sustainable Sea Transport Hubs (Editors: Angela Carpenter, Rodrigo Lozano) and Smart Cities and Smart Governance (Editors: Elsa Estevez, Theresa A. Pardo, Hans Jochen Scholl).
+
+CHAPTER 5: SECTION 1: SMART GOVERNANCE
+SMART PORT CITIES CHAPTER 5: SECTION 1 SMART GOVERNANCE
+Contents (Section 1 Structure)
+The contents outline includes Smart Governance.
+1. Smart Governance
+Smart Governance should be considered closely connected to the topic of social sustainability. A major challenge for urban sustainability and planning required participatory and inclusive smart governance, supported by modern information technologies such as geographical information systems and planning support systems (Villagers in Cities - ViCs). Smart Governance refers to the concept of "Smartization", as Smart Port-Cities differ from intelligent and creative port cities by offering a balanced centricity among technology, institutions, and people.
+While information and communication technologies (ICTs) are necessary in the context of smartness of governance and government, they are nevertheless not sufficient prerequisites for a smart city (Rodríguez Bolívar, 2015). Smart Governance needs to be studied along the lines of "an emergent socio-techno practice as a transformation and conservation of urban governance institutions". It contributes to both Economic Growth and Other Public Values, highlighting the importance of politics in developing Smart City Governance (Meijer & Rodríguez Bolívar, 2015, p. 404).
+Smart Governance pertains to and should be studied on multiple levels inside government and outside government, specifically communities (Meijer, Gil-García, & Rodríguez Bolívar, 2016). The Smart Port-City concept implies a "Smart Governance Model" of three main building blocks: Strategies for implementation, Arrangements, and Outcomes.
+There is a distinction that SMART GOVERNANCE $\neq$ SMART - e-Government, and SMART PORT-CITY $\neq$ SMART PORT CITY.
+Some Focus Areas: Government Modernization
+1. Policies/Practices: The "policies" are the topic of "smart regulation" as an important aspect of smart governance. In terms of "practices," a 2015 study investigated citizens' use of government social media sites for measuring the impact of this access method for improving citizen engagement (Bonsón, Royo, & Ratkai, 2015).
+2. Information/ICTs: In regard to "information," a study compared the practices around the Freedom Of Information Act (FOIA) between the Bush and Obama administrations as an important pillar of transparency and smart governance (Wasike, 2016). In terms of "ICTs and other technologies," a study inquired on civil servants' perceptions of the usability of new technologies and processes. The potential of ICT-supported process improvements could not be fully realized due to the lack of staff training regarding technological and infrastructural advances.
+3. Skills and Human Capital: Under "skills and human capital," researchers studied the use of merit-based criteria for promotion to managerial levels in public administration and discovered improved performance levels. The Smart context also includes the "New Public Management (NPM)," which directly links with Smart Governance but does not necessarily go hand in hand; NPM are instruments that might help bring about "Smart Practices" in a reformed public administration.
+Some Focus Areas: Security And Safety
+1. Political Traditions: Different political traditions and perceptions play major roles in explaining different policy approaches to addressing safety and security concerns. For instance, violence might be viewed as an external threat to a community rather than a community-internal problem.
+2. Nuclear Threats (North Korea, China, Russia): Some countries like Japan signed an agreement to avoid the nonproliferation treaty to further assure their neighbors of its non-bellicose and peaceful-only intentions. Neighboring nations such as China, North Korea, and Russia have built up sizable nuclear arsenals, which present serious threats to the country by their sheer existence.
+3. IoT Vulnerabilities: Under "ICTs and other technologies," a 2018 study investigates safety and security concerns and potential remedies regarding Internet of Things (IoT) devices. Unprotected or poorly protected IoT devices, which play increasing roles in private households and businesses worldwide, have introduced vulnerabilities that may produce undesirable consequences if unaddressed (Bastos, Shackleton, & El-Moussa, 2018).
+Some Focus Areas: Infrastructure And Ubiquitous Connectivity
+1. Privacy Concerns: The evolving expectations regarding energy consumption in ever-expanding wireless and wired Internet and smartphone infrastructures became more demanding. Undesired outcomes and concerns from ubiquitous smartphone connectivity needing further study include the lack of privacy protection and information overload.
+2. 5G Technologies: The implications of 5G technologies involve the emergence of very fast and ubiquitous broadband infrastructures that connect wireless and wired infrastructures, allowing for cognitive objects and cyber-physical systems (CPSs) (Soldani & Manzalini, 2015). Application areas include direct mobile-to-mobile communications (D2D), which uses the proximity of mobile devices for communication (e.g., vehicle-to-vehicle) without relying on wireless or cellular networks.
+Some Focus Areas: Electric Mobility
+1. Information (Energy Peaks): In the context of electric mobility, a paper noted that electric vehicle recharging might lead to unwanted peaks, brownouts, and even blackouts.
+2. ICTs and Transition: With regard to "ICTs and Other Technologies," it is important to consider strong interconnections and cross-benefits between variables like fossil fuel-free energy production, changed patterns of energy consumption (vehicle-to-grid (V2G)), and non-carbon emission based transportation systems. These changes require an orchestrated and coordinated transition into a new type of modern economy (Canzler, Engels, Rogge, Simon, & Wentland, 2017).
+Some Focus Areas: Open Data/ Big Data Provision And Use
+The increasing cultural diversity in metropolitan areas has serious implications for city management based on open and big data. This data helps inform government managers' cultural intelligence, conceptually and practically connected directly to smart governance. In the open data ecosystem, where producers, innovators, and users contribute and benefit, the quality of government-released open data at regional and national levels must aggregate national data of higher quality than the regional data.
+Some Focus Areas: Open Government, Transparency And Accountability
+Open government is concerned with the long-term costs incurred when providing open (and authoritative) data. Overcoming barriers to open government and open government data requires policies that address access barriers as well as those regarding uses, innovation, and value creation (Smith & Sandberg, 2018).
+Participation, transparency, and collaboration are at the core of open government, resting on access to information and enablement by modern ICTs. The Chinese Social Credit System (SCS) serves as an example where the benefit of "trust" may come at the high cost of perils such as social control and human rights violations. Commercial value creation depends on the uninterrupted availability of open data.
+Smart Governance Timeframe & Centric Views
+The Smart Governance timeframe clearly shows how closely connected "open data" is to "big data," "open government," and "digital government".
+* Open Data - Centric View: Denotes the strongest links exist between "open data" (at the center) and "open government," "open data policies," "big data," "governance," "innovation," and "stakeholders".
+* Open Government - Centric Perspective: Shows the strongest link goes to "open data". Other strong links include "digital government," "public administration," "open data policies," "big data," and "collaboration".
+* Smart City - Centric Perspective (Text Description): The text description for this view repeats that the strongest link goes to "open data," with other strong links including "digital government," "public administration," "open data policies," "big data," and "collaboration".
+Single Window Development Model
+An evolutionary model of Single Window development was drawn up by the United Nations Network of Experts for paperless Trade (UNNEXT). This model is used as a reference to determine the current state of a Single Window implementation and its next stages:
+1. 1st Stage: Paperless Customs + e-Payment for Customs Duty + Container Loading List + Simple e-Documents Exchange with Port Authority and/or Terminal Operators.
+2. 2nd Stage: Connecting Other Government Back-end IT systems, and e-Permit Exchange with Paperless Customs system.
+3. 3rd Stage: e-Documents Exchange stakeholders within the (air, sea, dry) port community.
+4. 4th Stage: An integrated national logistics platform with also traders and logistics-service providers information exchange.
+5. 5th Stage: A regional information-exchange system.
+It is noted that in many countries, the 3rd stage developed before the 2nd Stage.
+Smart City Program Governance Process
+The Smart City Program Governance process (Source: Universidad Politecnica de Madrid et al.) follows four major steps: PLAN $\rightarrow$ DESIGN $\rightarrow$ BUILD $\rightarrow$ DELIVER. This process encompasses activities such as:
+* Defining vision and goals $\rightarrow$ Operational planning $\rightarrow$ Activities Scheduling $\rightarrow$ Operations.
+* Strategic planning $\rightarrow$ Partnership $\rightarrow$ Procurement management $\rightarrow$ Incident / problem resolution.
+* Policy planning $\rightarrow$ Policy design $\rightarrow$ Activities Budgeting $\rightarrow$ Operations Budgeting.
+Overarching elements include Communication and Engagement of All Stakeholders, Performance Monitoring, Risk and Compliance Management, and Smart City Program Governance.
+Smart City/Port/Region Integration
+A conceptual diagram (Source: Oceanfinance, Marine Business Development Firm) shows the relationships among the Smart Region, Smart City, and Smart Port, connected by multimodal corridors.
+A detailed integration diagram (Source: Oceanfinance, Marine Business Development Firm) illustrates that both Smart City and Smart Port components rely on Internet of Things & Cloud Computing Systems + Big Data. The shared Sensor Network includes Quality, Human, Traffic, and Weather Sensors, linking systems like Logistics (Smart Port) and Surveillance (Smart City).
+
+CHAPTER 5: SECTION 2: INTEGRATING GOVERNANCE AND SUSTAINABILITY
+SMART PORT CITIES CHAPTER 5: SECTION 2: INTEGRATING GOVERNANCE AND SUSTAINABILITY: A Proposal Towards More Sustainable Ports
+Contents (Section 2 Structure)
+Contents include General Overview, Introduction, Port Governance/Sustainable Governance/Sustainable Port Governance, A Sustainable Governance Framework for More Sustainable Ports, Videos, and Final Remarks.
+1. General Overview
+Ports are under increasing pressure to become more sustainable. Integrating sustainability into an organization requires corporate governance fully committed to sustainable development. Sustainability frameworks in the port industry often focus on economic, environmental, operations/logistics, and technological aspects, without explicitly addressing governance.
+The objective of this chapter is to define a framework that integrates both Sustainability and Corporate governance into port authority policies, strategies and activities. The framework for Port Authority Sustainability Governance Model (PASGM) places sustainability at the center and establishes five action areas aligned with sustainability principles.
+2. Introduction (Sustainability in Ports)
+Ports play a crucial role as facilitators of trade, economic activity, employment, innovation, and environmental protection (COM 2013; OECD 2011). Seaports are key elements for trade development, leading to a demand for sustainable management due to their potential environmental impacts (OECD 2011). Ports have a weighty responsibility in promoting sustainable development across local, regional, and national levels.
+International initiatives promoting sustainability include the World Ports Sustainability Program (WPSP), OECD, IMO, and European Sea Ports Organization (ESPO). These organizations emphasize integrating sustainability practice into port management to address worldwide, regional, and local challenges. Many ports pursue objectives such as environmental improvement, employee environmental training programs, and publicly available environmental sustainable reports.
+Sustainable Port Development seeks a balance among economic growth, social cohesion, the institutional environment, and respect for the environment, through integrated management. The International Association of Ports and Harbors (IAPH 2013) defined a sustainable port from a stakeholder perspective, requiring proactive and responsible operations to engage port authorities with all actors in the port logistics supply chain.
+The need for a sustainable governance model arises because port institutions are showing growing concerns for developing a sustainable strategy. This model sets sustainability at the heart of governance and corporate board strategic agendas, considering the complete supply chain management context. Ports are regarded as critical nodes of global trade and supply chains. The proposed PASGM framework aims to enhance port sustainability, enabling managers to make informed decisions from a sustainable supply chain management perspective.
+Five approaches help ports become more sustainable: Legislative, Technological, Financial, Cultural/social, and Voluntary initiatives. However, quantitative or qualitative evaluation of sustainability and the role of governance in achieving it are scarce.
+3. Port Governance, Sustainable Governance and Sustainable Port Governance
+It is mandatory to review literature and conduct research based on sustainability and corporate governance in the port industry.
+Port Governance Definitions:
+* Corporate governance refers to structures and processes for the direction and control of companies (Cadbury 1992). It concerns relations among the management board of directors, controlling shareholders, minority shareholders, and other stakeholders.
+* Governance (in a port context) is defined by the interaction between the competent body of the general administration and each port authority, which designs the structure and strategy of the port. Port governance involves establishing a set of rules compatible with the facility's past and future objectives (Brooks 2004).
+* The fundamental elements of governance are the institutions, mechanisms and processes (González Laxe, 2013). Port governance is related to the ownership of a port area and the operations of a port terminal (González Laxe et al. 2016). The owner of a port may or may not be the port authority.
+Port Facilities & Infrastructure: Port facilities are categorized into Infrastructure and Superstructure.
+* Port Infrastructure comprises the physical and fixed technical structures enabling seaside transport, ship handling, cargo storage, and hinterland transport. The provider is responsible for investment and maintenance of elements like the navigational channel, quay walls, and road/rail connections.
+* Port Superstructure (suprastructure) comprises surface equipment supporting the operation of port services.
+Port Administration Models: The World Bank (2007) details four basic models of port administration:
+1. Service (service port).
+2. Tool (tool port).
+3. Owner (landlord).
+4. Private Service Provision (private service port).
+These models can be redesigned into five port governance typologies (Brooks 2004):
+* Public Service Port: Ownership and management are under public control.
+* Tool Port: Relies on public infrastructure/suprastructure and private port operations management (e.g., 'Ports Autonomes' in France).
+* Landlord Port: Prevalent in Europe; features public infrastructure, private suprastructure, and private operations management. The public authority owns the land/infrastructure and leases assets via concession to private operators (e.g., Rotterdam, Antwerp, Hamburg). The Port of Rotterdam Authority is an unlisted public limited company, with the Municipality of Rotterdam holding ~70% share and the Dutch government ~30%.
+* Corporate Port: Almost entirely privatized, but public ownership remains. Ownership and control are separated, and the port authority acts as a private enterprise (e.g., Kiel and Amsterdam).
+* Private Service Port: Concentrates on private interest with private infrastructure, private suprastructure, and private operations management (e.g., London, Liverpool, Dover).
+Ports are under increasing pressure to become more sustainable, and some are already including sustainability in their operations.
+Sustainability, Governance, and Risk: Governance in ports can be explored from two main levels: Corporate governance of the Port Authority and Cluster governance focusing on relationships among different actors. Governance ultimately affects everything a corporation does.
+Good governance is necessary as a preventive discipline to manage risk. It is a mistake to treat governance merely as an "additional sustainability dimension" rather than the fundamental driver for the sustainable development of corporations.
+The required governance model is the Integrated Governance Model (IGM), integrating sustainability issues to ensure long-term value creation. The IGM includes Governance and Sustainability in the Supply Chain, where Sustainable Supply Chain Governance Mechanisms (SSCGMs) manage relationships with internal functions and supply chain stakeholders. The Sustainable Governance Model (SGM) must be embedded into the corporate board, aiming to create 'sustainable value'.
+4. A Sustainable Governance Framework for More Sustainable Ports
+The proposed framework is the Port Authority Sustainability Governance Model (PASGM). Its structure is divided into five basic axes addressing critical issues in corporate governance and sustainability. The framework adopts four principles of sustainability: i. Sustainability dimensions and the balance among them; ii. Intergenerational perspective; iii. Stakeholder approach; and iv. Life cycle thinking.
+PASGM Key Axes/Features:
+1. Stakeholder engagement: The port authority should ensure that stakeholder views are included in port management, involving engagement at a board and operational level. A multi-stakeholder board is an option, such as in the Spanish landlord port model. At the operational level (e.g., the planning phase), stakeholder feedback is sought from the beginning of port operation planning to achieve greater social acceptance.
+2. Governance structure: This is the architecture supporting the decision-making process. It should show a clear division of sustainability duties and responsibilities aligned with power hierarchy and incentive systems.
+3. Board Responsibilities and Operations: The board of directors must bear great responsibility for defining the sustainable strategic plan, overseeing the sustainable management process, ensuring the integrity of sustainability information, and being held accountable to stakeholders. Board members should have sustainability knowledge and actively participate in meetings.
+4. Business Planning and Incentives: Business planning should define sustainability key performance indicators (KPIs) and risk indicators, aligning targets with the performance-based compensation system. Monetary and non-monetary remunerations should be included to improve work quality and shift to a more sustainable port culture. The use of claw-back mechanisms is suggested for highest-level positions in case of materialized sustainability risks.
+5. Board Operations to Promote Resilience: Boards should define their role in addressing sustainability to make ports more resilient. Supervision requires adopting a technical results-oriented approach, utilizing tools like the SMART-Sustainability Assessment Tool which provides accurate indicators. Boards should regularly assess whether sustainability hotspots are addressed in the 'adapting phase' of the port strategy.
+6. Sustainability Information and Communication: A port authority must make comparable and consistent sustainability information available to stakeholders, providing a true and fair view. Reported information should include how the board integrates sustainability, the sustainability objectives, sustainability risks and mitigation strategies, appropriate performance indicators, and the results of quality information assurance.
+5. Videos
+Videos discussed covered Assessment tools for Sustainability and Port-City Governance: Learning from Innovative Practices. The governance video highlighted key elements for renewed port-city governance: representation, transparency, consultation, and collaboration, all based on dialogue and extending to the regional dimension.
+Conclusion
+SUMMARY
+1. STUDY QUESTIONS
+2. CHALLENGE QUESTIONS Thank You.
+
+
+
+
+
+
+

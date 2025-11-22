@@ -1,69 +1,55 @@
-// Biến toàn cục để chứa kiến thức, giúp script.js có thể truy cập được
+// knowledge-loader.js
 window.SYSTEM_KNOWLEDGE = "";
 window.isKnowledgeLoaded = false;
 
 async function loadKnowledgeBase() {
-    const statusDiv = document.getElementById('knowledge-status');
-    const statusText = document.getElementById('status-text');
+    const statusList = document.getElementById('doc-list');
+    const overallStatus = document.getElementById('knowledge-status-text');
     
-    console.log("🚀 Bắt đầu nạp dữ liệu...");
-
     try {
-        // 1. Đọc file manifest để lấy danh sách
         const response = await fetch('knowledge/manifest.json');
-        if (!response.ok) throw new Error("Không tìm thấy file manifest.json");
+        if (!response.ok) throw new Error("Thiếu file manifest.json");
         
         const files = await response.json();
-        let combinedData = "DƯỚI ĐÂY LÀ TÀI LIỆU CỦA DOANH NGHIỆP, HÃY TRẢ LỜI DỰA THEO ĐÓ:\n\n";
+        let combinedData = "DƯỚI ĐÂY LÀ TÀI LIỆU HỌC TẬP CHÍNH THỨC:\n\n";
 
-        // 2. Vòng lặp đọc từng file trong danh sách
+        if(statusList) statusList.innerHTML = '';
+        let loadedCount = 0;
+
         for (const item of files) {
-            if (statusText) statusText.innerText = `Đang đọc: ${item.file}...`;
-            
+            const li = document.createElement('li');
+            li.className = "flex items-center gap-2 p-2 rounded hover:bg-slate-800/50 transition cursor-default group";
+            li.innerHTML = `
+                <i class="fa-solid fa-file-lines text-slate-500 group-hover:text-indigo-400 transition"></i> 
+                <span class="text-xs text-slate-400 group-hover:text-slate-200 transition">${item.title}</span>
+            `;
+            if(statusList) statusList.appendChild(li);
+
             try {
                 const fileRes = await fetch(`knowledge/${item.file}`);
                 if (fileRes.ok) {
                     const content = await fileRes.text();
-                    combinedData += `--- TÀI LIỆU: ${item.description} (Nguồn: ${item.file}) ---\n`;
-                    combinedData += content + "\n\n";
-                    console.log(`✅ Đã nạp: ${item.file}`);
-                } else {
-                    console.warn(`❌ Không đọc được file: ${item.file}`);
+                    combinedData += `=== TÀI LIỆU: ${item.title} ===\n${content}\n\n`;
+                    loadedCount++;
                 }
-            } catch (err) {
-                console.warn(`Lỗi khi đọc file ${item.file}:`, err);
-            }
+            } catch (err) { console.warn(`Lỗi: ${item.file}`); }
         }
 
-        combinedData += "--- HẾT TÀI LIỆU ---\n";
-        
-        // 3. Gán vào biến toàn cục
         window.SYSTEM_KNOWLEDGE = combinedData;
         window.isKnowledgeLoaded = true;
         
-        // 4. Cập nhật giao diện báo thành công
-        if (statusDiv) {
-            statusText.innerText = "Dữ liệu đã sẵn sàng";
-            statusText.classList.remove('text-yellow-400');
-            statusText.classList.add('text-green-400', 'font-bold');
-            
-            // Ẩn dòng thông báo sau 3 giây cho gọn
-            setTimeout(() => {
-                statusDiv.style.opacity = '0';
-            }, 3000);
+        if (overallStatus) {
+            overallStatus.innerText = "Sẵn sàng";
+            overallStatus.classList.replace("text-yellow-500", "text-emerald-400");
         }
 
     } catch (error) {
-        console.error("🔥 Lỗi nạp dữ liệu:", error);
-        if (statusText) {
-            statusText.innerText = "Lỗi nạp dữ liệu (Xem Console)";
-            statusText.classList.add('text-red-500');
+        console.error("Lỗi data:", error);
+        if (overallStatus) {
+            overallStatus.innerText = "Lỗi!";
+            overallStatus.classList.replace("text-yellow-500", "text-red-500");
         }
-        // Fallback: Nếu lỗi thì gán chuỗi rỗng để bot vẫn chat được bình thường
-        window.SYSTEM_KNOWLEDGE = "Không có tài liệu nào được nạp.";
-        window.isKnowledgeLoaded = true; 
     }
 }
 
-// Chạy hàm này ngay khi file được tải
-loadKnowledgeBase();
+document.addEventListener('DOMContentLoaded', loadKnowledgeBase);

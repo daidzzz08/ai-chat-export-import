@@ -1,14 +1,32 @@
 [
     {
-        "file": "bieu-thue.csv",
-        "description": "Bảng thuế suất nhập khẩu 2024"
+        "file": "FULL Smart Port Cities 1-5.txt",
+        "title": "FULL Smart Port Cities 1-5",
+        "type": "text"
     },
     {
-        "file": "quy-trinh.md",
-        "description": "Quy trình thủ tục hải quan chi tiết"
+        "file": "CHAP 1-5 SMI-SCM 344 Product Quality, Packing and Handling of Materials.txt",
+        "title": "CHAP 1-5 SMI-SCM 344 Product Quality, Packing and Handling of Materials",
+        "type": "text"
     },
     {
-        "file": "incoterms.txt",
-        "description": "Các điều kiện Incoterms 2020"
+        "file": "CHAP 6 SMI-SCM 344.txt",
+        "title": "CHAP 6 SMI-SCM 344ệ",
+        "type": "text"
+    },
+    {
+        "file": "CHAP 6 SMI-SCM 335.txt",
+        "title": "CHAP 6 SMI-SCM 335",
+        "type": "text"
+    },
+        {
+        "file": "CHAP 7 SMI-SCM 335.txt",
+        "title": "CHAP 7 SMI-SCM 335",
+        "type": "text"
+    },
+            {
+        "file": "CHAP 7 SMI-SCM 344.txt",
+        "title": "CHAP 7 SMI-SCM 344",
+        "type": "text"
     }
 ]

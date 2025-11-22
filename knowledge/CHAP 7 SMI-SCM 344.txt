@@ -1,0 +1,583 @@
+﻿PRODUCT QUALITY, PACKING AND HANDLING OF MATERIALS - 344 1
+COPYRIGHT 2
+
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Product Quality, Packing, and Handling of Materials." 3The authorized entity solely permitted to use this material is: 4SouthStar Management Institute (Smi) 5Da Nang, Vietnam. 6This course is designed for the undergraduate level/program." 7
+
+"Copyright Notice: 8Any other party wishing to access this POWERPOINT PRESENTATION must request 9the information directly via email at: 10Dr. Luis Alfaro 11Director of Ports, Logistics and SCM 12DUY TAN UNIVERSITY 13The SouthStar Management Institute (SMI) 14254 Nguyen Van Linh St., Danang, Vietnam 15T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 16E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn 17W: http://smi.edu.vn/ 18
+
+UNIT 7 19
+MATERIAL HANDLING 20
+
+Structure 21
+7.0 Objectives 22
+7.1 Introduction Material Handling Principles Systems 23Approach to Materials Handling 24
+7.2 Material Handling Devices Conveyors Elevators 25
+7.3 Principal Drive Mechanisms, Suitability of Use and Energy Requirement for Material Handling Equipments 26
+7.4 Interaction between Material and Handling Devices 27
+7.5 Selection of Material Handling Devices 28
+7.6 Cost of Material handling 29
+7.7 SUMMARY 30
+
+Objectives 31
+By the time you have studied this unit, you should be able to: 32
+understand the principles and concepts of material handling; 33
+know various available material handling devices and their drive mechanisms; and 34
+understand the importance of material handling and decide the suitability of different machinery for various uses. 35
+
+7.1 INTRODUCTION 36
+Material handling aims to efficiently deliver the correct amount of material to the right place, at the right time, in the correct sequence and position, and at an optimal cost. 37This process encompasses various manual or mechanical operations to convey materials, reducing human effort. 38Historically, manual labor handled tasks like harvesting, processing, and transporting crops multiple times, which increased costs and labor intensity. 39Today, mechanical devices either replace or augment human labor, enhancing efficiency and throughput in grain handling and food processing. 40
+
+Data requiredSource of dataProduct Specifications: Product size, weight and shape, quality requirements, special propertiesProduct engineering, quality control inspectionProduction volume: Number of different items (product mix), quantity of each item per unit time, variation in output, variation in demandSales department, market research, production planningComponent parts: Performance times for all operations, Variation in performance times, Sequence of fabrication operations, Sequence of assembly operations, Types of machinery requiredProduction planning, time study departmentTable 1. Information required about material and processes 41
+
+7.1.1 Material Handling Principles 42
+Various principles involved in material handling are: 43
+Thorough study the problem and identification of problem areas, constraints and goals. 44
+Develop plans, which meets our basic requirements, is flexible and includes desirable features. 45
+Integrate various activities such as receiving, shipping, production assembly, etc. 46
+Make the unit load size as large as possible. 47
+Use the cubic space as effectively as possible. 48
+Where possible standardize equipment and procedures. 49
+Design equipment and methods that allow effective interaction between humans and machines. 50
+When evaluating handling equipment, examine energy requirement and costs. 51
+To the extent possible, use methods and equipment that minimize adverse effects on the environment. 52
+Where possible mechanize methods to achieve efficiency. 53
+Use methods and equipments that provides the maximum flexibility. 54
+Simplify, combine or if possible eliminate unnecessary moves or equipment 55
+Use gravity as much as possible to transfer material keeping in mind safety and product damage. 56
+Use safe handling equipment and methods. 57
+To the extent possible computerize, so as to achieve better material and information control. 58
+Integrate material and information flows. 59
+Evaluate each alternate layout and select the most effective and efficient one. 60
+Evaluate each alternate solution and select one based on cost per unit handled. 61
+Perform preventive maintenance. 62
+Develop equipment replacement plan based on after-tax life cycle costs. 63
+
+7.1.2 Systems Approach to Materials Handling 64
+To optimize materials handling, a systems approach is essential, encompassing raw materials, work-in-progress, and finished products. 65This ensures efficient flow throughout production, preventing bottlenecks and shortages. 66Simplifying factory flow reduces costs, confusion, and contamination risks, while enhancing working conditions and overall operational benefits. 67
+
+7.2 MATERIAL HANDLING DEVICES 68
+7.2.1 Conveyors 69
+Conveyors are widely used in all food processing industries for the movement of solid materials, both within unit operations and between operations (Table 7.1). 70There are a large number of conveyor designs, produced to meet specific applications. 71Common types include the following. 72
+Belt conveyors use endless belts under tension, driven between rollers. 73They vary in materials like stainless steel, synthetic rubber, or composite blends, with flat belts for packed foods and trough-shaped belts for bulk materials. 74
+Roller and skate wheel conveyors feature free-running rollers or wheels for horizontal or lightly inclined movement, either by pushing or gravity. 75Rollers, stronger but harder to start and stop, handle heavier loads and manage steeper inclines for accelerated package movement. 76Powered variants handle horizontal movement 77or gentle inclines up to $10-12^{\circ}$ efficiently. 78(Image source: Conveyxcorp.com 79)
+Chain conveyor: This is used to move churns, barrels, crates and similar bulk containers by placing them directly over a driven chain, with protruding lugs, located at floor level. 80A similar monorail conveyor is used for moving meat carcasses on an overhead track. 81(Image source: Specialtyequipment.com 82, www.apecialtyequipment.com 83)
+Screw conveyor: This consists of a rotating helical screw inside a metal trough. 84It is used to move bulk foods (for example flour and sugar) and small-particulate foods (for example peas or grains). 85The main advantages are the uniform, easily controlled discharge, the compact cross-section (without a return conveyor) and total enclosure to protect the product and to prevent contamination. 86They may be horizontal or vertically inclined but are generally limited to a maximum length of 6 m as, above this, high friction forces result in excessive power consumption. 87(Image source: Trimechindia.com 88)
+Vibratory conveyors: These impart a vertical movement to food, to raise it a few millimetres off the conveyor, and a forward movement, to move the food along the conveyor. 89The amplitude of vibration is adjusted to control the speed and direction of movement. 90This precise control makes vibratory conveyors useful as feed mechanisms for processing equipment. 91They are also useful, for moving sticky or friable foods (snack foods). 92(Image source: eriez.com 93)
+Flight conveyors: Here, bulk material (for example grain or flour) is dragged through an enclosed channel by an endless chain fitted with hooks or flights. 94Chain speeds are low ($6-10\ m\ min^{-1}$) and the inclination is limited to $30^{\circ}$, above which the material slips back. 95(Image source: indiamart.com 96)
+Table 7.1: Aplications of materials-handling equipment 97
+Conveyors Elevators Cranes and hoists Trucks Pneumatic equipment Water flumes Direction 104Vertical up 105***Vertical down 106***Incline up 107***Incline up 108*Horizontal 109*****Frequency 110Continuous 111****Intermittent 112**Location served 113Point 114****Path 115***Limited area 116*Unlimited area 117*Height 118Overhead 119****Working height 120****Floor level 121******Underfloor 122*Materials 123Packed 124****Bulk 125******Solid 126******Liquid 127**Service 128Permanent 129*****Temporary 130**
+7.2.2 Elevators 131
+Four common types of elevator are as follows: 132
+Bucket elevators: consist of metal or plastic buckets fixed between two endless chains. 133They have a high capacity for free-flowing powders and particulate foods. 134The shape and spacing of the buckets, the method of discharge and the speed of the conveyor ($15-100\ m\ min^{-1}$) control the flow. 135(Image source: cooperind.com 136)
+Magnetic elevators: are used for conveying cans within canneries. 137They have a positive action in being able to hold the cans in place and are thus able to invert empty cans for cleaning and operate at high speeds with minimal noise. 138(Image source: plastic-conveyor.com 139)
+Flight elevators: are essentially inclined flight conveyors. 140They have flexibility in use for a wide range of free-flowing bulk foods, high capacity and good space utilization. 141
+Pneumatic elevators transport powders or small particulate foods through air circulation at velocities between $1000-1700\ m/min$ inside pipes. 142Maintaining optimal air velocity prevents solids from settling or causing pipe abrasion. 143Static electricity buildup is prevented by controlling food moisture and grounding equipment, crucial for minimizing dust explosion risks. 144144144144These systems operate smoothly with minimal moving parts, low maintenance costs, and rely on a compressed air supply at $700\ kPa$. 145
+
+7.3 PRINCIPAL DRIVE MECHANISMS, SUITABILITY OF USE AND ENERGY REQUIREMENT FOR MATERIAL HANDLING 146
+A belt conveyor operates between two pulleys, supporting its load on idlers with various belt shapes for different materials. 147Components include a belt, drive mechanism, pulleys, idlers, and loading/discharge devices, offering high mechanical efficiency due to anti-friction bearings. 148Material moves without relative motion, minimizing damage, enabling high-speed operation and large capacity over horizontal distances. 149
+Though initial costs are higher for short distances, belt conveyors offer competitive or lower costs for longer distances, with long service life and low operating expenses when well-designed and maintained. 150The design of a belt conveyor system considers available space, horizontal and vertical conveying distances, material characteristics, and capacity needs. 151Key design parameters include belt width, speed, horsepower, maximum tension, belt strength, pulley and idler sizes, and belt quality. 152These factors are crucial for creating an efficient and reliable conveyor system. 153
+The initial stage in designing a belt conveyor with a specific capacity involves determining the optimal speed and width of the belt. 154154154154Choosing the belt speed aims to reduce product spillage, while the belt width is selected based on capacity needs, operational speed, conveyor inclination angle, trough characteristics, and depth. 155155155155
+The capacity 'Q' can be calculated using the formula:
+$$Capacity\ Q,\ m^{3}/hr=(area\ of\ cross-section,\ m^{2})\times(belt-speed,\ m/min)\times60\ (7.1)$$
+156
+The horsepower required for operation of belt conveyor for conveying grains can be calculated by the following equations. 157These equations are based on lift, friction resistance of the belt and pulleys and trippers. 158The values of constants are given in Table 7.2. 159Where, $L=$ length of belt, m 160, A & B are constants. 161
+Table 7.2: Values of constants A and B 162
+Belt width, cmConstants AConstants BAdditional horsepower for tripper360.200.001400.70410.250.001400.85460.300.001621.00500.300.001871.40600.360.002241.70760.480.002982.50
+7.3.2 Screw Conveyors 163
+Consists of a tubular or U-shaped trough in which a shaft with spiral screw revolves. 164The screw shaft is supported by end and hanger bearings. 165The rotation of screw pushes the grain along the trough. 166The screw conveyor is used for conveying of products generally for short distances. 167It requires relatively high power and is more susceptible to wear than other types of conveyors. 168The pitch of a standard screw, which is the distance from the center of one thread to the center of the next thread, is equal to its diameter. 169
+The screw conveyor, with a simpler driving mechanism and no tensioning device, is cost-effective compared to other conveyors of the same length and capacity. 170It consists of key parts like the screw blade, shaft, and drive mechanism, and is mainly used for moving grains horizontally, though it can operate at any angle up to $90^{\circ}$, with reduced capacity as the angle increases. 171The screw blade is a welded helix on a shaft, and the troughs vary in shape, including U-shaped and tubular, each suited for different types of materials and inclinations. 172
+For operational reasons, some gap is provided between the edge of the screw blade and the trough walls. 173Due to this gap it is not possible to completely empty the trough of a horizontal screw conveyor. 174If the screw conveyor is used to convey different materials, mixing of products is possible. 175Also when the food particles are pressed between the screw edge and trough walls, they can be damaged. 176During conveyance the kernels are also subjected to continuous friction with the trough walls. 177Screw conveyor may be designed for clockwise or counterclockwise rotation. 178The change in direction of rotation does not affect the capacity. 179
+The capacity of screw conveyor is influenced by the screw diameter, inclination of the screw blade, speed of the blade, shaft diameter and crosssection of loading. 180The theoretical conveyance capacity of the screw conveyor can be given by the following equation. 181
+$$Capacity\ Q,\ m^{3}/hr=47.2(D^{2}-d^{2})\times p\times n\ [cite: 211]$$
+Where:
+$D=$ screw diameter, m 182
+$d=$ shaft diameter, m 183
+$p=$ pitch, m 184
+$n=rpm$ 185
+The theoretical capacity is more than the actual capacity because of screw housing clearance and the loading factor. 186
+The power requirement of screw conveyors for horizontal operation may be determined by the following equation: 187
+Where:
+$Q=$ conveyor capacity, $m^{3}/min$ 188
+$L=$ conveyor length, m 189
+$W=$ bulk material weight, $kg/m^{3}$ 190
+$F=$ material factor (for paddy 0.4) 191
+If the calculated horsepower is less than 1.0, double the value. 192
+Horsepower $=1$ to 2 multiply the value by 1.5 193
+Horsepower $=2$ to 4 multiply the value by 1.25 194
+Horsepower $=4$ to 5 multiply the value by 1.1 195
+For horsepower values of more than 5, no correction is required. 196
+7.3.3 Pneumatic Elevator 197
+A pneumatic conveyor moves granular materials in a closed duct using high-velocity air, providing continuous and flexible transport by either suction or blowing. 198Essential components include an air source, a feeder, and a collection hopper. 199The three basic systems are pressure (blowing), suction (vacuum), and combined push-pull systems, each utilizing different methods to convey materials. 200
+A feeder in a pneumatic conveying system must transfer product from a supply hopper at one pressure to a conveying pipeline at another pressure. 201The rotary feeder, a common type, features a bladed rotor with pockets that move product to the outlet port and pipeline. 202This feeder meters product flow and maintains an air lock essential for system operation. 203
+Selecting the right air mover is crucial for designing a pneumatic conveying system. 204Key factors include supply air pressure, which depends on the line's pressure drop and product properties, and volumetric flow rate, influenced by air velocity and pipe size. 205High-flow fans or blowers and high-pressure compressors are used based on these requirements. 206
+For separation of product particles from air, air-product separators are used. 207Cyclones are mostly used to collect the particles. 208A cyclone is a device, which removes the bulk of the product particle from the conveying air stream by centrifugal force. 209In some cyclones, a fabric filter is attached to remove residual dust and fine product particles from the air stream. 210The conveying air is first passed through the cyclone and then it goes to the fabric filter for secondary separation of finer particles. 211
+Limitations of Pneumatic Conveying 212
+Erosion of solid surfaces and equipment surfaces by solid particles with conveying air stream. 213The rate of erosion of solid surfaces increased remarkably with conveying of abrasive products. 214
+In case of bends or misaligned sections, the erosion problem becomes severe. 215In industrial installations, the erosion of duct system poses major problem in the operation of pneumatic conveying system. 216
+In a pneumatic conveying system, chances of repeated impacts between the particles and the solid surfaces are high. 217Due to such impacts, product degradation results, because of this changes take place in the product size distribution and consequently the market value diminishes. 218
+7.3.4 Bucket Elevator 219
+A bucket elevator consists of buckets attached to a chain or belt that revolves around two pulleys one at top and the other at bottom. 220The vertical lift of the elevator may range between few meters to more than $50\ m$. 221Capacities of bucket elevators may vary from 2 to $1000\ t/hr$. 222
+Bucket elevators are broadly classified into two general types: 223
+spaced bucket elevators 224
+continuous bucket elevators 225
+The above two types are further subdivided into various classes. 226The spaced bucket elevators are further classified as: 227
+centrifugal discharge elevators, 228
+positive-discharge elevators, 229
+marine leg elevators and 230
+highspeed elevators. 231
+The continuous bucket elevators are classified as: 232
+super capacity bucket elevators, and 233
+internal-discharge bucket elevators. 234
+The spaced-bucket centrifugal discharge elevator is commonly used for elevating grains efficiently. 235It is an effective and cost-efficient device for vertical conveyance of bulk grains in food industries. 236Bucket elevators can be fixed or mobile and handle high capacities. 237A bucket elevator requires minimal horizontal space and operates in a dust-free, quiet housing. 238It features a conveyor belt with buckets that are enclosed to minimize wear, and the system uses pulleys to drive the belt. 239The buckets, made of steel or plastic, are mounted on the belt and can be housed in single or dual legs, with various discharge types utilizing gravity or centrifugal force. 240
+The capacity of a bucket elevator depends on factors like bucket size, speed, design, and material characteristics. 241Belt speed is critical; too low speeds hinder discharge, while too high speeds affect bucket feeding. 242Proper speed ensures clean discharge, which can be either gravitational (with non-adhesive materials at low speeds) or centrifugal (with high speeds and smaller pulleys), often a combination of both for grain elevation. 243
+When a product mass turns around a pulley, it is influenced by two forces: 244
+gravitational force, which is oriented downwards 245
+centrifugal force. 246
+The magnitude of the centrifugal force which is oriented outward can be given by 247
+Where:
+$W=$ weight of grain Material Handling 248
+$V=$ velocity of product mass 249
+$g=$ acceleration due to gravity. 250
+$r=$ radius of the wheel plus one-half of the projection of the bucket 251
+For optimum centrifugal discharge, and calculation of the speed of head pulley, the resultant force is zero, it means that the centrifugal force is equal to the force of gravity, or, $cf=W$ 252
+The bucket elevator's capacity may be calculated by the following equation. 253
+$$Elevator\ capacity,\ m^{3}/hr = bucket\ capacity,\ m^{3}\ \times\ number\ of\ bucket\ per\ meter\ of\ belt\ \times\ belt\ speed,\ m/min.\times60\ [cite: 305]$$
+Drive mechanism 254The drive mechanism of a bucket elevator is located near the elevator head. 255At the elevator head, the belt is turned around the drive pulley. 256Drive motor with gearbox and couplings are mounted on a rigid and separate frame. 257A working platform is provided for serving the elevator head section, the drive mechanism. 258Usually a ladder is provided for access to this platform. 259
+The theoretical horsepower requirement for the bucket elevator can be calculated by the following equation. 260
+Where:
+$Q=$ capacity of bucket elevator, $kg/min$ 261
+$H=$ lift of elevator, m 262
+$F=$ factor; 1.5 for elevators loaded on the up side and 1.2 for elevators loaded on the bottom side 263
+The theoretical horsepower should be increased 10-15% to provide for friction and power requirements for loading, power transmission and drive losses. 264
+7.4 INTERACTION BETWEEN MATERIAL AND HANDLING DEVICES 265
+Interaction between the material and the handling device is one of the important considerations for the selection of a suitable material handling device. 266The suitability of the different material handling devices for food products have been already discussed in section 7.2 and 7.3. 267
+7.5 SELECTION OF MATERIAL HANDLING DEVICES 268
+Choosing the right conveying system is essential for efficient operation and achieving desired capacity. 269Key factors include: 270
+matching the device to product characteristics,
+ensuring stability under all conditions,
+maintaining capacity and speed within limits,
+minimizing dead load,
+considering gravity use,
+aligning with processing capacity, and
+preventing spillage and environmental pollution.
+Integrating material handling equipment into manufacturing involves four key issues: 271
+extracting information on material handling tasks,
+matching these tasks with resources,
+aggregating tasks to align with technologies, and
+selecting and specifying the appropriate system.
+Figure 7.11: Major steps of procedure for selecting and specifying material handling equipment for manufacturing. 272
+Manufacturing Data goes to Task Extraction 273273273273
+Task Extraction sends Individual task to Filtering and Matching 274274274274
+Task and Resource Specification Framework (containing Individual task and Material Handling Resources) also inputs to Filtering and Matching 275275275275275275275275275
+Filtering and Matching leads to Aggregation with Resource/Task combination 276276276276
+Aggregation leads to System Selection with Resource/Task assignments 277277277277
+7.6 COST OF MATERIAL HANDLING 278
+The cost of material handling depends on factors such as the material type, transport distance, elevation height, efficiency and cost of the handling device, its maintenance and lifespan, and the loading/unloading methods. 279There is no universal rule for selecting the most economical device; decisions should be based on the specific operational needs. 280
+7.7 SUMMARY 281
+Conveyors and elevators are the two much important classes of material handling equipment. 282Once we know the characteristics of the material to be handled and other critical requirements, one could select an appropriate conveyor/elevator. 283These conveyors/elevators could be chain, belt, bucket, screw, pneumatic, magnetic, vibratory types. 284Proper selection and design of capacity and power units leads to the minimization of the cost of material handling. 285
+
+This content is an extracted portion from the electronic and/or printed textbook. 286Due to electronic rights restrictions, certain third-party content may have been omitted. 287Editorial review has determined that the content in this POWERPOINT PRESENTATION does not significantly impact the overall learning experience. 288The published PowerPoint has been modified and reserves the right to remove content from this title at any time if subsequent rights restrictions require such action. 289ALL RIGHTS BELONG TO: 290
+DR. LUIS ALFARO 291DIRECTOR OF PORTS, LOGISTICS AND SCM 292SOUTHSTAR MANAGEMENT INSTITUTE, DA NANG, VIETNAM 293
+
+SUMMARY 294
+
+STUDY QUESTIONS 295295295295
+CHALLENGE QUESTIONS 296296296296
+
+Thank You 297
+
+SMART PORT CITIES - 335 298
+COPYRIGHT 299
+
+"In accordance with the copyright provisions, the content of this material has been modified for teaching purposes only, specifically to support the instruction of the subject: Port Logistics Risk Management." 300The authorized entity solely permitted to use this material is: 301SouthStar Management Institute (SMI) 302Da Nang, Vietnam. 303This course is designed for the undergraduate level/program." 304
+
+"Copyright Notice: 305Any other party wishing to access this POWERPOINT PRESENTATION must request 306the information directly via email at: 307Dr. Luis Alfaro 308Director of Ports, Logistics and SCM 309DUY TAN UNIVERSITY 310The SouthStar Management Institute (SMI) 311254 Nguyen Van Linh St., Danang, Vietnam 312T: (+84) 236.365.0403 (Ext. 606) - (+84) 236.382.7111 313E: luisdtusci@gmail.com | alfaroluisalfredo@dtu.edu.vn 314W: http://smi.edu.vn/ 315
+
+Strategies for Sustainability 316Public Administration and Information Technology 37 317Editors: Angela Carpenter, Rodrigo Lozano 318European Port Cities in Transition 319Moving Towards More Sustainable Sea Transport Hubs 320Editors: Elsa Estevez, Theresa A. Pardo, Hans Jochen Scholl 321Smart Cities and Smart Governance 322By: Dr. Luis ALFARO 323Springer 324
+
+SMART PORT CITIES 325
+CHAPTER 7: SECTION 1 326
+BASICS OF BLOCKCHAIN TECHNOLOGY 327
+
+Contents 328
+Introduction 329329329329
+Components of Blockchain 330330330330
+Evolution of Blockchain 331331331331
+Blockchain Applications 332332332332
+Limitations and Challenges of Blockchain 333333333333
+Impact of Blockchain Technology 334334334334
+Blockchain Platforms/Protocols 335335335335
+Summary 336336336336
+
+1. Introduction 337
+The year 2009 was a remarkable one when bitcoin was launched based on blockchain technology. 338The feature of blockchain technology is that it makes the role of intermediaries redundant in any type of transaction. 339Thus elements of security, integrity, immutability, and transparency get embedded into transactions. 340These transactions happen in various sectors, be it the financial sector, healthcare, supply chain, real estate etc., to name a few. 341Hence the applications of blockchain technology are vast and are applied in various sectors. 342
+Key components of blockchain technology include hashing methods, consensus mechanisms, transactions and blocks. 343Blockchain technology is evolving. 344It has evolved from the first generation of cryptocurrency to second generation finances to the third generation digital society and is still evolving. 345No doubt there are associated challenges with evolution. 346These challenges get manifested in terms of scalability, loss of privacy and selfish mining. 347The impact of blockchain technology can be seen in very diverse sectors. 348Think of a sector where intermediaries exist, and you can see the role of blockchain technology. 349That is why the financial sector, supply chain, healthcare, tourism, government sector, smart cities, IoT, energy exchange, and insurance sector are applying blockchain technology to give security and transparency to the stakeholders. 350
+Objectives 351
+In this unit, you will learn about the basics of Blockchain Technology, applications of Blockchain in different fields, the impact of Blockchain technology, and associated challenges to Blockchain technology. 352After reading this unit, you will be able to: 353
+Identify elements of Blockchain Technology 354
+Visualize the evolution of Blockchain Technology 355
+Appreciate application of Blockchain Technology in different spheres 356
+Discern limitations and challenges to Blockchain Technology 357
+Comprehend different Blockchain Protocols 358
+
+2. Blockchain Technology And Its Components 359
+Concept of Blockchain Technology 360
+Cryptocurrency is the first application of blockchain technology. 361A cryptocurrency is a medium of exchange, like the Indian Rupee, but is digital and secured by cryptography. 362Bitcoin was the first cryptocurrency developed in 2009 by the elusive Satoshi Nakamoto. 363Since then, many cryptocurrencies have come into existence to fulfil different needs and purposes. 364Thus, cryptocurrency, like bitcoin, is one of the applications of blockchain technology. 365There are numerous other applications of blockchain technology, for example, in the financial sector, government and public sectors, Supply Chain Management, Internet of Things, Healthcare, and Smart cities. 366
+Businesses that use intermediaries can be disintermediated using blockchain technology, thus bringing transparency. 367Blockchain can be used wherever authentication is required. 368One of the consequences of disintermediation and authentication will be reflected in lower transaction costs. 369Blockchain technology is evolving. 370
+Blockchain 1.0, i.e. the first generation of blockchain, refers to cryptocurrency, i.e. digital currency. 371
+Blockchain 2.0, i.e. the second generation of blockchain, refers to digital finance. 372
+Blockchain 3.0, i.e. the third generation of blockchain, refers to digital society. 373
+Blockchain technology is based on Distributed Ledger Technology (DLT). 374Ledger is the record of transactions. 375These transactions may be financial deals, supply chain management, and copyright ownership. 376In a distributed ledger, records of transactions are available on a blockchain network. 377A blockchain network is a peer-to-peer network. 378A peer or node in a peer-to-peer network is a computer that has software installed in it. 379Being a peer-to-peer network, it does not require a central authority or trusted intermediaries to authenticate or settle the transactions. 380
+This feature brings transparency to transactions. 381Whereas in the centralized system, the records of transactions are available in a central server, and these records are managed by intermediaries, a role played by institutions like banks. 382Blockchain technology completely removes the role of intermediary or the third party. 383Transactions in Blockchain technology is immutable, i.e. once a transaction is made, it is permanent and can't be altered. 384Transactions in the blockchain are stored in a block. 385A block is chained to an other block through a cryptographic hash chain. 386This chain keeps growing as long as new blocks are created and maintained. 387
+This way, modern financial systems that track transactions/assets without the need for centralized parties can be enabled. 388In a nutshell, blockchain is a network of devices named nodes connected to each other over the internet. 389All nodes on a blockchain are equally important. 390A node can play diverse roles like storing information recorded in a blockchain, storing a copy of all the information recorded on a blockchain, and processing transactions to add a new block in the network. 391
+Working of Blockchain 392
+The working of blockchain technology can be illustrated through one of its applications. 393Cryptocurrency is one of the applications of blockchain technology, and the working of blockchain technology can be demonstrated through a transfer of cryptocurrency. 394Let a user 'X' wants to send money to user 'Y'. 395The process of transfer of money from user 'X' to user 'Y' is as shown in Figure 7.1. 396
+Figure 7.1: Working of Blockchain (Flowchart) 397
+| Sender (X requests a transaction with Y) 398| requested transaction is broadcast to all nodes (P2P network) 399 | Validation of requested transaction done by all nodes 400 | Once verified, this transaction is represented as a new block 401 | The new block is added to the existing blockchain 402 | Receiver (transaction is complete between X and Y) 403 |
+Here sender 'X' requests a transaction for sending money to the receiver 'Y'. 404The requested transaction is broadcasted to the P2P network (it consists of computers known as nodes). 405This P2P network containing all nodes validates the transaction. 406Once verified, this transaction is represented as a new block. 407The new block is then added to the existing blockchain. 408Thus the transaction is completed, and receiver 'Y' receives the money. 409The above was the simplest explanation of the working of blockchain. 410
+When sender 'X' wants to send money to the receiver 'Y', then 'X' should know the wallet address of 'Y'. 411The transaction gets initiated as user 'X' sends the money to user 'Y'. 412Every node of the blockchain will have to verify this transaction. 413Only then will user 'Y' get money in his/her wallet. 414Thus every node will record this money transaction from user 'X' to user 'Y'. 415Hence, records will be stored in thousands of computers, but the user may not like his/her transaction information on many computers. 416This issue is resolved by blockchain by keeping the transaction anonymous. 417
+For maintaining transactions' integrity over the network, there is the need for consensus protocol, cryptographic hashes, and digital signatures at nodes. 418
+Consensus protocol guarantees that transactions recorded in public ledgers are exact copies. 419No transaction record can be changed without accessing all the nodes of the network, thus making transaction records immutable. 420
+SHA-256 (Secure Hash Algorithm of output size 256 bits), a cryptographic hashing algorithm, is used to assure that any change in transaction leads to a new hash value being computed. 421
+Digital signatures ensure that the transactions are initiated from genuine senders. 422
+Types of Blockchain 423
+Blockchain can be classified into the following three major types: 424
+Public Blockchain 425
+Private Blockchain 426
+Consortium Blockchain or Hybrid Blockchain 427
+A public blockchain is one in which anyone can join and participate. 428It means anyone can be a user or a miner, and anybody can add new blocks. 429This ensures transparency in public blockchain networks. 430A public blockchain is also called permissionless as it permits anyone to take a copy of the blockchain and involve in block validation. 431Bitcoin and Ethereum are examples of a public blockchain. 432
+A private blockchain is a permissioned blockchain suitable for individual organizations. 433Here an organization decides who is allowed to participate and maintain a shared ledger. 434Hyperledger is an example of a private blockchain. 435
+A consortium blockchain is a permissioned blockchain where several organizations take responsibility for maintaining the blockchain. 436Consortium blockchain has the privacy benefits of private blockchain and the transparent nature of public blockchain. 437A consortium blockchain is also called a hybrid blockchain. 438Drag on chain is an example of consortium blockchain. 439
+Table 7.1: Features of Blockchain Types 440
+FeaturePublic BlockchainPrivate BlockchainConsortium BlockchainUser accessPublic 441Restricted 442Restricted 443User identityAnonymous 444Approved users 445Approved users 446Permission statusPermissionless 447Permissioned 448Permissioned 449Advantages of Blockchain Technology 450
+Following are the advantages of blockchain technology: 451
+Decentralization 452
+Transparent and Anonymous 453
+Less transaction fees and no taxes 454
+Theft resistant 455
+The above mentioned advantages/characteristics of blockchain technology helped the rapid evolution of blockchain technology from application in cryptocurrency (bitcoin) to Industry 4.0 in such a short interval of 10 years. 456
+Security, transparency, traceability, and automation are some of the important concerns for any business or industry. 457Blockchain technology can address the above concerns. 458As records created through blockchain can't be tampered with and are end-to-end encrypted, blockchain enhances security for any business or industry. 459Privacy issues can also be addressed on blockchain by making personal data anonymous. 460Decentralization is the hallmark of blockchain technology. 461There is no role of an intermediary or third party in blockchain technology. 462This feature of blockchain technology provides protection against corruption and tampering. 463 Further, all transactions in the blockchain are maintained in the public ledger. This ensures transparency. 464
+Components of Blockchain Technology 465
+Blockchain technology is based on cryptographic concepts and record keeping principles. 466Cryptography is the study of secure communication techniques. 467Cryptographic techniques use hashing, asymmetric key cryptography and digital signatures. 468
+Hashing Methods 469
+The most important component of blockchain technology is the cryptographic hashing function. 470A hash algorithm is a mathematical function that transforms any input into a fixed size output. 471The input can be a text, file or image, and the output is a fixed size alphanumeric string. 472Hashing is a one way function where any input of arbitrary size can be uniquely expressed as a string of characters. 473The meaning of one way function is that it is easy to go from the input to the hash but extremely difficult to go the other way. 474Meaning thereby by knowing only the hash, you can't find the original message. 475In other words, anyone with the original message and the hashing algorithm will produce the same hash. 476The purpose of hashing in blockchain is data integrity and privacy. 477Hashing protects data integrity by hiding and encoding the original message (i.e. input) to a unique string. 478For the hash function to be cryptographically secure and usable in blockchain technology, it needs to be collision resistant. 479Collision resistant means that it should be practically impossible to find two inputs that produce the same output. 480Most blockchain implementation uses Secure Hash Algorithm (SHA) that generates an output of size 256-bit. 481Cryptocurrency like bitcoins uses Secure Hash Algorithm 256, also known as SHA-256. 482
+Transaction 483
+A transaction is a digitally signed message authorizing some particular action associated with a blockchain. 484For a cryptocurrency, the dominant transaction type is sending cryptocurrency units or tokens to someone else. 485The blockchain transaction process has five steps: 486
+Transaction initiation: The transaction information contains the Receiver's public address, the value of the transaction and a cryptographic digital signature. 487
+Transaction authentication: The nodes in the blockchain network receive transaction information and authenticate its validity. 488When the transaction is validated, it is placed in the pool of transactions. 489Transaction pool is the place where all unconfirmed transactions are placed. 490
+Block creation: the pool of transactions is then placed on the block by one of the participating nodes of the network. 491
+Block validation: the participating nodes begin the validation process upon receiving the block of transaction. 492
+Block chaining: the block is chained into the existing blockchain, and an updated blockchain ledger is broadcast to the network. 493The entire process takes 3-10 s. 494
+Public Key Cryptography 495
+Public key cryptography is an encryption scheme that uses two mathematically related but not identical keys: a public key and a private key. 496A public key is used to encrypt, and the private key to decrypt. 497
+Address and Wallet 498
+Blockchain addresses are used to send or receive transactions on a network. 499An address usually presents itself as a string of alphanumeric characters. 500A wallet is a file that contains a collection of private keys and communicates with a blockchain. 501Wallets contain keys, not coins. 502Wallets require back up for security reasons. 503
+Blocks 504
+A block is the most basic unit of a blockchain database. 505Each block contains a record of some or all recent transactions and references to the block that came immediately before it. 506A block consists of Block number, nonce, data, previous hash and hash. 507
+The block number is a unique number assigned to each block by the user who creates the block. 508
+The nonce is a special value mined by the miner algorithms employed by the creator of the block. 509
+Previous hash 510
+Current hash 511
+The nonce is a 4 byte field, usually starting at 0, and the value increases with every calculation. 512This value calculation is also known as puzzle solving. 513Nonce ensures that the hash value generated for a block has a particular format, like starting with three zeros or ten zeros. 514The previous hash is the encryption of the previous block. 515The hash is calculated using the SHA-256 algorithm on the combination of the nonce, previous hash and data. 516A block has only one parent. 517The first block of a blockchain is called the 'genesis block'. 518The 'genesis block' has no parent block. 519
+Consensus Features 520
+The consensus protocol is the set of rules and arrangements to carry out blockchain operations. 521Consensus algorithms are designed to achieve reliability in a network involving multiple unreliable nodes. 522The consensus algorithms ensure that the next block in the blockchain is the one and only one version of the truth. 523The most common consensus algorithms include Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), Proof of Authority and Ripple. 524
+PoW protocol is one of the first utilized consensus protocols. 525PoW protocol is based on computational load, requiring miners to find a solution to the puzzle. 526The downside is that it requires a large amount of computing power and, therefore, energy and cost. 527
+To reduce the high resource cost of mining, PoS was proposed. 528PoS assigns a difficulty value to a puzzle based on how much stake the owner has in the network. 529
+Proof of Authority (PoA) is a reputation based consensus approach where the preselected validators attempt to validate by leveraging the value of identities. 530Therefore, PoA blockchains are scalable and secured as the preselected nodes are considered as trustworthy entities to verify transactions. 531
+Smart Contract 532
+Smart contracts are translations of an agreement consisting of terms and conditions into computational code (or program/script). 533Smart contracts are self executing digital contracts. 534In smart contracts, there are no chances of fraud or intervention of third parties. 535Ethereum platform allows the use of the smart contract. 536Smart contracts can be used in many applications. 537One application is crowdfunding. 538A smart contract is a secure alternative to an intermediary in a conventional crowdfunding platform. 539
+3. Evolution Of Blockchain 540
+Blockchain technology is continuously evolving with time. 541In a short span of a decade, it has seen four generations of its evolution. 542
+The first generation of Blockchain, i.e. Blockchain 1.0, originated from the concept of Distributed Ledger Technology and was meant for cryptocurrency only. 543
+Blockchain 2.0, i.e. the second generation of Blockchain, is based on the smart contract concept and the Proof of Work consensus mechanism. 544The smart contract is a programming code embedded in a distributed ledger. 545It gets executed when predefined conditions are satisfied. 546The second-generation blockchain network was introduced in 2013. 547
+Blockchain 3.0 overcomes the setbacks of Blockchain 1.0 and Blockchain 2.0. 548The setbacks are that Blockchain 1.0 and Blockchain 2.0 are not scalable at all and are mainly based on Proof of Work. 549Apart from smart contracts, Blockchain 3.0 mainly involves Decentralized Apps (dApps). 550A dApp can be thought of as decentralized software code that gets executed across all the nodes in given blockchain architecture. 551A dApp is very similar to the applications already in use today on smartphones, tablets, or Desktops. 552Blockchain 3.0 also utilizes the Proof of Stake and Proof of Authority consensus mechanism. 553
+Blockchain 4.0 means making Blockchain 3.0 usable in real life business scenarios. 554Blockchain 4.0 makes Blockchain technology usable to Industry 4.0 demands. 555Industry 4.0 refers to the fourth revolution that has occurred in manufacturing. 556Industry 4.0 technologies employ Artificial Intelligence, the Internet of Things, Big Data etc. 557Unibright is the framework for Blockchain 4.0, and is the introductory platform for Blockchain 4.0 utilities. 558
+Comparison of Different Generations of Blockchain: 559559559559
+The consensus mechanism for the first generation blockchain technology is Proof of Work. 560The fourth generation of blockchain technology uses Proof of Integrity. 561It began with application in the financial sector and is now heading towards application in Industry 4.0. 562The fourth generation of blockchain technology is incorporating Artificial Intelligence. 563Blockchain technology is moving from guaranteed transaction authenticity to a faster consensus and transaction confirmation, removing the initial bottlenecks and hiccups. 564
+Table 7.2: Comparison of Different Generations of Blockchain 565Source: Blockchain Technology: Applications and Challenges (Springer 2021) and other sources 566
+ParameterBlockchain 1.0 (2008)Blockchain 2.0 (2013)Blockchain 3.0 (2015)Blockchain 4.0 (2018)PrincipleDistributed Ledger Technology (DLT) 567Smart Contracts 568Decentralized Apps (dApps) 569Blockchain with Artificial Intelligence 570Consensus mechanismProof of Work 571Delegated Proof of Work 572Proof of Stake, Proof of Authority 573Proof of Integrity 574ExampleBitcoin 575Ethereum 576Cardano, Anion 577Unibright, SEELE 578ApplicationFinancial Sector 579Non-Financial Sector 580Business Platforms 581Industry 4.0 582FeaturesGuaranteed transaction authenticity 583Creating and transferring digital assets 584Completely opensource; autonomous operation 585Faster consensus and transaction confirmation 586
+4. Blockchain Applications 587
+Wherever there is a requirement of trust, security, accuracy, and transparency, there is the application of Blockchain technology. 588
+Blockchain Applications in Government 589
+Blockchain applications can be vividly seen in the government and public sectors. 590Governments can use Blockchain in improving record management. 591Governments keep people's records like birth and property exchanges. 592Blockchain can make the record more secure. 593Decentralized file storage protects files from getting hacked or lost. 594Typical problems faced by governments in many countries pertain to land registry records. 595Keeping track of ownership of hundreds of years of land records is a difficult task. 596The problems faced by land registry officials are: discrepancies with paper work, forged documents, and loss of documents. 597Blockchain technology can take care of these problems in a cost effective way. 598Blockchain technology provides immutable records and secure access as well as storage. 599Governments can use Blockchain in the following areas: 600
+Record management for secure record-keeping of people 601
+Identity management for proof of identity 602
+Government services like public safety and welfare 603
+Payment infrastructures to collect dues, taxes and other payments fast and safe 604
+Smart property to digitally record assets 605
+Financial Applications 606
+The financial sector has seen the benefits of blockchain technology from the very beginning. 607The most popular application of blockchain technology is cryptocurrency. 608Banks and other financial institutions are highly susceptible to money laundering, identity theft and digital transfer of funds. 609These institutions are highly affected as far as services rendered, and reputations are concerned. 610Banking institutions are already using blockchain technology to solve their traditional problems. 611
+Blockchain Applications in Healthcare 612612612612
+There has been an increase in the hacking of healthcare records. 613The year 2018 witnessed the hacking of medical records of 1.4 million patients from the Unity Point Health hospital network of the USA. 614The hacked records included sensitive information, including the patient's social security number and insurance information. 615Blockchain technology provides data security and integrity. 616Patients, healthcare providers (hospitals, doctors, lab technicians etc.), data analysts and insurance providers are key stakeholders of healthcare. 617The Distributed Ledger Technology/Blockchain technology in healthcare guarantees the security and privacy of healthcare data of all stakeholders. 618These stakeholders can share information without compromising data security and integrity. 619
+Blockchain Applications in Industry: 620620620620
+Tracking of movements of goods and services is vital in any industry. 621Visibility at every stage of production is very much needed, whether it is the movement of goods under process or processed goods. 622Blockchain technology can help in tracking the movements of goods and services efficiently. 623Almost all business operations, be it purchase management, customer relationship management, supply chain management or operation management, blockchain technology is there to address business concerns. 624
+Blockchain Application in the Internet of Things (IoT) 625
+In IoT applications, smart devices interact with each other using the internet. 626The biggest concern is the security of data generated by these smart devices within distributed nature of wireless networks. 627As blockchain is distributed public ledger, it will take care of the security of data generated by smart devices. 628
+
+5. Limitations And Challenges Of Blockchain 629
+Though blockchain has numerous benefits, it is prone to some technical challenges also. 630Challenges in terms of scalability, loss of privacy, selfish mining and energy have been discussed here. 631
+Scalability 632
+As transactions are increasing in numbers, the blockchain network keeps on growing day by day. 633As blockchain network is growing, data and resources are burdening the system. 634Due to this reason, nodes will take more time to synchronize data and carry out the complex computation. 635Thus affecting the effective working of the blockchain system. 636Storage optimization and redesigning of blockchain can resolve these issues. 637
+Loss of Privacy 638
+In the blockchain, a considerable amount of privacy is maintained by using a public key cryptography mechanism in transactions to keep the user identity anonymous. 639However, transactional anonymity cannot be assured by blockchain because the identities of all transactions and balances for each cryptographic key are publicly accessible. 640Thus it is possible to recognize the user by keeping track of the transactions. 641
+Selfish Mining 642
+In Bitcoin's blockchain, the process of adding new blocks to the blockchain is called mining, and the nodes that do the job of generating a new block are called miners. 643Selfish Mining is a strategy where an over-ambitious miner secretly keeps his blocks without publishing them. 644It would be revealed to the public only if some conditions were satisfied. 645
+High Energy Consumption 646
+The blockchain network uses Proof of Work (PoW) as a consensus protocol. 647It requires a lot of energy and computing resources to calculate the required hash value for a block. 648
+
+6. Impact Of Blockchain Technology 649
+The impact of blockchain technology can be seen in businesses. 650The impact may be manifested in different forms, such as business models or the business environment. 651The existing business models may change or transform in view of the new reality of market requirements. 652
+Impact of Blockchain Technology in Financial Sector 653653653653
+The introduction of blockchain technology can make its impact the most in the financial sector like banking, where transactions take place. 654The standard practice of transactions in the financial sector like banking is based on a trusted third party. 655This role of a third party is the main source of worry for all stakeholders, and can be eliminated by using blockchain technology. 656The architecture of the standard banking system is based on a centralized server/clients model, and a copy of the database is centralized at the server level only. 657Introducing a blockchain technology based system will result in a peer-to-peer network model, ensuring multiple copies of transactions in a database. 658
+Table 7.3: Comparison of Transactions between Existing Financial Sector like Banking and Blockchain-based Financial Sector like Banking 659Source: Adapted from Blockchain and Distributed Ledger Technology (DLT): What impact on the Financial Sector by Klara Sok 660
+Transactions in Existing Financial sector like BankingTransactions in Blockchain-based Financial sector like bankingTrusted third party 661Trustless 662Centralized server/clients 663Peer-to-peer network 664A single copy of transactions in the database 665Multiple copies of transactions in the database 666Intermediation 667Consensus mechanism/ Proof of work 668Impact of Blockchain Technology Application in Supply Chain: 669
+Supply Chain Management (SCM) is the handling of the entire production flow of goods or services. 670SCM takes into account the handling and processing of raw materials to delivering finished products to the consumers. 671There are five key components of SCM: 672
+Planning 673
+Sourcing 674
+Manufacturing 675
+Delivery and logistics 676
+Returning 677
+When blockchain technology is used in Supply Chain, the following benefits can be had: 678
+All information pertaining to supply and demand can be captured in real time 679
+The status of an item in transition/process can be known 680
+Smart contract management can be done (customized or individual contract can be defined for each function) 681
+Operational efficiency in Supply Chain can be achieved 682
+
+7. Blockchain Platforms/Protocols 683
+The rules that govern a blockchain network are referred to as blockchain protocols. 684Blockchain protocols are essentially the common communication rules that the network follows. 685These rules include the following: 686
+Rules for governing and validating transactions 687
+An algorithm that defines the mechanism for all participating nodes to interact with each other 688
+Application programming interface (API) 689
+Bitcoin 690690690690
+Bitcoin protocol supports crypto payment transactions over a distributed network. 691Characteristics of Bitcoin Protocol: 692
+Every node has access to complete information on the blockchain. Therefore, it is a decentralized one. 693
+Users can conduct a nonreversible transaction without the need to explicitly trust a third party. 694Advantages of Bitcoins: 695
+Payment freedom 696
+Control and Security 697
+Very low fees 698
+Ethereum 699699699699
+Ethereum is a public, open source, blockchain-oriented protocol. 700Ethereum platform allows the use of the smart contract. 701Ethereum is the first prominent platform that introduced the idea that blockchain technology can be used in applications other than cryptocurrency. 702Characteristics of Ethereum Protocol: 703
+This protocol enables developers to build and deploy distributed applications 704
+It allows users to write their own applications 705Advantages of Ethereum: 706
+The energy efficiency is high with the help of Proof of Stakes (POS) 707
+The uptime of the network is high 708
+It is used to develop many decentralized applications 709
+Hyperledger 710710710710
+Hyperledger is an open-source blockchain platform. 711It supports blockchain-based distributed ledgers and cross-industry blockchain technologies. 712Hyperledger protocol mainly supports business transactions. 713Hyperledger is used to solve the problem of enterprise approval of blockchain. 714In Hyperledger, only trusted entities can join the network and verify the transactions. 715Characteristics of Hyperledger Protocol: 716
+Hyperledger blockchain technology is mostly used for business applications 717
+It has a modular and versatile design 718
+It preserves privacy 719Benefits of Hyperledger: 720
+Productivity enhancement 721
+Handling of intellectual property 722
+Data on a need-to-know basis 723
+Rich querying capability 724
+Performance scalability and levels of trust 725
+Ripple 726
+Ripple is an open source blockchain platform. 727Ripple acts as both a cryptocurrency and a digital payment network for financial transactions. 728Characteristics of Ripple Protocol: 729
+Ripple protocol is known for its digital payment network 730
+It has its own cryptocurrency XRP (digital asset Ripple) 731
+Ripple transactions are confirmed in seconds 732
+Ripple transactions use less energy than bitcoin. 733
+R3's Corda 734734734734
+Corda is an open source blockchain protocol used for industries such as financial services, insurance, healthcare, trade finance, and digital assets. 735This protocol is used for storing, coordinating, and controlling financial agreements. 736
+Characteristics of Corda:
+Corda allows businesses to transact securely and seamlessly 737
+This protocol organizes the business operation 738Benefits of Corda: 739
+Privacy 740
+Agile and flexible 741
+Interoperability 742
+Open development 743
+Open design 744
+
+SUMMARY 745
+
+This unit discussed the basics of blockchain technology. 746The learners were introduced to the working of blockchain. 747Further, the essential components of blockchain were outlined to give better insight into the working of blockchain. 748The applications of blockchain technology have seen penetration in various sectors and industries. 749This unit explored a few applications in government, public sectors, finance, healthcare, industry, and the Internet of Things. 750This unit also discussed challenges like scalability, selfish mining and high energy consumption. 751An overview of the evolution of blockchain technology was given to demonstrate the power of blockchain technology in different sectors and industries. 752Blockchain platforms and protocols showed how blockchain can accommodate other sectors and industries. 753
+
+SMART PORT CITIES 754
+CHAPTER 7: SECTION 2 755
+BLOCKCHAIN TECHNOLOGY FOR SMART CITIES 756
+
+Contents 757757757757
+Introduction 758
+Smart Healthcare 759759759759
+Smart Grid 760760760760
+Smart Transportation 761761761761
+Supply Chain Management 762762762762
+Others 763763763763
+Challenges of Applying Blockchain to Smart City Applications 764764764764
+Summary 765765765765
+
+1. Introduction 766
+There are certain key aspects that define a smart city. 767These key aspects are: smart healthcare, smart grid, smart transportation, smart supply chain management, smart government, smart home, and smart education. 768
+Smart healthcare uses a lot of Internet of Things (IoT) devices, and is therefore vulnerable to cyberattack, making blockchain technology very much essential for the security of the healthcare systems. 769
+A smart grid is an essential component in any smart city, and many aspects of a smart city are dependent upon it. 770If energy is not available for a significant duration, other functions will eventually cease. 771Thus, the smart grid is a very essential part of a smart city. 772
+As consumers become prosumers and distributed energy resources become part of the grid, the existing energy market will have to shift towards a transactive energy market. 773
+Electric Vehicles (EVs) will be part of any smart city. 774Charging of EVs using distributed energy resources is crucial; location of charging infrastructure and decentralized payment to charging stations using blockchain technology will enhance a lot of efficiency. 775
+Smart supply chain management is crucial for any smart city, and one using blockchain technology can bring full end-to-end visibility for customers. 776
+Other aspects like smart government, smart citizen and smart home are essential, and blockchain can be utilized to bring transparency and immutability of information, apart from addressing security issues. 777
+Objectives 778
+In this unit, you will learn about blockchain technology in smart cities. 779After reading this unit, you will be able to: 780
+Appreciate applications of blockchain technology in smart healthcare 781
+Understand applications of blockchain technology in smart grid 782
+Identify key applications of blockchain in smart transportation 783
+Understand the applications of blockchain in smart supply chain management 784
+Discuss various challenges in applying blockchain in smart cities 785
+
+2. Smart Healthcare 786
+Hospitals, patients and governments are taking threats to vital patient data very seriously. 787
+A few critical concerns in healthcare need to be addressed:
+First and foremost is the privacy of a patient's data. 788
+The other important concern is the availability of real-time accurate and trusted data to the medical practitioner. 789
+In any smart city, a doctor attending to a patient should have up to-date data so as to provide the right treatment to the patient. 790Data in the health care sector is institution-centric. 791There is a need to shift data from being institution-centric to patient-centric. 792
+Blockchain-based smart contracts are used to secure sensitive information and maintain the privacy aspect. 793Smart contracts create an environment in which a significant amount of operations become automatic. 794The information stored becomes accurate, immutable and requires the approval of proper authorities in all cases. 795
+The applications of blockchain technology are discernible in the following health care areas: 796
+Electronic health record 797
+Biomedical research 798
+Health insurance 799
+Remote patient monitoring 800
+Health data analytics 801
+Remote Patient Monitoring
+Remote patient monitoring is a healthcare delivery method that uses technology to monitor patient health outside of a traditional clinical setting. 802Patients are monitored through wearable devices like insulin pumps, and data pertaining to health readings is transmitted for diagnosis and treatment. 803As remote patient monitoring is growing, secure transmission of health-related data is increasing. 804It is important to prevent access to these vital data from falling into the hands of unauthorized and unscrupulous elements. 805Blockchain-based smart contracts can transmit data that can be trusted and is unalterable. 806
+A blockchain-based smart contract remote patient monitoring system is shown in Figure 7.3. 807Smart contracts are created for IoT devices, enrollment of patients and doctors, and patient monitoring. 808Vital data are continuously monitored, and in case of any deviation from set parameters, the health centre will alert the doctor and patient. 809
+Figure 7.3: Blockchain-based Remote Patient Monitoring Healthcare System 810
+Smart Contracts: (IoT Device, Enrollment of Patients and Doctors, Patient Monitoring) 811connects to Health Centre 812and Master Device813813813813.
+Patients with body sensors 814814814814send data to Master Device815815815815.
+Health Centre 816connects to Doctors817.
+Doctors 818connect to Master Device819819819819.
+Master Device 820820820820connects back to Smart Contracts. 821
+Handling of Medical Prescription 822
+When a family doctor or general practitioner writes a prescription, the issue of genuine medicine by the pharmacy or medical store is an important concern for the doctor and the patient both. 823Blockchain technology can eliminate any mismanagement and possible fraudulent practices involved in delivering medicine to the patient. 824
+A doctor will write a prescription and will put the patient's record in the blockchain using a smart contract. 825The pharmacy or medical store will access the prescription through blockchain after getting permission from the doctor and patient. 826Pharmacy issues medicine after checking the expiry date and prescribed dosage of the medicine to the patient. 827This saves time for both and brings an element of satisfaction between doctor and patient, as the patient will not have to show prescribed medicines to the doctor again for confirmation of the genuineness of the medicine. 828
+Figure 7.4: Blockchain-based Prescription Handling Process 829
+Patient 830connects to Medical Store831.
+Medical Store 832and Doctor 833interact with Blockchain834.
+Healthcare Data Sharing, Storage and Access 835
+A simple model of blockchain-based healthcare management is shown in Figure 7.5. 836The interaction between patient and doctor results in data generation. 837This data and other relevant data (laboratory reports) are part of the electronic health record (EHR) created for the patient. 838The patient is the owner of the electronic health record. 839Other entities can request for accessing the EHR from the owner, i.e. the patient. 840Blockchain provides the necessary privacy of data. 841Healthcare providers may access data as per the patient's permission. 842
+Figure 7.5: Blockchain-based Healthcare Data Management 843
+Interaction between patient and doctor 844leads to Electronic Health Record845.
+Electronic Health Record 846leads to Access Control to Patient847.
+Access Control to Patient 848leads to Blockchain849.
+Blockchain 850leads to Healthcare Providers851.
+
+3. Smart Grid 852
+A smart grid performs three important tasks: 853
+Modernization of power systems 854
+Empowering consumers to use energy smartly 855
+Safe and secure Integration of Renewable Energy Resources 856
+Modernization of power systems involves automation, remote monitoring and control, and self-healing designs at the centre of the modernization of power plants. 857
+Empowering consumers requires information: Consumers must know their energy consumption patterns, cost of the energy, and alternative options of energy they can use. 858Given this information, consumers should be able to take decisions of their own on using the energy of their choice at different time intervals. 859
+The integration of renewable energy resources is a challenging task. 860If resources are variable (like wind energy and solar power), grid balancing needs to be taken into account. 861The smart grid makes energy infrastructure safe, secure, reliable and resilient. 862The smart grid is a very essential part of a smart city because many other functions depend on it, and would cease if energy were unavailable for a significant duration. 863
+Elements of Smart Grid 864864864864
+Following are important elements of the smart grid: 865
+Smart Metering 866
+Prosumers 867
+Microgrids 868
+Virtual Power Plant 869
+Vehicle to Grid (V2G) 870
+Smart Metering: The smart meter records the power usage of the consumer and communicates this data in a timely manner to the utility centre. 871It is essential to collect precise and appropriate data in a timely manner, including gathering data, its communication and storage. 872The smart meter allows the bi-directional flow of information from consumer to utility and vice versa. 873
+Prosumers: These are consumers who also produce and share surplus energy with the grid and other users. 874They are an important stakeholder in the smart grid and have a vital role in peak demand management. 875A prosumer can generate electricity through the solar rooftop, by participating in demand response and using storage batteries. 876
+Microgrids: The DOE defines the microgrid as "a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries that acts as a single controllable entity with respect to the grid. A microgrid can connect and disconnect from the grid to enable it to operate in both grid connected or island mode." 877
+Virtual Power Plant (VPP): A VPP may be defined as a group of distributed energy sources (like solar, wind, storage battery) that combine to function as a dispatchable unit. 878This means remotely controlling scattered energy sources such as distributed power sources and storage batteries with IoT devices to make them function as if they were one power plant. 879By adjusting the balance between demand and supply using VPP, renewable energy can be used stably. 880
+Vehicle to Grid (V2G): V2G supports two-way power flow to and from the grid. 881An Electric Vehicle owner can take electricity from the grid when charging is needed and can provide electricity to the grid. 882
+Blockchain-based Transactive Electricity Market 883883883883
+In any power system, power producers generate electricity. 884The generated electricity is delivered to consumers through transmission and distribution networks. 885In conventional power systems, electricity markets (e.g., IEX in India) provide a platform for the physical delivery of electricity. 886The seller submits offers to sell the energy and the buyers submit bids to buy the energy. 887After accepting the offers and bids, the market operator does the needful to arrive at the market clearing price (MCP). 888
+A blockchain-based decentralized transactive energy auction system consists of four key entities: bidders, sellers, smart meters, and smart contracts. 889
+Sellers initiate new auctions and advertise the available energy to the blockchain. 890
+Bidders monitor the new auctions and submit bids. 891
+Smart meters are used to report how much energy is sold or consumed during a time period. 892
+The auction data from bidders, sellers and smart meters are stored on the blockchain. 893
+Finally, price auction and payment functions are executed automatically via smart contracts. 894
+Figure 7.6: Blockchain-based Transactive Power Market 895
+Transactive Electricity Market 896and Independent Power Producers 897connect to the Blockchain-based Electricity Energy Platform898.
+Power Producers 899connect to TSO900.
+TSO 901connects to DSO902.
+DSO 903connects to Prosumers/Consumers904.
+Power Producers, TSO, DSO, and Prosumers/Consumers all connect to the Blockchain-based Electricity Energy Platform905.
+
+4. Smart Transportation 906
+Smart transportation is one of the important components in the development of smart cities. 907It can provide solutions to many issues that relate to traffic on the road, making it an important building block. 908The goal is to enhance road safety for vehicles and traffic and travel efficiency. 909In smart transportation, a vehicle usually has multiple network interfaces to communicate with Road Side Units (RSUs) and vehicles in the vicinity. 910
+In smart cities, the transportation sector will be driven mainly by electric vehicles. 911With the use of Information Communication Technologies (ICT), these vehicles will be smart vehicles. 912ICT based road transport is an Intelligent Transport System (ITS). 913However, ITS faces issues like centralization, trust and data integrity. 914Data generated from the vehicles may be intercepted, manipulated and corrupted. 915With the help of blockchain, a decentralized, trusted and secure smart transportation system can be established. 916
+Electric Vehicle Charging Management 917
+An electric vehicle (EV) is an important means of transportation in smart cities. 918Deployment of charging infrastructure is a must for charging EVs. 919Payment to the charging station after getting recharged is an important process, as is finding a charging station at the appropriate time and place. 920Blockchain technology and smart contract can take care of electricity trading between electric vehicles and charging stations. 921
+Blockchain-based electric vehicle charging management can take place in four stages: 922
+An electric vehicle will send a request for charging to the blockchain (Selection of charging station). 923923923923Blockchain will have parameters like amount of energy, time interval and geographic location. 924
+Nearby charging stations will send bids for this request at the bidding stage (Bidding). 925925925925
+Then the electric vehicle will select a charging station based on optimal bid (Request for charging). 926926926926
+Finally, the agreed transaction is executed by the selected charging station to provide a certain amount of energy at a specified price at a particular time interval (Charging and Transaction). 927927927927
+The transaction information between electric vehicles and charging stations is stored in blockchain. 928Smart contracts can be employed to execute an automatic trading process. 929
+Vehicular Adhoc Networks (VANETs) 930930930930
+VANETs are the most prominent enabling network technology for Intelligent Transportation Systems. 931They are adhoc networks formed by fast moving vehicles which come in contact momentarily and exchange momentarily. 932Through VANETs, vehicles can communicate with the roadside unit or with each other without involving any central authority. 933As VANETs are adhoc networks, it is difficult to maintain trust, security and authenticity of information exchanged. 934Inaccurate messages shared by malicious vehicles may impact traffic safety and efficiency. 935
+There is a need for vehicle authentication to guarantee secure data exchange between vehicles. 936Blockchain technology can be deployed for securing message transmission in a decentralized environment. 937
+Each vehicle will first generate a rating for neighbouring vehicles as per received messages, and will upload the rating results to its connected Road Side Unit (RSU). 938
+Based on the rating results from vehicles, each RSU calculates the trust values of its involved vehicles and puts the data into a block.
+The consensus mechanisms to add the block into the blockchain may be Proof of Work or Proof of Stake.
+Thus all RSUs maintain a reliable and consistent public ledger to store the trust values of all vehicles.
+Each vehicle can easily get other vehicles' trust values from RSUs enabling vehicles to assess the trustworthiness of received messages.
+Ride Sharing 939
+Cabs services provided by startups like Uber and Ola follow a centralized approach. As the process of booking is done by an intermediary, there is a lack of transparency. With blockchain, users can connect directly to the drivers. The absence of a third party will reduce the cost of the cab service. HireGo is a startup that provides a decentralized P2P car rental platform based on blockchain technology. HireGo utilizes a technology based on the Ethereum blockchain. 940
+
+5. Supply Chain Management 941
+Supply chain management is crucial for any organization because doing it well can introduce several benefits; however, poor management can result in very expensive delays, quality issues, or reputation. 942Blockchain can be utilized in SCM to track detailed information of products as well as business information sharing among parties or entities. 943
+Blockchain can be utilized to transform many SCM practices, including: 944
+Enhancing product safety and security 945
+Improving quality management 946
+Reducing illegal counterfeiting 947
+Improving sustainable supply chain management 948
+Advancing inventory management and replenishment 949
+Reducing the need for intermediaries 950
+Impacting new product design and development 951
+Reducing the cost of supply chain transactions. 952
+Supply Chain Traceability 953
+Traceability is defined as the ability to trace the history, application, use and location of an item or its characteristics through recorded identification data (ISO 9000). 954The main features of blockchain technology include transparency, irreversibility of records and peer-to-peer-transition. 955This makes blockchain technology suitable to trace the physical flow information of products from producers to end consumers. 956
+Compliance with Standards 957
+Blockchain technology can be used for real-time monitoring and tracking of data for complying with different standards with the help of installed sensors throughout the supply chain. 958The medical industry has a strict requirement in terms of temperature and humidity during the shipment of medical products. 959Blockchain technology can help in complying with this requirement through installed sensors throughout the supply chain. 960Modum, a startup company in the domain of smart supply chain, utilizes blockchain technology for full end-to-end visibility for customers, from manufacturers to patients. 961
+Supply Chain Finance 962
+Blockchain technology can be utilized to trace and monitor the financial flows and allocation of financial resources in the supply chain. 963In supply chain finance, blockchain technology can be used to share and monitor financing related information, such as the latest invoice status, check credit limit and payment in a trusted and transparent manner. 964
+Pharmaceutical Supply Chain Management Using Blockchain 965
+A block diagram of a pharmaceutical supply chain using blockchain technology is shown in Figure 7.8. 966Seven steps depicted in Figure 7.8 are: 967
+i. Patent of new medicine after Research & Development 968
+ii. Mass production and packaging of medicines 969
+iii. Keeping medicines in a warehouse for onward journey 970
+iv. Transportation of medicine 971v. Warehouse out signifies third party distribution network 972
+vi. Healthcare providers like hospitals and clinics use medicines and Retailers also sell medicines 973
+vii. Medicine reaches patients 974Information at every step is recorded in the blockchain. 975
+
+6. Other Aspects 976
+Smart Government 977
+Whenever any transaction or information exchange takes place, this transaction or information exchange may be made more secure by using blockchain technology. 978A lot of transaction takes place between the government and citizens. 979Some of the processes for which blockchain can be introduced have been enumerated below: 980
+E-voting 981
+Passports 982
+Business licenses 983
+Digital identity 984
+Storing of judicial decisions 985
+Property titles 986
+Storage of academic certificates 987
+Traditional e-voting solutions may not be easily auditable or sufficiently transparent. 988Blockchain-based e-voting can make e-voting transparent and auditable. 989There are various use cases of blockchain technology in egovernance. 990Georgia uses blockchain technology (Smart contracts) for the registration of property titles. 991Estonia has implemented e-Residency allowing anyone in the world to have a government backed digital identity. 992
+Smart Home 993
+A smart home is an Internet of Things (IoT) integrated residence. 994Smart TV, smart phone, smart lock, wearable devices, CCTV and smart meter constitute the IoT ecosystem. 995A smart home facilitates independent living for people. 996But smart home is also prone to cyber attacks that may compromise the security and privacy of users. 997Blockchain technology is capable of addressing the security and privacy of user data. 998The hallmark of any smart city is the fast and secure communication between smart home and city authorities. 999This unknown security threat can be eliminated by utilizing blockchain-based systems. 1000
+Digital Rights Management 1001
+Digital rights management tries to control the use, modification, and distribution of copyrighted works (software and multimedia content). 1002Digital rights management is very important for the protection of intellectual properties. 1003In general, the blockchain can promote copyright management by storing copyrights information on the blockchain. 1004The immutable information stored on the blockchain can solve copyright disputes. 1005Furthermore, smart contracts can be used to control copyrights transactions automatically. 1006
+
+7. Challenges Of Applying Blockchain to Smart City Applications 1007
+Data Storage: 1008
+A huge quantity of data is generated by millions of devices in smart cities. 1009It is a challenge to process this immense volume, variety, and velocity of data. 1010In the traditional blockchain systems, each node must be capable of processing all transactions and maintaining the complete transactions back to the first block (i.e., genesis block). 1011Therefore, it is a challenge to directly apply blockchain technology to smart city scenarios where devices have limited storage resources. 1012One possible approach is storing only the pointers on the blockchain and the rest of the blockchain for catering to the volume of data. 1013
+Throughput and Latency: 1014
+Throughput and latency are important issues to address when applying blockchain technology to smart cities. 1015
+Throughput is the maximum number of transactions within a certain predefined time. 1016
+Latency represents transaction processing time. 1017Throughput for bitcoin blockchain is 7 transactions per second and for Ethereum blockchain throughput is 15 transactions per second. 1018As the throughput of blockchain systems depend upon the number of transactions and block interval time, throughput can be increased either by increasing block size or reducing block interval time. 1019Increasing blockchain size will make the generation and propagation of blocks cumbersome. 1020Likewise, reducing block time intervals may cause the production of stale blocks. 1021Therefore, to support millions of devices in smart cities, it is necessary to introduce ways to increase the throughput of blockchain systems without compromising security. 1022
+Scalability: 1023
+Every full node in a blockchain network stores all records and participates in the validation process. 1024So blockchain is difficult to scale due to its decentralized nature. 1025As the number of smart devices would grow substantially in smart cities, it will be a challenge to implement blockchain-based smart city infrastructure. 1026
+Identity and Privacy: 1027
+In public blockchain transactional details and encrypted keys are open and visible to everybody in that network. 1028Each participating device can be identified using its public address. 1029Thus, any adversary can infer critical information of users from this public infrastructure. 1030Various ways have been suggested to tackle this challenge. 1031
+Regulation: 1032
+In smart cities, data is generated in different formats for different devices. 1033For sharing and exchanging data among various entities in smart cities, data format and standards should be considered. 1034
+
+SUMMARY 1035
+
+This unit discussed various key aspects that define a smart city. 1036Prominent key aspects discussed were: Smart healthcare, smart grid, smart transportation, and smart supply chain management. 1037Blockchain application in these key aspects was discussed. 1038It was shown that blockchain features of the immutability of records and transparency make its application in securing vital entities of smart cities. 1039It was also seen how sensors and smart contracts can make a smart supply chain. 1040In smart cities, millions of devices generate data, and the vulnerabilities of these devices can be minimized by the use of blockchain technology. 1041Apart from these challenges of implementing blockchain technology in smart cities were also discussed so as to overcome these bottlenecks. 1042
+
+STUDY QUESTIONS 1043
+CHALLENGE QUESTIONS 1044
+
+Thank You 1045
+
